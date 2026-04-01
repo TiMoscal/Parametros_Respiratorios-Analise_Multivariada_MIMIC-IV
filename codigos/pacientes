@@ -3,9 +3,9 @@ import pandas as pd
 from pathlib import Path
 import re
 
-# =========================
+# ===========================
 # 1) CAMINHOS
-# =========================
+# ===========================
 desktop = Path.home() / "Desktop"
 
 d_items_file = desktop / "d_items.csv.gz"
