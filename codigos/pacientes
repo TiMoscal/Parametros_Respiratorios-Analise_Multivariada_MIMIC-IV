@@ -1,0 +1,256 @@
+import pandas as pd
+from pathlib import Path
+
+# =========================
+# 1) CAMINHOS
+# =========================
+desktop = Path.home() / "Desktop"
+
+d_items_file = desktop / "d_items.csv.gz"
+procedureevents_file = desktop / "procedureevents.csv.gz"
+diagnoses_icd_file = desktop / "diagnoses_icd.csv.gz"
+d_icd_diagnoses_file = desktop / "d_icd_diagnoses.csv.gz"
+
+# =========================
+# 2) LER ARQUIVOS
+# =========================
+d_items = pd.read_csv(
+    d_items_file,
+    compression="gzip",
+    usecols=["itemid", "label"]
+)
+
+proc = pd.read_csv(
+    procedureevents_file,
+    compression="gzip",
+    usecols=["hadm_id", "itemid"]
+)
+
+diagnoses = pd.read_csv(
+    diagnoses_icd_file,
+    compression="gzip"
+)
+
+d_icd = pd.read_csv(
+    d_icd_diagnoses_file,
+    compression="gzip"
+)
+
+# =========================
+# 3) PEGAR HADM_ID DE ENTUBADOS
+# =========================
+intub_keywords = [
+    "intubat",
+    "endotracheal",
+    "ett",
+    "mechanical ventilation",
+    "ventilator",
+    "invasive vent"
+]
+
+d_items["label_lower"] = d_items["label"].fillna("").astype(str).str.lower()
+
+intub_itemids = set(
+    d_items[
+        d_items["label_lower"].str.contains("|".join(intub_keywords), na=False)
+    ]["itemid"]
+)
+
+entubados_hadm = proc[proc["itemid"].isin(intub_itemids)]["hadm_id"].dropna().unique()
+
+print(f"Número de hadm_id entubados: {len(entubados_hadm)}")
+
+# =========================
+# 4) FILTRAR DIAGNÓSTICOS DOS ENTUBADOS
+# =========================
+diagnoses_entubados = diagnoses[diagnoses["hadm_id"].isin(entubados_hadm)].copy()
+
+# juntar descrição do ICD
+diag_full = diagnoses_entubados.merge(
+    d_icd,
+    on=["icd_code", "icd_version"],
+    how="left"
+)
+
+diag_full["long_title_lower"] = diag_full["long_title"].fillna("").astype(str).str.lower()
+
+
+# =========================
+# 5) DEFINIR REGRAS
+# =========================
+# Sepse como diagnóstico principal (seq_num = 1)
+sepsis_keywords = [
+    "sepsis",
+    "septic",
+    "severe sepsis",
+    "septic shock"
+]
+
+# Respiratório como seq_num = 2
+resp_keywords = [
+    "respiratory",
+    "pneumonia",
+    "pulmonary",
+    "resp failure",
+    "respiratory failure",
+    "acute respiratory failure",
+    "chronic respiratory failure",
+    "hypox",
+    "hypercap",
+    "copd",
+    "asthma",
+    "bronch",
+    "lung",
+    "pleura",
+    "pleural",
+    "atelect",
+    "aspiration",
+    "ards",
+    "adult respiratory distress"
+    "emphysema"
+    "dyspnea"
+]
+
+def has_any_keyword(series, keywords):
+    pattern = "|".join(keywords)
+    return series.str.contains(pattern, na=False)
+
+# =========================
+# 6) PEGAR SEQ_NUM 1 = SEPSE
+# =========================
+seq1 = diag_full[diag_full["seq_num"] == 1].copy()
+seq1_sepsis = seq1[has_any_keyword(seq1["long_title_lower"], sepsis_keywords)].copy()
+
+print(f"HADM_ID com seq_num=1 de sepse: {seq1_sepsis['hadm_id'].nunique()}")
+
+# =========================
+# 7) PEGAR SEQ_NUM 2 = RESPIRATÓRIO
+# =========================
+seq2 = diag_full[diag_full["seq_num"] == 2].copy()
+seq2_resp = seq2[has_any_keyword(seq2["long_title_lower"], resp_keywords)].copy()
+
+print(f"HADM_ID com seq_num=2 respiratório: {seq2_resp['hadm_id'].nunique()}")
+
+# =========================
+# 8) INTERSEÇÃO:
+# entubados + seq1 sepse + seq2 respiratório
+# =========================
+final_df = seq1_sepsis[[
+    "hadm_id", "icd_code", "icd_version", "long_title"
+]].rename(columns={
+    "icd_code": "seq1_icd_code",
+    "icd_version": "seq1_icd_version",
+    "long_title": "seq1_long_title"
+}).merge(
+    seq2_resp[[
+        "hadm_id", "icd_code", "icd_version", "long_title"
+    ]].rename(columns={
+        "icd_code": "seq2_icd_code",
+        "icd_version": "seq2_icd_version",
+        "long_title": "seq2_long_title"
+    }),
+    on="hadm_id",
+    how="inner"
+)
+
+# imprimir os seq2_long_title únicos
+valores = final_df["seq2_long_title"].dropna().unique()
+
+valores = final_df[~final_df["seq2_long_title"].isin([
+    "Abscess of lung",
+    "Acute edema of lung, unspecified",
+    "Acute postprocedural respiratory failure",
+    "Acute pulmonary edema",
+    "Acute respiratory failure following trauma and surgery",
+    "Candidiasis of lung",
+    "Gangrene and necrosis of lung",
+    "Invasive pulmonary aspergillosis",
+    "Other pulmonary embolism and infarction",
+    "Other pulmonary embolism with acute cor pulmonale",
+    "Other pulmonary embolism without acute cor pulmonale",
+    "Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery",
+    "Pulmonary insufficiency following trauma and surgery",
+    "Septic pulmonary embolism without acute cor pulmonale"
+])]["seq2_long_title"].dropna().unique()
+
+# =========================
+# 8.1) CLASSIFICAR DIAGNOSTICO
+# =========================
+grupo_1 = [
+    "Bacterial pneumonia, unspecified",
+    "Bronchopneumonia, organism unspecified",
+    "Influenza due to identified avian influenza virus with pneumonia",
+    "Influenza due to other identified influenza virus with other specified pneumonia",
+    "Influenza due to other identified influenza virus with unspecified type of pneumonia",
+    "Influenza due to unidentified influenza virus with specified pneumonia",
+    "Influenza with pneumonia",
+    "Lobar pneumonia, unspecified organism",
+    "Methicillin resistant pneumonia due to Staphylococcus aureus",
+    "Methicillin susceptible pneumonia due to Staphylococcus aureus",
+    "Other pneumonia, unspecified organism",
+    "Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]",
+    "Pneumonia due to Escherichia coli",
+    "Pneumonia due to Hemophilus influenzae",
+    "Pneumonia due to Hemophilus influenzae [H. influenzae]",
+    "Pneumonia due to Klebsiella pneumoniae",
+    "Pneumonia due to Legionnaires' disease",
+    "Pneumonia due to Methicillin resistant Staphylococcus aureus",
+    "Pneumonia due to Methicillin susceptible Staphylococcus aureus",
+    "Pneumonia due to Pseudomonas",
+    "Pneumonia due to Streptococcus pneumoniae",
+    "Pneumonia due to escherichia coli [E. coli]",
+    "Pneumonia due to other Gram-negative bacteria",
+    "Pneumonia due to other gram-negative bacteria",
+    "Pneumonia due to other streptococci",
+    "Pneumonia in aspergillosis",
+    "Pneumonia in other systemic mycoses",
+    "Pneumonia, organism unspecified",
+    "Pneumonia, unspecified organism",
+    "Unspecified bacterial pneumonia",
+    "Viral pneumonia, unspecified"
+]
+
+grupo_2 = [
+    "Acute and chronic respiratory failure",
+    "Acute and chronic respiratory failure with hypercapnia",
+    "Acute and chronic respiratory failure with hypoxia",
+    "Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia",
+    "Acute respiratory distress syndrome",
+    "Acute respiratory failure",
+    "Acute respiratory failure with hypercapnia",
+    "Acute respiratory failure with hypoxia",
+    "Acute respiratory failure, unspecified whether with hypoxia or hypercapnia",
+    "Bronchiectasis without acute exacerbation",
+    "Other pulmonary insufficiency, not elsewhere classified",
+    "Pulmonary eosinophilia",
+    "Respiratory failure, unspecified with hypercapnia",
+    "Respiratory failure, unspecified with hypoxia",
+    "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",
+    "Septic pulmonary embolism"
+]
+
+final_df["diagnostico_entrada"] = None
+
+final_df.loc[
+    final_df["seq2_long_title"].isin(grupo_1),
+    "diagnostico_entrada"
+] = "sepse_pneumonia"
+
+final_df.loc[
+    final_df["seq2_long_title"].isin(grupo_2),
+    "diagnostico_entrada"
+] = "sepse_resp_failure"
+
+final_df = final_df[final_df["diagnostico_entrada"].notna()].copy()
+final_df = final_df[["hadm_id", "diagnostico_entrada"]].copy()
+
+# =========================
+# 9) SALVAR CSV
+# =========================
+output_file = desktop / "entubados_seq1_sepse_seq2_respiratorio2.csv"
+final_df.to_csv(output_file, index=False)
+
+print(f"CSV salvo em: {output_file}")
+print(final_df.head())
+print(len(final_df))
+
