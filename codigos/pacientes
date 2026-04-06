@@ -62,7 +62,22 @@ intub_keywords = [
     "invasive vent"
 ]
 
+excluir_keywords = [
+    "atrial",
+    "ventricular",
+    "pacemaker",
+    "temporary"
+]
+
+
 d_items["label_lower"] = d_items["label"].fillna("").astype(str).str.lower()
+
+mask_intub = d_items["label_lower"].str.contains("|".join(intub_keywords), na=False)
+mask_excluir = d_items["label_lower"].str.contains("|".join(excluir_keywords), na=False)
+
+intub_itemids = set(
+    d_items[mask_intub & ~mask_excluir]["itemid"]
+)
 
 intub_itemids = set(
     d_items[
