@@ -124,7 +124,7 @@ final_df = final_df.drop_duplicates(subset=["hadm_id", "diagnostico"]).reset_ind
 # =========================
 # 7) SALVAR CSV
 # =========================
-output_file = desktop / "final_entubados_com_morte.csv"
+output_file = desktop / "pacientes.csv"
 final_df.to_csv(output_file, index=False)
 
 print(f"Arquivo salvo com as colunas: {final_df.columns.tolist()}")
