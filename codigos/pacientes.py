@@ -125,8 +125,6 @@ final_df = final_df.drop_duplicates(subset=["hadm_id", "diagnostico"])
 ids_excluir_fixos = [20451446, 24083260, 27561156, 25377349, 26016930]
 final_df = final_df[~final_df["hadm_id"].isin(ids_excluir_fixos)].reset_index(drop=True)
 
-# Remover colunas auxiliares se desejar
-final_df = final_df.drop(columns=["hospital_expire_flag", "morte"], errors='ignore')
 
 # =========================
 # 7) SALVAR
