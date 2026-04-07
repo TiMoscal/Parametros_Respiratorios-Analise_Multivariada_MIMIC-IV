@@ -121,6 +121,10 @@ if "hospital_expire_flag" in final_df.columns:
 
 final_df = final_df.drop_duplicates(subset=["hadm_id", "diagnostico"]).reset_index(drop=True)
 
+ids_excluir = [20451446, 24083260, 27561156, 25377349, 26016930, 23974949, 23911112]
+
+final_df = final_df[~final_df["hadm_id"].isin(ids_excluir)].copy()
+
 # =========================
 # 7) SALVAR CSV
 # =========================
