@@ -102,13 +102,14 @@ df_seq1_diag = df_seq1_diag[df_seq1_diag["diagnostico"].notna()][["hadm_id", "di
 # =====================================================
 # 6) LÓGICA DE FILTRAGEM E REINTUBAÇÃO (UNIÃO 1 + 2)
 # =====================================================
-pacientes_base = pd.concat([df_sepse_resp[["hadm_id", "diagnostico"]], df_seq1_diag], ignore_index=True)
+pacientes_base = pd.concat([df_sepse_resp, df_seq1_diag], ignore_index=True)
 
-# Cruzar com óbitos (Código 2)
+# Cruzar com admissões para saber quem morreu (0 = Vivo, 1 = Morto)
 pacientes_base = pacientes_base.merge(admissions, on="hadm_id", how="left")
 pacientes_base["morte"] = pacientes_base["hospital_expire_flag"].fillna(0).astype(int)
 
-# Regra: Se não tem extubação e não morreu, o dado está incompleto (Remover)
+# Regra do Código 2: 
+# Se NÃO tem registro de extubação E NÃO morreu, assumimos dado incompleto e removemos.
 sem_extubacao = set(pacientes_base["hadm_id"].unique()) - ids_com_extubacao
 ids_para_remover = pacientes_base.loc[
     (pacientes_base["hadm_id"].isin(sem_extubacao)) & (pacientes_base["morte"] == 0), 
@@ -117,14 +118,13 @@ ids_para_remover = pacientes_base.loc[
 
 final_df = pacientes_base[~pacientes_base["hadm_id"].isin(ids_para_remover)].copy()
 
-# Adicionar flag de Reintubação (Código 2)
+# Adicionar flag de Reintubação
 final_df["reintubacao"] = final_df["hadm_id"].isin(ids_reintubados).astype(int)
 
-# Limpeza Final
+# Limpeza Final de duplicatas e IDs específicos
 final_df = final_df.drop_duplicates(subset=["hadm_id", "diagnostico"])
 ids_excluir_fixos = [20451446, 24083260, 27561156, 25377349, 26016930]
 final_df = final_df[~final_df["hadm_id"].isin(ids_excluir_fixos)].reset_index(drop=True)
-
 
 # =========================
 # 7) SALVAR
