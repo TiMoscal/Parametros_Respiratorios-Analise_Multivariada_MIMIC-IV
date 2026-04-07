@@ -91,7 +91,27 @@ df_seq1_diag["diagnostico"] = "primario_respiratorio"
 df_seq1_diag = df_seq1_diag[["hadm_id", "diagnostico"]]
 
 # =====================================================
-# 6) UNIÃO E LÓGICA DE MORTE (AQUI FICA A COLUNA MORTE)
+# 6) CORTANDO PACIENTES COM INTUBAÇÃO > 30 DIAS
+# =====================================================
+# calcular duração por evento
+proc_intub["endtime"] = pd.to_datetime(proc_intub["endtime"], errors="coerce")
+proc_intub["duracao_dias"] = (
+    (proc_intub["endtime"] - proc_intub["starttime"]).dt.total_seconds() / (60 * 60 * 24)
+)
+
+# pegar hadm_id com intubação muito longa
+ids_intub_longa = proc_intub.loc[
+    proc_intub["duracao_dias"] > 30,
+    "hadm_id"
+].unique()
+
+print(f"Pacientes com intubação > 30 dias: {len(ids_intub_longa)}")
+
+# remover do dataset final
+final_df = final_df[~final_df["hadm_id"].isin(ids_intub_longa)].copy()
+
+# =====================================================
+# 7) UNIÃO E LÓGICA DE MORTE 
 # =====================================================
 pacientes_unificados = pd.concat([df_sepse_resp[["hadm_id", "diagnostico"]], df_seq1_diag], ignore_index=True)
 
@@ -126,7 +146,7 @@ ids_excluir = [20451446, 24083260, 27561156, 25377349, 26016930, 23974949, 23911
 final_df = final_df[~final_df["hadm_id"].isin(ids_excluir)].copy()
 
 # =========================
-# 7) SALVAR CSV
+# 8) SALVAR CSV
 # =========================
 output_file = desktop / "pacientes.csv"
 final_df.to_csv(output_file, index=False)
