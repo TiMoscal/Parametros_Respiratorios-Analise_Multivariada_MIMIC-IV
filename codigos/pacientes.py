@@ -326,8 +326,25 @@ df_seq1.loc[
 
 df_seq1 = df_seq1[df_seq1["diagnostico"].notna()][["hadm_id", "diagnostico"]].copy()
 
+# =========================
+# 8) LÓGICA DE FILTRAGEM (REMOVER VIVOS SEM DADO)
+# =========================
+
+# Identifica quem NÃO tem extubação
+sem_extubacao = set(pacientes["hadm_id"].unique()) - ids_com_extubacao
+
+# Identifica quem desses está VIVO (hospital_expire_flag == 0)
+ids_para_remover = admissions.loc[
+    (admissions["hadm_id"].isin(sem_extubacao)) & 
+    (admissions["hospital_expire_flag"] == 0), 
+    "hadm_id"
+].unique()
+
+# Cria o dataset limpo
+final_df = pacientes[~pacientes["hadm_id"].isin(ids_para_remover)].copy()
+
 # =====================================================
-# 8) JUNTAR TUDO EM UMA ÚNICA SAÍDA
+# 9) JUNTAR TUDO EM UMA ÚNICA SAÍDA
 # =====================================================
 final_df = pd.concat([df_sepse_resp, df_seq1], ignore_index=True)
 
