@@ -8,11 +8,11 @@ import matplotlib.pyplot as plt
 
 pacientes = r"C:\Users\timos\OneDrive\Documentos\MIMIC-IV\mimic-iv-2.2\mimic-iv-2.2\projeto_extencao\outputs\pacientes_por_dia_intubado.csv"
 
+output = r"C:\Users\timos\OneDrive\Documentos\MIMIC-IV\mimic-iv-2.2\mimic-iv-2.2\projeto_extencao\mimic_respiratorio\resultados.csv"
+
 chartevents = r"C:\Users\timos\OneDrive\Documentos\MIMIC-IV\mimic-iv-2.2\mimic-iv-2.2\icu\chartevents.csv.gz"
 inputevents = r"C:\Users\timos\OneDrive\Documentos\MIMIC-IV\mimic-iv-2.2\mimic-iv-2.2\icu\inputevents.csv.gz"
 labevents = r"C:\Users\timos\OneDrive\Documentos\MIMIC-IV\mimic-iv-2.2\mimic-iv-2.2\hosp\labevents.csv.gz"
-
-output = r"C:\Users\timos\OneDrive\Documentos\MIMIC-IV\mimic-iv-2.2\mimic-iv-2.2\projeto_extencao\mimic_respiratorio\resultados.csv"
 
 # =========================================================
 # 2) CONFIGURAÇÃO DAS COLUNAS DA TABELA BASE
@@ -92,7 +92,6 @@ def gerar_eventos_agregados(df, group_cols, value_col, itemid_col, nome_procedur
     return out[
         [
             "hadm_id",
-            "data",
             "time",
             "id_procedure",
             "procedure_name",
@@ -104,16 +103,12 @@ def gerar_eventos_agregados(df, group_cols, value_col, itemid_col, nome_procedur
     ]
 
 
-def preparar_base_diaria(df_base):
+def preparar_base(df_base):
     df_base = df_base.copy()
 
     df_base[COL_HADM_ID] = pd.to_numeric(df_base[COL_HADM_ID], errors="coerce")
-    df_base[COL_DATA_DIA] = pd.to_numeric(df_base[COL_DATA_DIA], errors="coerce")
-
-    df_base = df_base.dropna(subset=[COL_HADM_ID, COL_DATA_DIA])
-
+    df_base = df_base.dropna(subset=[COL_HADM_ID])
     df_base[COL_HADM_ID] = df_base[COL_HADM_ID].astype(int)
-    df_base[COL_DATA_DIA] = df_base[COL_DATA_DIA].astype(int)
 
     return df_base
 
@@ -126,26 +121,17 @@ def filtrar_para_hadm_ids_base(chunk, hadm_ids_base):
 
 
 # =========================================================
-# 5) LEITURA DA BASE DIÁRIA
+# 5) LEITURA DA BASE
 # =========================================================
 
-print("Lendo base diária...")
+print("Lendo base...")
 
 base = pd.read_csv(pacientes)
-
-base = preparar_base_diaria(base)
-base = base[base[COL_DATA_DIA] >= 1].copy()
-
-base_inicio_map = (
-    base.groupby(COL_HADM_ID)["intub_time"]
-    .min()
-)
-
-base_inicio_map = pd.to_datetime(base_inicio_map, errors="coerce").to_dict()
+base = preparar_base(base)
 
 hadm_ids_base = set(base[COL_HADM_ID].dropna().astype(int).unique())
 
-print(f"Linhas da base diária: {len(base):,}")
+print(f"Linhas da base: {len(base):,}")
 print(f"hadm_id únicos: {len(hadm_ids_base):,}")
 
 eventos_final = []
@@ -187,14 +173,8 @@ if char_itemids:
 
         chunk[COL_HADM_ID] = chunk[COL_HADM_ID].astype(int)
 
-        chunk["inicio_base"] = chunk[COL_HADM_ID].map(base_inicio_map)
-        chunk = chunk.dropna(subset=["inicio_base"]).copy()
-
-        chunk[COL_DATA_DIA] = (
-            ((chunk["charttime"] - chunk["inicio_base"]).dt.total_seconds() // 86400) + 1
-        ).astype(int)
-
-        chunk = chunk[chunk[COL_DATA_DIA] >= 1].copy()
+        # Agora usa a data real do evento, sem calcular desde a intubação
+        chunk[COL_DATA_DIA] = chunk["charttime"].dt.date
 
         lista_char.append(
             chunk[[COL_HADM_ID, COL_DATA_DIA, "itemid", "charttime", "valuenum"]]
@@ -271,14 +251,8 @@ if input_itemids:
 
         chunk[COL_HADM_ID] = chunk[COL_HADM_ID].astype(int)
 
-        chunk["inicio_base"] = chunk[COL_HADM_ID].map(base_inicio_map)
-        chunk = chunk.dropna(subset=["inicio_base"]).copy()
-
-        chunk[COL_DATA_DIA] = (
-            ((chunk["starttime"] - chunk["inicio_base"]).dt.total_seconds() // 86400) + 1
-        ).astype(int)
-
-        chunk = chunk[chunk[COL_DATA_DIA] >= 1].copy()
+        # Agora usa a data real do evento, sem calcular desde a intubação
+        chunk[COL_DATA_DIA] = chunk["starttime"].dt.date
 
         lista_input.append(
             chunk[[COL_HADM_ID, COL_DATA_DIA, "itemid", "starttime", "amount"]]
@@ -373,14 +347,8 @@ if lab_itemids:
 
         chunk[COL_HADM_ID] = chunk[COL_HADM_ID].astype(int)
 
-        chunk["inicio_base"] = chunk[COL_HADM_ID].map(base_inicio_map)
-        chunk = chunk.dropna(subset=["inicio_base"]).copy()
-
-        chunk[COL_DATA_DIA] = (
-            ((chunk["charttime"] - chunk["inicio_base"]).dt.total_seconds() // 86400) + 1
-        ).astype(int)
-
-        chunk = chunk[chunk[COL_DATA_DIA] >= 1].copy()
+        # Agora usa a data real do evento, sem calcular desde a intubação
+        chunk[COL_DATA_DIA] = chunk["charttime"].dt.date
 
         lista_lab.append(
             chunk[[COL_HADM_ID, COL_DATA_DIA, "itemid", "charttime", "valuenum"]]
