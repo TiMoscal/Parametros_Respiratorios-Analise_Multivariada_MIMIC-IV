@@ -41,7 +41,7 @@ CHARTEVENTS_VARS = [
     {"itemid": 220739, "coluna": "GCS - Eye Opening"},
     {"itemid": 223900, "coluna": "GCS - Verbal Response"},
     {"itemid": 223901, "coluna": "GCS - Motor Response"},
-    {"itemid": 223762, "coluna": "Temperature C"},
+    {"itemid": 223761, "coluna": "Temperature F"},
     {"itemid": 220210, "coluna": "RR"},
 ]
 
@@ -148,7 +148,7 @@ if char_itemids:
 
     usecols_char = [COL_HADM_ID, "itemid", "charttime", "valuenum"]
     lista_char = []
-    chunksize = 1_000_000
+    chunksize = 2_000_000
 
     for i, chunk in enumerate(pd.read_csv(
         chartevents,
@@ -226,7 +226,7 @@ if input_itemids:
 
     usecols_input = [COL_HADM_ID, "itemid", "starttime", "amount"]
     lista_input = []
-    chunksize = 500_000
+    chunksize = 2_000_000
 
     for i, chunk in enumerate(pd.read_csv(
         inputevents,
@@ -322,7 +322,7 @@ if lab_itemids:
 
     usecols_lab = [COL_HADM_ID, "itemid", "charttime", "valuenum"]
     lista_lab = []
-    chunksize = 1_000_000
+    chunksize = 2_000_000
 
     for i, chunk in enumerate(pd.read_csv(
         labevents,
@@ -400,7 +400,6 @@ if eventos_final:
 else:
     tabela_eventos = pd.DataFrame(columns=[
         "hadm_id",
-        "data",
         "time",
         "id_procedure",
         "procedure_name",
@@ -411,7 +410,7 @@ else:
     ])
 
 tabela_eventos = tabela_eventos.sort_values(
-    ["hadm_id", "data", "time", "procedure_name", "id_procedure"]
+    ["hadm_id", "time", "procedure_name", "id_procedure"]
 ).reset_index(drop=True)
 
 tabela_eventos.to_csv(output, index=False)
