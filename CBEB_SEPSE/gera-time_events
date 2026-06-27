@@ -209,11 +209,6 @@ all_events["input_type"] = all_events.apply(
     lambda r: classify_input_type(r["source_table"], r["itemid"]), axis=1
 )
 
-# ── Formata datas ─────────────────────────────────────────────────────────────
-fmt = "%d/%m/%Y %H:%M:%S"
-for col in ["starttime", "endtime"]:
-    all_events[col] = pd.to_datetime(all_events[col], errors="coerce").dt.strftime(fmt)
-
 # ── Colunas finais ────────────────────────────────────────────────────────────
 final_cols = [
     "hadm_id", "subject_id", "source_table",
