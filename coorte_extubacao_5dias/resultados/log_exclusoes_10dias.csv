@@ -1,0 +1,7 @@
+etapa,pacientes_retidos,pacientes_excluidos,motivo
+0. Base original,1522,0,Todas as internações
+1. Definição do T=0,1226,296,Sem evento de extubação
+1b. Mais de uma intubação,1193,33,>1 intubação antes do T=0 (tolerância 1 h)
+2. Regra 1 — óbito precoce,1077,116,Morte ≤12 h (0 com morte antes do T=0)
+3. Regra 2 — desfecho tardio,963,114,Morte ou reintubação >120 h
+4. Regra 3 — truncamento,963,0,"Linhas removidas: resultados 268,406, eventos 130,152"
