@@ -1,0 +1,1523 @@
+hadm_id,diagnostico,morte,reintubacao,n_extubacoes,n_intubacoes_pre_T0,n_intubacoes_total,T0_extubacao,horas_ate_morte,horas_ate_reintubacao,status_coorte,motivo_regra2,desfecho_5dias
+23473524,sepse_resp_failure,0,0,1,1,1,2156-05-20 10:45:00,,,incluido,,Sobrevivente sem reintubação
+26712576,sepse_resp_failure,1,0,1,1,2,2166-02-14 09:48:00,134.53333333333333,8.183333333333334,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+29414705,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29974575,sepse_resp_failure,0,0,1,1,1,2131-03-03 19:54:00,,0.2833333333333333,incluido,,Reintubado
+24623461,sepse_resp_failure,1,0,1,1,1,2180-09-27 10:00:00,0.5333333333333333,,excluido_regra1_obito_precoce,,
+27617929,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25339060,sepse_resp_failure,0,0,1,1,1,2136-05-28 13:00:00,,,incluido,,Sobrevivente sem reintubação
+22348336,sepse_resp_failure,1,0,1,1,1,2125-12-30 10:38:00,140.2,,excluido_regra2_desfecho_tardio,morte >120 h,
+23108527,sepse_resp_failure,0,0,1,1,1,2114-02-07 11:57:00,,,incluido,,Sobrevivente sem reintubação
+23392841,sepse_resp_failure,0,0,1,1,1,2126-11-12 16:37:00,,,incluido,,Sobrevivente sem reintubação
+26612112,sepse_resp_failure,0,0,1,1,1,2141-03-26 14:01:00,,,incluido,,Sobrevivente sem reintubação
+29867930,sepse_resp_failure,1,0,1,1,1,2197-11-11 14:10:00,181.48333333333332,,excluido_regra2_desfecho_tardio,morte >120 h,
+21396430,sepse_resp_failure,1,0,1,1,1,2138-10-26 11:30:00,135.5,,excluido_regra2_desfecho_tardio,morte >120 h,
+21537662,sepse_resp_failure,0,0,1,1,1,2168-02-02 10:59:00,,,incluido,,Sobrevivente sem reintubação
+20968686,sepse_resp_failure,0,0,1,1,1,2182-10-30 16:50:00,,,incluido,,Sobrevivente sem reintubação
+24622638,sepse_resp_failure,1,0,1,1,1,2175-01-14 11:55:00,0.3333333333333333,,excluido_regra1_obito_precoce,,
+27013069,sepse_resp_failure,0,0,1,1,1,2180-09-13 15:07:00,,,incluido,,Sobrevivente sem reintubação
+21605488,sepse_resp_failure,0,0,1,1,1,2129-05-13 08:10:00,,,incluido,,Sobrevivente sem reintubação
+23831668,sepse_resp_failure,1,1,2,1,1,2200-01-01 22:25:00,41.88333333333333,0.016666666666666666,incluido,,Reintubado e óbito
+24706516,sepse_resp_failure,1,0,1,1,1,2171-12-17 16:15:00,3.1666666666666665,,excluido_regra1_obito_precoce,,
+21750307,sepse_resp_failure,1,0,1,1,1,2114-09-14 11:55:00,22.25,,incluido,,Óbito
+26487233,sepse_resp_failure,0,1,2,1,2,2179-07-28 07:33:00,,173.56666666666666,excluido_regra2_desfecho_tardio,reintubação >120 h,
+22478414,sepse_resp_failure,0,0,1,1,1,2140-12-25 13:34:00,,,incluido,,Sobrevivente sem reintubação
+22327281,sepse_resp_failure,0,0,1,1,1,2180-01-22 12:03:00,,,incluido,,Sobrevivente sem reintubação
+21854083,sepse_resp_failure,0,0,1,1,1,2136-02-16 10:11:00,,,incluido,,Sobrevivente sem reintubação
+23474175,sepse_resp_failure,0,0,1,1,1,2126-07-24 10:45:00,,,incluido,,Sobrevivente sem reintubação
+22164804,sepse_resp_failure,0,0,1,1,1,2157-06-07 10:40:00,,,incluido,,Sobrevivente sem reintubação
+23303089,sepse_resp_failure,0,1,3,1,3,2137-06-22 11:10:00,,181.56666666666666,excluido_regra2_desfecho_tardio,reintubação >120 h,
+28167602,sepse_resp_failure,1,0f,0,0,1,,,,excluido_sem_extubacao,,
+23395056,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26523907,sepse_resp_failure,1,0,1,1,1,2183-02-28 17:13:00,0.7833333333333333,,excluido_regra1_obito_precoce,,
+29024763,sepse_resp_failure,0,0,1,1,1,2167-09-24 12:40:00,,,incluido,,Sobrevivente sem reintubação
+29187727,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23644640,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24511516,sepse_resp_failure,0,1,2,1,2,2191-06-23 17:33:00,,1.45,incluido,,Reintubado
+29447084,sepse_resp_failure,0,0,1,1,1,2174-01-11 17:15:00,,,incluido,,Sobrevivente sem reintubação
+29816598,sepse_resp_failure,1,0,1,1,1,2180-09-02 11:20:00,8.166666666666666,,excluido_regra1_obito_precoce,,
+29452723,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24112824,sepse_resp_failure,0,0,1,1,1,2186-04-12 17:30:00,,,incluido,,Sobrevivente sem reintubação
+20149612,sepse_resp_failure,0,0,1,1,1,2149-05-07 09:10:00,,,incluido,,Sobrevivente sem reintubação
+21111752,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22962066,sepse_resp_failure,0,0,1,1,1,2115-09-17 18:36:00,,,incluido,,Sobrevivente sem reintubação
+27965714,sepse_resp_failure,0,0,1,1,1,2189-06-06 14:11:00,,,incluido,,Sobrevivente sem reintubação
+28807353,sepse_resp_failure,0,0,1,1,1,2130-05-03 11:50:00,,,incluido,,Sobrevivente sem reintubação
+28384013,sepse_resp_failure,0,0,1,1,1,2173-06-05 18:06:00,,,incluido,,Sobrevivente sem reintubação
+27118017,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28230313,sepse_resp_failure,0,0,1,1,1,2192-08-06 17:30:00,,,incluido,,Sobrevivente sem reintubação
+21158396,sepse_resp_failure,0,0,1,1,1,2134-08-24 13:34:00,,,incluido,,Sobrevivente sem reintubação
+28714064,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26680100,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26138855,sepse_resp_failure,0,0,1,1,1,2174-10-02 11:56:00,,,incluido,,Sobrevivente sem reintubação
+24650455,sepse_resp_failure,0,0,2,1,1,2184-07-30 10:05:00,,,incluido,,Sobrevivente sem reintubação
+24961844,sepse_resp_failure,0,0,1,1,1,2111-07-23 11:38:00,,,incluido,,Sobrevivente sem reintubação
+22237741,sepse_resp_failure,0,0,1,1,1,2198-09-12 15:33:00,,,incluido,,Sobrevivente sem reintubação
+27102623,sepse_resp_failure,0,1,2,1,2,2145-08-10 16:41:00,,205.81666666666666,excluido_regra2_desfecho_tardio,reintubação >120 h,
+27693546,sepse_resp_failure,0,1,2,1,2,2134-08-25 08:08:00,,30.616666666666667,incluido,,Reintubado
+23098774,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27080349,sepse_resp_failure,0,0,1,1,1,2112-07-10 13:38:00,,,incluido,,Sobrevivente sem reintubação
+29386188,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29638887,sepse_resp_failure,0,0,1,1,1,2174-04-11 14:34:00,,,incluido,,Sobrevivente sem reintubação
+23903931,sepse_resp_failure,0,0,1,1,1,2141-11-17 16:18:00,,,incluido,,Sobrevivente sem reintubação
+29471574,sepse_resp_failure,0,0,1,1,1,2114-10-10 10:45:00,,,incluido,,Sobrevivente sem reintubação
+20652788,sepse_resp_failure,1,0,1,1,1,2167-09-13 14:17:00,0.05,,excluido_regra1_obito_precoce,,
+23030826,sepse_resp_failure,1,0,1,1,1,2194-01-08 10:00:00,29.583333333333332,,incluido,,Óbito
+29433790,sepse_resp_failure,1,1,2,1,3,2183-02-12 12:42:00,223.0,4.3,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25074431,sepse_resp_failure,0,0,1,1,1,2140-10-16 09:22:00,,,incluido,,Sobrevivente sem reintubação
+20108899,sepse_resp_failure,1,0,1,1,1,2161-12-30 13:55:00,0.016666666666666666,,excluido_regra1_obito_precoce,,
+28503629,sepse_resp_failure,0,1,2,1,2,2164-11-12 16:48:00,,166.03333333333333,excluido_regra2_desfecho_tardio,reintubação >120 h,
+21430515,sepse_resp_failure,0,1,2,1,2,2159-04-03 17:06:00,,7.65,incluido,,Reintubado
+25765261,sepse_resp_failure,0,0,1,1,1,2114-06-18 13:40:00,,,incluido,,Sobrevivente sem reintubação
+29671397,sepse_resp_failure,1,0,1,2,2,2129-02-21 12:37:00,2.55,,excluido_multiplas_intubacoes,,
+21947404,sepse_resp_failure,0,0,1,1,1,2144-06-11 08:35:00,,,incluido,,Sobrevivente sem reintubação
+21759815,sepse_resp_failure,0,0,1,1,1,2137-07-31 13:10:00,,,incluido,,Sobrevivente sem reintubação
+23532447,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20989991,sepse_resp_failure,1,0,1,1,1,2180-05-11 15:47:00,11.166666666666666,,excluido_regra1_obito_precoce,,
+20459652,sepse_resp_failure,0,0,1,1,1,2132-12-18 13:50:00,,,incluido,,Sobrevivente sem reintubação
+22961365,sepse_resp_failure,0,0,1,1,1,2137-03-20 09:35:00,,,incluido,,Sobrevivente sem reintubação
+28627810,sepse_resp_failure,0,0,1,1,1,2114-10-12 14:06:00,,,incluido,,Sobrevivente sem reintubação
+27797071,sepse_resp_failure,0,0,1,1,1,2188-01-26 14:32:00,,,incluido,,Sobrevivente sem reintubação
+29365016,sepse_resp_failure,0,0,1,1,1,2189-05-21 11:11:00,,,incluido,,Sobrevivente sem reintubação
+28813964,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27687415,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24089499,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21526539,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22277446,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27284931,sepse_resp_failure,0,0,1,1,1,2159-10-18 17:00:00,,,incluido,,Sobrevivente sem reintubação
+25542426,sepse_resp_failure,0,0,1,1,1,2148-02-21 16:08:00,,,incluido,,Sobrevivente sem reintubação
+25931372,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29647253,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+20756799,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29141981,sepse_resp_failure,1,0,1,1,1,2132-01-12 13:57:00,95.96666666666667,,incluido,,Óbito
+29844758,sepse_resp_failure,0,1,2,1,2,2167-06-18 11:11:00,,33.56666666666667,incluido,,Reintubado
+24903714,sepse_resp_failure,0,0,1,1,1,2201-11-02 12:29:00,,,incluido,,Sobrevivente sem reintubação
+21259664,sepse_resp_failure,0,1,2,1,1,2112-08-22 20:18:00,,,incluido,,Sobrevivente sem reintubação
+29930392,sepse_resp_failure,0,0,1,1,1,2145-07-03 18:07:00,,,incluido,,Sobrevivente sem reintubação
+22713043,sepse_resp_failure,1,1,2,1,2,2200-01-09 12:19:00,778.0166666666667,120.4,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+21909820,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20374655,sepse_resp_failure,1,0,1,1,1,2136-10-26 12:03:00,190.61666666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+23772460,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20839030,sepse_resp_failure,0,0,1,1,1,2139-02-24 16:14:00,,,incluido,,Sobrevivente sem reintubação
+29554079,sepse_resp_failure,0,0,1,1,1,2188-11-29 16:35:00,,,incluido,,Sobrevivente sem reintubação
+29432330,sepse_resp_failure,0,0,1,1,1,2132-12-06 16:45:00,,,incluido,,Sobrevivente sem reintubação
+27237322,sepse_resp_failure,1,0,1,1,1,2160-02-08 13:50:00,0.16666666666666666,,excluido_regra1_obito_precoce,,
+27056351,sepse_resp_failure,0,0,1,1,1,2138-04-05 15:25:00,,,incluido,,Sobrevivente sem reintubação
+21265345,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28609548,sepse_resp_failure,1,0,1,1,1,2179-08-21 17:17:00,18.3,,incluido,,Óbito
+21371029,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24557157,sepse_resp_failure,0,0,1,1,1,2173-04-22 11:54:00,,,incluido,,Sobrevivente sem reintubação
+25795006,sepse_resp_failure,0,0,1,1,1,2174-06-09 11:27:00,,,incluido,,Sobrevivente sem reintubação
+26717534,sepse_resp_failure,0,0,1,1,1,2143-05-22 10:30:00,,,incluido,,Sobrevivente sem reintubação
+25249620,sepse_resp_failure,0,0,1,1,1,2118-07-28 16:52:00,,,incluido,,Sobrevivente sem reintubação
+24352758,sepse_resp_failure,0,1,2,1,2,2160-06-30 10:18:00,,42.7,incluido,,Reintubado
+22123895,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23104107,sepse_resp_failure,0,0,1,1,1,2156-02-22 09:49:00,,,incluido,,Sobrevivente sem reintubação
+23024138,sepse_resp_failure,1,0,1,2,2,2175-02-28 17:15:00,2.4166666666666665,,excluido_multiplas_intubacoes,,
+27024075,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24281438,sepse_resp_failure,0,0,1,1,1,2160-01-31 14:19:00,,,incluido,,Sobrevivente sem reintubação
+23343691,sepse_resp_failure,1,0,1,1,1,2125-08-02 14:30:00,107.48333333333333,,incluido,,Óbito
+20221058,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25692931,sepse_resp_failure,0,1,2,1,2,2182-11-12 15:43:00,,26.383333333333333,incluido,,Reintubado
+28378701,sepse_resp_failure,0,0,1,1,1,2129-06-17 09:18:00,,,incluido,,Sobrevivente sem reintubação
+25590924,sepse_resp_failure,1,0,1,1,1,2161-09-23 19:18:00,1.1333333333333333,,excluido_regra1_obito_precoce,,
+29207403,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26416644,sepse_resp_failure,0,0,1,1,1,2198-12-26 09:30:00,,,incluido,,Sobrevivente sem reintubação
+25869239,sepse_resp_failure,0,0,1,1,1,2180-12-16 10:50:00,,,incluido,,Sobrevivente sem reintubação
+26789763,sepse_resp_failure,0,0,1,1,1,2153-11-04 14:46:00,,,incluido,,Sobrevivente sem reintubação
+27777926,sepse_resp_failure,0,0,1,1,1,2153-12-08 15:55:00,,,incluido,,Sobrevivente sem reintubação
+26273948,sepse_resp_failure,0,0,1,1,1,2126-11-05 10:00:00,,,incluido,,Sobrevivente sem reintubação
+25054114,sepse_resp_failure,0,0,1,1,1,2143-02-01 15:49:00,,,incluido,,Sobrevivente sem reintubação
+20078527,sepse_resp_failure,1,0,1,1,1,2182-05-01 18:57:00,34.483333333333334,,incluido,,Óbito
+29272550,sepse_resp_failure,0,0,1,1,1,2134-07-15 14:22:00,,,incluido,,Sobrevivente sem reintubação
+25027687,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21632192,sepse_resp_failure,0,0,1,1,1,2158-03-29 12:35:00,,,incluido,,Sobrevivente sem reintubação
+20464943,sepse_resp_failure,1,0,1,1,1,2185-06-04 21:08:00,4.433333333333334,,excluido_regra1_obito_precoce,,
+21687690,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26315436,sepse_resp_failure,0,0,1,1,1,2163-08-12 13:18:00,,,incluido,,Sobrevivente sem reintubação
+23677871,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25506886,sepse_resp_failure,0,0,1,1,1,2173-07-21 12:02:00,,,incluido,,Sobrevivente sem reintubação
+26806335,sepse_resp_failure,1,0,1,1,1,2165-04-26 14:50:00,12.666666666666666,,incluido,,Óbito
+20049298,sepse_resp_failure,0,0,1,1,1,2141-09-10 09:55:00,,,incluido,,Sobrevivente sem reintubação
+24487833,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27531791,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28269439,sepse_resp_failure,1,0,1,1,1,2124-01-21 16:52:00,0.13333333333333333,,excluido_regra1_obito_precoce,,
+21049875,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29920075,sepse_resp_failure,0,0,1,1,1,2168-04-16 14:25:00,,,incluido,,Sobrevivente sem reintubação
+28358146,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21783006,sepse_resp_failure,0,0,1,1,1,2176-11-05 05:58:00,,,incluido,,Sobrevivente sem reintubação
+23922886,sepse_resp_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+24580936,sepse_resp_failure,1,0,1,1,1,2147-08-23 15:26:00,11.133333333333333,,excluido_regra1_obito_precoce,,
+27436285,sepse_resp_failure,0,0,1,1,1,2201-06-06 11:25:00,,,incluido,,Sobrevivente sem reintubação
+20904086,sepse_resp_failure,0,1,2,1,2,2178-12-07 11:00:00,,214.81666666666666,excluido_regra2_desfecho_tardio,reintubação >120 h,
+24419715,sepse_resp_failure,0,1,2,1,2,2131-05-05 17:51:00,,3.0833333333333335,incluido,,Reintubado
+27549600,sepse_resp_failure,0,0,1,1,1,2185-12-22 17:10:00,,,incluido,,Sobrevivente sem reintubação
+20313145,sepse_resp_failure,0,0,1,1,1,2186-02-03 08:30:00,,,incluido,,Sobrevivente sem reintubação
+21220643,sepse_resp_failure,0,0,1,1,1,2123-12-26 14:14:00,,,incluido,,Sobrevivente sem reintubação
+23182270,sepse_resp_failure,0,0,1,1,1,2167-08-31 11:00:00,,,incluido,,Sobrevivente sem reintubação
+20118208,sepse_resp_failure,1,0,1,1,1,2157-03-10 14:10:00,0.26666666666666666,,excluido_regra1_obito_precoce,,
+29401358,sepse_resp_failure,0,0,1,1,1,2150-01-23 13:43:00,,,incluido,,Sobrevivente sem reintubação
+24846102,sepse_resp_failure,0,0,1,2,2,2114-07-08 11:30:00,,,excluido_multiplas_intubacoes,,
+23878621,sepse_resp_failure,0,0,1,1,1,2167-01-22 10:03:00,,,incluido,,Sobrevivente sem reintubação
+28203970,sepse_resp_failure,1,0,1,1,1,2122-07-05 18:27:00,0.15,,excluido_regra1_obito_precoce,,
+27625791,sepse_resp_failure,1,1,2,1,2,2133-09-08 11:54:00,280.51666666666665,123.1,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+27296628,sepse_resp_failure,1,0,1,1,1,2185-11-07 11:42:00,169.3,,excluido_regra2_desfecho_tardio,morte >120 h,
+25542475,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27923841,sepse_resp_failure,0,1,2,1,2,2121-11-13 15:18:00,,19.7,incluido,,Reintubado
+27990903,sepse_resp_failure,0,0,1,1,1,2202-12-22 17:40:00,,,incluido,,Sobrevivente sem reintubação
+28876018,sepse_resp_failure,1,0,1,1,1,2133-04-27 11:10:00,1.8333333333333333,,excluido_regra1_obito_precoce,,
+28181254,sepse_resp_failure,0,0,1,1,1,2131-05-03 16:09:00,,,incluido,,Sobrevivente sem reintubação
+26321442,sepse_resp_failure,0,1,3,1,4,2137-12-18 08:15:00,,26.5,incluido,,Reintubado
+22046277,sepse_resp_failure,0,0,1,1,1,2156-03-10 08:29:00,,,incluido,,Sobrevivente sem reintubação
+23606314,sepse_resp_failure,1,0,1,1,1,2178-01-02 16:29:00,27.516666666666666,,incluido,,Óbito
+27672630,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25444206,sepse_resp_failure,0,0,1,1,1,2122-02-27 08:05:00,,,incluido,,Sobrevivente sem reintubação
+21796125,sepse_resp_failure,0,1,2,2,2,2133-11-18 11:35:00,,,excluido_multiplas_intubacoes,,
+27633892,sepse_resp_failure,0,0,1,1,1,2148-05-14 10:25:00,,,incluido,,Sobrevivente sem reintubação
+27218756,sepse_resp_failure,0,1,2,1,2,2119-06-15 13:15:00,,0.08333333333333333,incluido,,Reintubado
+26208165,sepse_resp_failure,0,0,1,1,2,2135-08-23 11:01:00,,14.983333333333333,incluido,,Reintubado
+22763290,sepse_resp_failure,0,0,1,1,2,2136-02-23 12:24:00,,2.8666666666666667,incluido,,Reintubado
+28274088,sepse_resp_failure,0,1,2,1,2,2148-11-02 16:37:00,,18.45,incluido,,Reintubado
+23464728,sepse_resp_failure,0,1,2,1,2,2144-11-01 10:35:00,,15.416666666666666,incluido,,Reintubado
+22731998,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29481023,sepse_resp_failure,0,1,2,1,2,2140-04-08 15:42:00,,484.95,excluido_regra2_desfecho_tardio,reintubação >120 h,
+28145143,sepse_resp_failure,1,0,1,1,1,2182-08-22 13:00:00,91.66666666666667,,incluido,,Óbito
+28896097,sepse_resp_failure,1,0,1,1,1,2143-11-12 07:30:00,0.5,,excluido_regra1_obito_precoce,,
+22363408,sepse_resp_failure,0,0,1,1,1,2186-05-10 15:00:00,,,incluido,,Sobrevivente sem reintubação
+21024648,sepse_resp_failure,0,0,1,1,1,2171-01-28 12:50:00,,,incluido,,Sobrevivente sem reintubação
+26270240,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23227370,sepse_resp_failure,1,0,1,1,1,2136-11-19 08:05:00,548.5166666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+24776725,sepse_resp_failure,0,1,2,1,2,2135-09-06 20:20:00,,6.166666666666667,incluido,,Reintubado
+24106018,sepse_resp_failure,1,0,1,1,1,2164-08-05 01:32:00,5.466666666666667,,excluido_regra1_obito_precoce,,
+25441360,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+20382821,sepse_resp_failure,0,0,1,1,1,2110-07-29 12:50:00,,,incluido,,Sobrevivente sem reintubação
+22299865,sepse_resp_failure,0,0,1,1,1,2169-03-15 12:02:00,,,incluido,,Sobrevivente sem reintubação
+20693469,sepse_resp_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+24971579,sepse_resp_failure,1,0,1,1,1,2182-03-03 15:45:00,0.23333333333333334,,excluido_regra1_obito_precoce,,
+24909812,sepse_resp_failure,1,0,1,1,1,2133-02-25 14:28:00,3.05,,excluido_regra1_obito_precoce,,
+28152480,sepse_resp_failure,1,0,1,1,1,2166-08-15 13:50:00,1.55,,excluido_regra1_obito_precoce,,
+22073798,sepse_resp_failure,0,0,1,1,1,2156-08-16 12:35:00,,,incluido,,Sobrevivente sem reintubação
+27445059,sepse_resp_failure,0,0,1,1,1,2151-12-01 18:56:00,,,incluido,,Sobrevivente sem reintubação
+22921065,sepse_resp_failure,0,0,1,1,1,2173-07-05 19:44:00,,,incluido,,Sobrevivente sem reintubação
+28423514,sepse_resp_failure,0,0,1,1,1,2184-01-14 14:20:00,,,incluido,,Sobrevivente sem reintubação
+23065907,sepse_resp_failure,0,0,1,1,2,2138-05-27 09:36:00,,96.31666666666666,incluido,,Reintubado
+26798267,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29849272,sepse_resp_failure,1,0,1,2,2,2130-01-09 18:26:00,0.4,,excluido_multiplas_intubacoes,,
+21023771,sepse_resp_failure,0,0,1,1,1,2132-03-31 08:00:00,,,incluido,,Sobrevivente sem reintubação
+27595301,sepse_resp_failure,1,0,1,1,1,2189-09-25 14:20:00,0.6666666666666666,,excluido_regra1_obito_precoce,,
+27580197,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26606625,sepse_resp_failure,1,0,1,1,1,2183-08-29 21:10:00,0.35,,excluido_regra1_obito_precoce,,
+28574278,sepse_resp_failure,1,0,1,1,1,2159-06-30 15:18:00,0.11666666666666667,,excluido_regra1_obito_precoce,,
+25317151,sepse_resp_failure,1,0,1,1,1,2158-04-18 13:05:00,139.16666666666666,,excluido_regra2_desfecho_tardio,morte >120 h,
+27393582,sepse_resp_failure,0,1,2,1,2,2150-05-20 18:05:00,,2.6666666666666665,incluido,,Reintubado
+21455776,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22930953,sepse_resp_failure,0,0,1,1,1,2143-05-30 08:05:00,,,incluido,,Sobrevivente sem reintubação
+22613876,sepse_resp_failure,0,0,1,1,1,2172-10-07 15:00:00,,,incluido,,Sobrevivente sem reintubação
+28071182,sepse_resp_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+22331412,sepse_resp_failure,0,0,1,1,1,2158-06-03 12:10:00,,,incluido,,Sobrevivente sem reintubação
+28012963,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+22257118,sepse_resp_failure,0,0,1,1,1,2128-04-27 09:05:00,,,incluido,,Sobrevivente sem reintubação
+29181422,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22994115,sepse_resp_failure,0,0,1,1,1,2152-02-28 08:22:00,,,incluido,,Sobrevivente sem reintubação
+20059593,sepse_resp_failure,0,0,1,1,1,2188-06-04 05:15:00,,,incluido,,Sobrevivente sem reintubação
+20465429,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23949170,sepse_resp_failure,0,0,1,1,1,2165-01-01 11:23:00,,,incluido,,Sobrevivente sem reintubação
+21906033,sepse_resp_failure,0,0,1,1,1,2146-04-06 16:20:00,,,incluido,,Sobrevivente sem reintubação
+26152880,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22551004,sepse_resp_failure,1,0,1,1,2,2168-10-16 03:51:00,164.15,1.1,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+26157365,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28890730,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25470636,sepse_resp_failure,1,0,1,1,1,2122-02-10 15:35:00,2.4166666666666665,,excluido_regra1_obito_precoce,,
+29535117,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22887604,sepse_resp_failure,0,0,1,1,1,2157-02-28 15:22:00,,,incluido,,Sobrevivente sem reintubação
+28233798,sepse_resp_failure,0,0,1,1,1,2151-01-04 17:05:00,,,incluido,,Sobrevivente sem reintubação
+29932683,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21048076,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28436345,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27478855,sepse_resp_failure,0,0,1,1,1,2136-06-23 16:40:00,,,incluido,,Sobrevivente sem reintubação
+29847750,sepse_resp_failure,0,0,1,2,4,2143-09-18 15:45:00,,164.83333333333334,excluido_multiplas_intubacoes,,
+21649104,sepse_resp_failure,1,1,2,1,2,2174-03-14 10:15:00,124.8,49.416666666666664,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24116584,sepse_resp_failure,1,0,1,1,1,2158-02-19 12:00:00,3.1666666666666665,,excluido_regra1_obito_precoce,,
+20958300,sepse_resp_failure,0,0,1,1,1,2169-08-25 12:59:00,,,incluido,,Sobrevivente sem reintubação
+22422272,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26569434,sepse_resp_failure,0,0,1,1,1,2204-09-28 11:00:00,,,incluido,,Sobrevivente sem reintubação
+26384774,sepse_resp_failure,0,0,1,2,2,2181-08-05 11:45:00,,,excluido_multiplas_intubacoes,,
+23141143,sepse_resp_failure,0,1,2,1,2,2188-05-15 10:15:00,,23.583333333333332,incluido,,Reintubado
+29333484,sepse_resp_failure,0,0,1,1,1,2131-09-27 11:18:00,,,incluido,,Sobrevivente sem reintubação
+24255453,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28916812,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20115323,sepse_resp_failure,1,1,2,1,2,2144-11-05 09:00:00,435.2,54.0,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+22811618,sepse_resp_failure,1,0,1,1,3,2110-02-12 11:45:00,541.8666666666667,294.25,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+21894554,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22346547,sepse_resp_failure,1,0,1,1,1,2131-02-01 14:56:00,1.5666666666666667,,excluido_regra1_obito_precoce,,
+28521621,sepse_resp_failure,0,0,1,1,1,2199-02-27 09:37:00,,,incluido,,Sobrevivente sem reintubação
+21212918,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20881952,sepse_resp_failure,0,0,1,1,1,2124-05-19 16:12:00,,,incluido,,Sobrevivente sem reintubação
+20999229,sepse_resp_failure,1,0,1,1,1,2166-02-26 10:20:00,137.26666666666668,,excluido_regra2_desfecho_tardio,morte >120 h,
+26708815,sepse_resp_failure,0,0,1,1,1,2162-09-02 16:53:00,,,incluido,,Sobrevivente sem reintubação
+29654413,sepse_resp_failure,0,0,1,1,1,2133-05-05 09:30:00,,,incluido,,Sobrevivente sem reintubação
+29482091,sepse_resp_failure,0,0,1,1,1,2143-05-09 12:00:00,,,incluido,,Sobrevivente sem reintubação
+22082594,sepse_resp_failure,0,0,1,1,1,2204-12-21 16:19:00,,,incluido,,Sobrevivente sem reintubação
+20929866,sepse_resp_failure,1,1,2,1,2,2119-11-20 08:37:00,308.71666666666664,104.78333333333333,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+20440298,sepse_resp_failure,1,1,1,1,2,2176-04-21 16:33:00,69.7,51.21666666666667,incluido,,Reintubado e óbito
+28581704,sepse_resp_failure,0,0,1,1,1,2188-11-01 14:10:00,,,incluido,,Sobrevivente sem reintubação
+26910934,sepse_resp_failure,0,1,2,1,4,2158-11-17 15:48:00,,6.933333333333334,incluido,,Reintubado
+22752582,sepse_resp_failure,1,0,1,1,1,2162-01-24 10:00:00,947.25,,excluido_regra2_desfecho_tardio,morte >120 h,
+23942623,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20068652,sepse_resp_failure,0,0,1,1,1,2154-07-11 16:11:00,,,incluido,,Sobrevivente sem reintubação
+29171967,sepse_resp_failure,0,0,1,1,1,2160-02-23 16:48:00,,,incluido,,Sobrevivente sem reintubação
+21216753,sepse_resp_failure,0,0,1,1,1,2161-01-17 17:33:00,,,incluido,,Sobrevivente sem reintubação
+24657887,sepse_resp_failure,1,0,1,1,1,2155-03-28 13:48:00,150.7,,excluido_regra2_desfecho_tardio,morte >120 h,
+21723287,sepse_resp_failure,0,0,1,1,1,2141-01-24 11:55:00,,,incluido,,Sobrevivente sem reintubação
+23126093,sepse_resp_failure,1,0,1,1,1,2168-10-11 15:10:00,3.7,,excluido_regra1_obito_precoce,,
+24033913,sepse_resp_failure,0,1,2,1,2,2175-06-30 13:12:00,,15.866666666666667,incluido,,Reintubado
+25077943,sepse_resp_failure,0,0,1,1,1,2162-08-29 16:08:00,,,incluido,,Sobrevivente sem reintubação
+24054987,sepse_resp_failure,0,0,1,1,1,2181-01-22 08:52:00,,,incluido,,Sobrevivente sem reintubação
+25865483,sepse_resp_failure,0,0,1,1,1,2181-08-12 09:35:00,,,incluido,,Sobrevivente sem reintubação
+22356924,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26290668,sepse_resp_failure,1,0,1,1,1,2110-02-06 16:18:00,7.783333333333333,,excluido_regra1_obito_precoce,,
+21333956,sepse_resp_failure,0,0,1,1,1,2189-12-17 13:00:00,,,incluido,,Sobrevivente sem reintubação
+28400921,sepse_resp_failure,1,1,2,1,2,2190-04-09 11:42:00,2155.6,5.633333333333334,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25017081,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20360408,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23945163,sepse_resp_failure,1,0,1,1,1,2167-12-01 18:55:00,14.25,,incluido,,Óbito
+27566273,sepse_resp_failure,1,0,1,1,1,2152-03-07 16:00:00,4.25,,excluido_regra1_obito_precoce,,
+23374406,sepse_resp_failure,1,0,1,1,1,2164-11-05 11:39:00,3.85,,excluido_regra1_obito_precoce,,
+20441958,sepse_resp_failure,1,1,2,1,2,2124-04-15 16:15:00,570.5,183.75,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+22609279,sepse_resp_failure,0,0,1,1,1,2152-02-01 14:50:00,,,incluido,,Sobrevivente sem reintubação
+23383261,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20065900,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23854031,sepse_resp_failure,0,0,1,1,1,2166-03-28 09:34:00,,,incluido,,Sobrevivente sem reintubação
+20159294,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29542357,sepse_resp_failure,0,0,1,1,1,2131-09-09 17:41:00,,,incluido,,Sobrevivente sem reintubação
+29770358,sepse_resp_failure,0,0,1,1,1,2133-01-15 11:46:00,,,incluido,,Sobrevivente sem reintubação
+26289719,sepse_resp_failure,0,0,1,1,1,2189-05-08 12:45:00,,,incluido,,Sobrevivente sem reintubação
+23569019,sepse_resp_failure,0,1,2,1,2,2115-10-17 10:45:00,,0.25,incluido,,Reintubado
+26879479,sepse_resp_failure,1,0,1,2,3,2194-04-30 17:45:00,252.75,133.25,excluido_multiplas_intubacoes,,
+26589188,sepse_resp_failure,1,0,1,1,1,2115-12-07 10:50:00,13.166666666666666,,incluido,,Óbito
+28066438,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23090150,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26005539,sepse_resp_failure,0,0,1,2,2,2143-09-23 09:53:00,,,excluido_multiplas_intubacoes,,
+24117490,sepse_resp_failure,0,0,1,2,2,2175-03-06 11:00:00,,,excluido_multiplas_intubacoes,,
+22266688,sepse_resp_failure,0,0,1,1,2,2186-09-16 09:47:00,,102.46666666666667,incluido,,Reintubado
+24012518,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24397708,sepse_resp_failure,0,0,1,1,1,2129-02-15 17:53:00,,,incluido,,Sobrevivente sem reintubação
+25773269,sepse_resp_failure,0,0,1,1,1,2171-03-08 10:27:00,,,incluido,,Sobrevivente sem reintubação
+28007037,sepse_resp_failure,0,0,1,1,1,2142-04-26 11:37:00,,,incluido,,Sobrevivente sem reintubação
+26041107,sepse_resp_failure,0,0,1,1,1,2160-01-02 14:09:00,,,incluido,,Sobrevivente sem reintubação
+27910267,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21724417,sepse_resp_failure,0,0,1,1,1,2156-01-14 14:42:00,,,incluido,,Sobrevivente sem reintubação
+24736675,sepse_resp_failure,1,0,1,1,1,2112-12-15 16:31:00,0.7333333333333333,,excluido_regra1_obito_precoce,,
+28797887,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29103179,sepse_resp_failure,0,1,2,1,2,2150-05-18 14:54:00,,36.6,incluido,,Reintubado
+24734697,sepse_resp_failure,0,0,1,1,1,2156-03-27 13:15:00,,,incluido,,Sobrevivente sem reintubação
+27781009,sepse_resp_failure,0,0,1,1,1,2178-08-31 15:26:00,,,incluido,,Sobrevivente sem reintubação
+20523455,sepse_resp_failure,0,0,1,2,2,2186-02-17 10:43:00,,,excluido_multiplas_intubacoes,,
+21368168,sepse_resp_failure,0,1,2,1,2,2119-05-18 09:50:00,,23.833333333333332,incluido,,Reintubado
+27790730,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27658519,sepse_resp_failure,0,0,1,1,2,2117-11-27 11:23:00,,10.116666666666667,incluido,,Reintubado
+21437818,sepse_resp_failure,0,0,1,1,1,2146-06-30 14:27:00,,,incluido,,Sobrevivente sem reintubação
+20251543,sepse_resp_failure,0,0,1,1,1,2120-02-19 15:48:00,,,incluido,,Sobrevivente sem reintubação
+21904329,sepse_resp_failure,0,0,1,1,1,2167-02-22 12:15:00,,,incluido,,Sobrevivente sem reintubação
+24033112,sepse_resp_failure,0,0,1,1,1,2138-01-19 11:00:00,,,incluido,,Sobrevivente sem reintubação
+27441654,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26742807,sepse_resp_failure,1,0,1,1,1,2158-04-17 12:33:00,0.7833333333333333,,excluido_regra1_obito_precoce,,
+23236375,sepse_resp_failure,0,0,1,1,1,2112-10-13 13:30:00,,,incluido,,Sobrevivente sem reintubação
+22445101,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23848951,sepse_resp_failure,0,0,1,1,1,2165-01-01 01:56:00,,,incluido,,Sobrevivente sem reintubação
+21611859,sepse_resp_failure,1,0,1,1,2,2154-12-10 08:05:00,159.91666666666666,128.96666666666667,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+25401256,sepse_resp_failure,0,0,1,1,1,2170-12-23 17:50:00,,,incluido,,Sobrevivente sem reintubação
+27218949,sepse_resp_failure,0,0,1,1,1,2165-05-10 17:35:00,,,incluido,,Sobrevivente sem reintubação
+22288947,sepse_resp_failure,0,0,1,1,1,2155-05-31 09:55:00,,,incluido,,Sobrevivente sem reintubação
+27303176,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25297755,sepse_resp_failure,0,1,3,1,3,2177-10-30 14:00:00,,1.25,incluido,,Reintubado
+25686058,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28898910,sepse_resp_failure,0,0,1,1,1,2179-03-27 18:56:00,,,incluido,,Sobrevivente sem reintubação
+24707182,sepse_resp_failure,0,0,1,1,1,2182-07-21 15:11:00,,,incluido,,Sobrevivente sem reintubação
+29487881,sepse_resp_failure,0,0,1,1,1,2139-01-21 11:23:00,,,incluido,,Sobrevivente sem reintubação
+20806664,sepse_resp_failure,1,0,1,1,1,2188-07-24 00:00:00,0.0,,excluido_regra1_obito_precoce,,
+24323475,sepse_resp_failure,1,0,1,1,2,2165-03-11 12:21:00,463.48333333333335,10.816666666666666,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24270525,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+25300815,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22871698,sepse_resp_failure,0,0,1,1,1,2158-08-14 18:00:00,,,incluido,,Sobrevivente sem reintubação
+23360520,sepse_resp_failure,0,0,1,1,1,2175-01-31 17:26:00,,,incluido,,Sobrevivente sem reintubação
+27972629,sepse_resp_failure,0,0,1,1,1,2198-07-22 15:32:00,,,incluido,,Sobrevivente sem reintubação
+24495067,sepse_resp_failure,1,0,1,1,1,2131-10-06 12:36:00,1.15,,excluido_regra1_obito_precoce,,
+21020826,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20258002,sepse_resp_failure,0,0,1,1,1,2186-04-05 13:00:00,,,incluido,,Sobrevivente sem reintubação
+26760220,sepse_resp_failure,0,0,1,1,1,2171-04-04 10:00:00,,,incluido,,Sobrevivente sem reintubação
+20973745,sepse_resp_failure,0,0,1,1,1,2139-10-03 08:12:00,,,incluido,,Sobrevivente sem reintubação
+24139954,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24367415,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25334768,sepse_resp_failure,1,0,1,1,1,2195-06-17 21:05:00,18.983333333333334,,incluido,,Óbito
+27933921,sepse_resp_failure,1,0,1,1,1,2152-02-11 11:06:00,219.26666666666668,,excluido_regra2_desfecho_tardio,morte >120 h,
+28143436,sepse_resp_failure,0,0,1,1,1,2110-05-16 15:05:00,,,incluido,,Sobrevivente sem reintubação
+29083878,sepse_resp_failure,0,0,1,1,1,2181-02-13 11:40:00,,,incluido,,Sobrevivente sem reintubação
+27747532,sepse_resp_failure,1,0,1,1,1,2125-07-09 17:51:00,18.233333333333334,,incluido,,Óbito
+20421400,sepse_resp_failure,1,0,1,1,1,2168-03-13 13:30:00,1.1666666666666667,,excluido_regra1_obito_precoce,,
+27898558,sepse_resp_failure,1,0,1,1,1,2138-04-26 07:00:00,0.4166666666666667,,excluido_regra1_obito_precoce,,
+20548929,sepse_resp_failure,0,0,1,1,1,2191-05-17 16:45:00,,,incluido,,Sobrevivente sem reintubação
+24201752,sepse_resp_failure,1,0,1,1,1,2174-11-16 12:45:00,34.18333333333333,,incluido,,Óbito
+24982716,sepse_resp_failure,0,0,1,1,1,2127-02-21 09:36:00,,,incluido,,Sobrevivente sem reintubação
+24231830,sepse_resp_failure,0,1,2,1,1,2181-01-07 11:19:00,,,incluido,,Sobrevivente sem reintubação
+24660771,sepse_resp_failure,1,0,1,1,1,2183-06-23 17:17:00,0.13333333333333333,,excluido_regra1_obito_precoce,,
+27944802,sepse_resp_failure,0,0,1,1,1,2140-06-07 08:47:00,,,incluido,,Sobrevivente sem reintubação
+28099640,sepse_resp_failure,0,0,1,1,1,2175-07-01 18:23:00,,,incluido,,Sobrevivente sem reintubação
+20335935,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29124372,sepse_resp_failure,1,0,1,1,1,2124-08-21 08:49:00,229.4,1.7,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+20657068,sepse_resp_failure,0,0,1,1,1,2146-01-19 12:00:00,,,incluido,,Sobrevivente sem reintubação
+23799184,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25599815,sepse_resp_failure,0,0,1,1,1,2146-07-20 14:00:00,,,incluido,,Sobrevivente sem reintubação
+22400655,sepse_resp_failure,0,0,1,1,1,2178-01-11 16:40:00,,,incluido,,Sobrevivente sem reintubação
+28140983,sepse_resp_failure,0,0,1,1,1,2123-02-02 08:42:00,,,incluido,,Sobrevivente sem reintubação
+27948305,sepse_resp_failure,0,0,1,1,1,2170-09-18 15:30:00,,,incluido,,Sobrevivente sem reintubação
+23104155,sepse_resp_failure,1,1,2,1,2,2189-12-13 12:38:00,293.28333333333336,18.816666666666666,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25355565,sepse_resp_failure,1,0,1,1,1,2192-10-02 13:00:00,0.11666666666666667,,excluido_regra1_obito_precoce,,
+20744642,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22161375,sepse_resp_failure,1,0,1,1,1,2161-11-14 16:30:00,17.166666666666668,,incluido,,Óbito
+28801083,sepse_resp_failure,0,1,2,0,1,2112-08-02 09:15:00,,3.9833333333333334,incluido,,Reintubado
+22489365,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27736209,sepse_resp_failure,0,0,1,1,1,2126-08-12 13:22:00,,,incluido,,Sobrevivente sem reintubação
+27203300,sepse_resp_failure,0,1,2,1,2,2127-01-10 11:53:00,,21.366666666666667,incluido,,Reintubado
+22235754,sepse_resp_failure,0,0,1,1,1,2191-07-24 16:45:00,,,incluido,,Sobrevivente sem reintubação
+29737055,sepse_resp_failure,0,0,1,1,1,2158-11-02 14:13:00,,,incluido,,Sobrevivente sem reintubação
+26365458,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23915144,sepse_resp_failure,0,0,1,1,1,2139-08-09 12:30:00,,,incluido,,Sobrevivente sem reintubação
+25744577,sepse_resp_failure,0,0,1,1,1,2147-06-16 18:47:00,,,incluido,,Sobrevivente sem reintubação
+26204715,sepse_resp_failure,0,0,1,1,1,2118-11-26 10:54:00,,,incluido,,Sobrevivente sem reintubação
+27440064,sepse_resp_failure,0,0,1,1,1,2169-10-07 10:42:00,,,incluido,,Sobrevivente sem reintubação
+26743801,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26809529,sepse_resp_failure,1,0,1,1,1,2126-03-15 09:10:00,4.083333333333333,,excluido_regra1_obito_precoce,,
+28663447,sepse_resp_failure,1,0,1,1,1,2145-06-03 17:08:00,0.3333333333333333,,excluido_regra1_obito_precoce,,
+22154112,sepse_resp_failure,0,1,2,1,2,2185-12-08 18:00:00,,10.383333333333333,incluido,,Reintubado
+28546355,sepse_resp_failure,0,0,1,1,1,2177-06-28 09:30:00,,,incluido,,Sobrevivente sem reintubação
+23094039,sepse_resp_failure,1,0,1,1,1,2117-01-26 10:35:00,0.08333333333333333,,excluido_regra1_obito_precoce,,
+24424380,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21193689,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29598220,sepse_resp_failure,0,0,1,1,1,2171-08-01 12:30:00,,,incluido,,Sobrevivente sem reintubação
+27188722,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28698459,sepse_resp_failure,0,1,2,1,1,2168-12-03 14:33:00,,,incluido,,Sobrevivente sem reintubação
+24707282,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21554040,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25421818,sepse_resp_failure,0,0,1,1,1,2153-02-23 07:30:00,,,incluido,,Sobrevivente sem reintubação
+23706802,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26495633,sepse_resp_failure,0,0,1,1,1,2124-06-16 16:30:00,,,incluido,,Sobrevivente sem reintubação
+22433667,sepse_resp_failure,0,0,1,1,1,2181-05-22 14:42:00,,,incluido,,Sobrevivente sem reintubação
+24840402,sepse_resp_failure,1,0,1,1,1,2155-11-08 02:29:00,0.9333333333333333,,excluido_regra1_obito_precoce,,
+20199651,sepse_resp_failure,0,1,2,1,2,2187-06-07 10:35:00,,21.4,incluido,,Reintubado
+26664046,sepse_resp_failure,0,0,1,1,1,2142-09-06 23:46:00,,,incluido,,Sobrevivente sem reintubação
+21539156,sepse_resp_failure,0,1,2,1,1,2128-09-28 09:00:00,,0.16666666666666666,incluido,,Reintubado
+24889537,sepse_resp_failure,0,0,1,1,1,2174-02-11 14:45:00,,,incluido,,Sobrevivente sem reintubação
+23013764,sepse_resp_failure,1,0,1,1,1,2111-02-14 20:27:00,0.05,,excluido_regra1_obito_precoce,,
+21926774,sepse_resp_failure,0,0,1,1,1,2161-06-20 15:20:00,,,incluido,,Sobrevivente sem reintubação
+24734433,sepse_resp_failure,0,0,1,1,1,2136-03-28 09:17:00,,,incluido,,Sobrevivente sem reintubação
+26277804,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27694154,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20561654,sepse_resp_failure,0,0,1,1,1,2153-01-26 10:30:00,,,incluido,,Sobrevivente sem reintubação
+26385329,sepse_resp_failure,0,0,1,1,1,2153-04-24 14:45:00,,,incluido,,Sobrevivente sem reintubação
+28069578,sepse_resp_failure,1,0,1,1,1,2162-06-30 19:39:00,0.65,,excluido_regra1_obito_precoce,,
+24480630,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25818443,sepse_resp_failure,0,0,1,1,1,2202-06-04 13:57:00,,,incluido,,Sobrevivente sem reintubação
+21436965,sepse_resp_failure,1,0,1,1,1,2176-08-17 18:45:00,8.466666666666667,,excluido_regra1_obito_precoce,,
+25735879,sepse_resp_failure,0,0,1,1,1,2188-11-30 08:15:00,,,incluido,,Sobrevivente sem reintubação
+24538207,sepse_resp_failure,1,0,1,1,1,2155-12-18 16:54:00,13.733333333333333,,incluido,,Óbito
+23023631,sepse_resp_failure,0,0,1,1,1,2173-05-29 14:42:00,,,incluido,,Sobrevivente sem reintubação
+20186941,sepse_resp_failure,0,0,1,1,1,2155-12-03 21:00:00,,,incluido,,Sobrevivente sem reintubação
+25863554,sepse_resp_failure,0,1,2,1,2,2111-11-13 13:00:00,,4.5,incluido,,Reintubado
+23003466,sepse_resp_failure,1,0,1,1,2,2141-01-25 11:40:00,157.86666666666667,45.583333333333336,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+21347408,sepse_resp_failure,1,0,1,1,1,2148-06-12 16:18:00,261.81666666666666,,excluido_regra2_desfecho_tardio,morte >120 h,
+29695503,sepse_resp_failure,0,0,1,1,1,2147-06-26 13:56:00,,,incluido,,Sobrevivente sem reintubação
+23187370,sepse_resp_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+21266614,sepse_resp_failure,0,1,2,1,2,2177-06-28 17:11:00,,523.8666666666667,excluido_regra2_desfecho_tardio,reintubação >120 h,
+21404863,sepse_resp_failure,0,0,1,1,2,2152-06-07 10:48:00,,269.25,excluido_regra2_desfecho_tardio,reintubação >120 h,
+25890171,sepse_resp_failure,0,1,2,1,2,2125-02-23 17:20:00,,6.0,incluido,,Reintubado
+22162494,sepse_resp_failure,0,0,1,1,1,2145-06-09 10:15:00,,,incluido,,Sobrevivente sem reintubação
+22718841,sepse_resp_failure,1,0,1,1,1,2181-03-30 13:15:00,39.416666666666664,,incluido,,Óbito
+21973840,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+21386394,sepse_resp_failure,0,1,2,1,2,2116-11-25 09:15:00,,72.71666666666667,incluido,,Reintubado
+22801808,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28017146,sepse_resp_failure,0,0,1,1,1,2180-06-26 07:37:00,,,incluido,,Sobrevivente sem reintubação
+24094189,sepse_resp_failure,0,0,1,1,1,2138-12-21 15:30:00,,,incluido,,Sobrevivente sem reintubação
+25795251,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+26091373,sepse_resp_failure,1,0,1,1,2,2143-10-17 14:46:00,374.98333333333335,30.233333333333334,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+29949151,sepse_resp_failure,0,0,1,1,1,2192-07-31 14:35:00,,,incluido,,Sobrevivente sem reintubação
+25553044,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27154619,sepse_resp_failure,1,0,0,0,5,,,,excluido_sem_extubacao,,
+23348948,sepse_resp_failure,1,0,1,1,2,2138-05-28 15:16:00,168.65,61.733333333333334,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25209251,sepse_resp_failure,0,0,1,1,1,2126-02-11 09:48:00,,,incluido,,Sobrevivente sem reintubação
+20609296,sepse_resp_failure,0,1,2,1,1,2149-11-03 13:10:00,,0.16666666666666666,incluido,,Reintubado
+27619588,sepse_resp_failure,1,0,1,1,1,2175-09-17 13:05:00,0.4666666666666667,,excluido_regra1_obito_precoce,,
+21587751,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+22091016,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22311908,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27344963,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22398974,sepse_resp_failure,0,1,2,1,2,2140-08-11 12:20:00,,26.9,incluido,,Reintubado
+24463238,sepse_resp_failure,0,0,1,1,1,2180-04-21 17:00:00,,,incluido,,Sobrevivente sem reintubação
+23065855,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25106756,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27529280,sepse_resp_failure,0,0,1,1,1,2137-05-10 15:15:00,,,incluido,,Sobrevivente sem reintubação
+22600297,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24298360,sepse_resp_failure,0,0,1,1,1,2138-05-24 16:12:00,,,incluido,,Sobrevivente sem reintubação
+27349721,sepse_resp_failure,1,0,1,1,1,2180-09-14 16:30:00,17.166666666666668,,incluido,,Óbito
+20389542,sepse_resp_failure,0,0,1,1,1,2205-04-09 17:24:00,,,incluido,,Sobrevivente sem reintubação
+20196570,sepse_resp_failure,0,0,1,1,1,2159-09-10 13:23:00,,,incluido,,Sobrevivente sem reintubação
+23366283,sepse_resp_failure,0,1,2,0,1,2136-08-08 10:06:00,,0.8666666666666667,incluido,,Reintubado
+23725541,sepse_resp_failure,0,0,1,1,1,2114-10-30 13:36:00,,,incluido,,Sobrevivente sem reintubação
+20512709,sepse_resp_failure,1,1,2,1,2,2149-08-04 19:50:00,136.61666666666667,2.033333333333333,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24507010,sepse_resp_failure,1,0,1,1,1,2184-11-22 16:25:00,0.75,,excluido_regra1_obito_precoce,,
+28989828,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27091771,sepse_resp_failure,0,0,1,1,1,2166-12-08 10:28:00,,,incluido,,Sobrevivente sem reintubação
+26536668,sepse_resp_failure,0,0,1,1,1,2152-07-19 11:41:00,,,incluido,,Sobrevivente sem reintubação
+25420789,sepse_resp_failure,0,0,1,1,1,2159-02-28 16:05:00,,,incluido,,Sobrevivente sem reintubação
+25730697,sepse_resp_failure,0,1,2,1,3,2180-10-08 11:30:00,,2.0833333333333335,incluido,,Reintubado
+26285788,sepse_resp_failure,0,1,2,1,1,2131-11-14 16:29:00,,,incluido,,Sobrevivente sem reintubação
+20910709,sepse_resp_failure,0,0,1,1,1,2154-06-03 13:04:00,,,incluido,,Sobrevivente sem reintubação
+28553868,sepse_resp_failure,0,1,2,1,2,2141-04-28 11:55:00,,54.56666666666667,incluido,,Reintubado
+20247409,sepse_resp_failure,1,0,1,1,1,2201-02-06 14:56:00,2.316666666666667,,excluido_regra1_obito_precoce,,
+26151588,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25677922,sepse_resp_failure,0,0,1,1,1,2188-06-22 09:39:00,,,incluido,,Sobrevivente sem reintubação
+24237377,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22191679,sepse_resp_failure,0,0,1,1,1,2132-03-10 11:32:00,,,incluido,,Sobrevivente sem reintubação
+28482833,sepse_resp_failure,1,0,1,1,1,2177-05-13 16:30:00,0.5,,excluido_regra1_obito_precoce,,
+27367178,sepse_resp_failure,1,0,1,1,1,2168-11-03 15:40:00,2.3333333333333335,,excluido_regra1_obito_precoce,,
+25121948,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21479712,sepse_resp_failure,1,0,1,1,1,2115-01-15 11:30:00,22.25,,incluido,,Óbito
+26752300,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27150302,sepse_resp_failure,0,0,1,1,2,2128-07-11 18:00:00,,142.0,excluido_regra2_desfecho_tardio,reintubação >120 h,
+21647737,sepse_resp_failure,0,0,1,1,1,2128-12-20 11:55:00,,,incluido,,Sobrevivente sem reintubação
+23165118,sepse_resp_failure,0,0,1,1,1,2192-01-25 11:30:00,,,incluido,,Sobrevivente sem reintubação
+22369507,sepse_resp_failure,0,1,2,1,2,2141-07-15 08:52:00,,18.133333333333333,incluido,,Reintubado
+20883288,sepse_resp_failure,1,0,1,1,1,2165-09-22 13:50:00,1.4166666666666667,,excluido_regra1_obito_precoce,,
+26861620,sepse_resp_failure,0,0,1,1,2,2138-08-18 11:54:00,,14.016666666666667,incluido,,Reintubado
+24425147,sepse_resp_failure,0,0,1,1,1,2144-04-27 16:01:00,,,incluido,,Sobrevivente sem reintubação
+23710972,sepse_resp_failure,0,0,1,1,1,2140-03-14 16:36:00,,,incluido,,Sobrevivente sem reintubação
+20474181,sepse_resp_failure,0,0,1,1,1,2192-07-31 13:04:00,,,incluido,,Sobrevivente sem reintubação
+26277308,sepse_resp_failure,1,0,1,1,1,2162-11-03 15:40:00,16.583333333333332,,incluido,,Óbito
+29543839,sepse_resp_failure,1,0,1,1,1,2193-03-18 12:40:00,85.5,,incluido,,Óbito
+26065008,sepse_resp_failure,0,0,1,1,1,2132-08-18 12:15:00,,,incluido,,Sobrevivente sem reintubação
+25334784,sepse_resp_failure,0,0,1,1,1,2111-08-29 11:15:00,,,incluido,,Sobrevivente sem reintubação
+26063073,sepse_resp_failure,0,0,1,1,1,2138-06-04 15:45:00,,,incluido,,Sobrevivente sem reintubação
+25248957,sepse_resp_failure,0,0,1,1,1,2124-08-10 11:46:00,,,incluido,,Sobrevivente sem reintubação
+28586362,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21129108,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29903350,sepse_resp_failure,0,0,1,1,1,2167-11-14 08:30:00,,,incluido,,Sobrevivente sem reintubação
+24430530,sepse_resp_failure,0,0,1,1,1,2144-02-07 12:15:00,,,incluido,,Sobrevivente sem reintubação
+21764011,sepse_resp_failure,0,0,1,1,1,2141-04-11 14:54:00,,,incluido,,Sobrevivente sem reintubação
+24501539,sepse_resp_failure,1,0,1,1,1,2130-06-29 16:05:00,134.41666666666666,,excluido_regra2_desfecho_tardio,morte >120 h,
+22460732,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+23535512,sepse_resp_failure,0,1,2,1,2,2121-03-21 15:45:00,,12.916666666666666,incluido,,Reintubado
+20953238,sepse_resp_failure,0,0,1,1,1,2135-10-20 08:08:00,,,incluido,,Sobrevivente sem reintubação
+20900545,sepse_resp_failure,0,0,1,1,1,2185-08-22 15:17:00,,,incluido,,Sobrevivente sem reintubação
+23214363,sepse_resp_failure,1,0,1,1,1,2155-09-06 12:22:00,20.316666666666666,,incluido,,Óbito
+23937041,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20966809,sepse_resp_failure,0,0,1,1,1,2115-05-17 09:15:00,,,incluido,,Sobrevivente sem reintubação
+20521100,sepse_resp_failure,1,0,1,1,1,2185-07-24 13:31:00,31.983333333333334,,incluido,,Óbito
+29460006,sepse_resp_failure,0,1,3,1,3,2138-02-03 08:30:00,,198.1,excluido_regra2_desfecho_tardio,reintubação >120 h,
+20644454,sepse_resp_failure,0,0,1,1,1,2168-08-29 12:30:00,,,incluido,,Sobrevivente sem reintubação
+29581724,sepse_resp_failure,0,0,1,1,1,2189-04-15 12:33:00,,,incluido,,Sobrevivente sem reintubação
+26708158,sepse_resp_failure,0,0,1,1,1,2184-02-20 18:00:00,,,incluido,,Sobrevivente sem reintubação
+25945017,sepse_resp_failure,0,1,3,1,2,2175-09-18 16:56:00,,5.733333333333333,incluido,,Reintubado
+29485925,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28725627,sepse_resp_failure,0,0,1,1,1,2138-03-23 23:29:00,,,incluido,,Sobrevivente sem reintubação
+27001923,sepse_resp_failure,1,0,1,1,1,2206-07-27 17:35:00,11.416666666666666,,excluido_regra1_obito_precoce,,
+28149820,sepse_resp_failure,0,0,1,1,1,2154-04-14 13:58:00,,,incluido,,Sobrevivente sem reintubação
+24155985,sepse_resp_failure,1,0,1,1,1,2140-10-16 20:20:00,52.43333333333333,,incluido,,Óbito
+23297176,sepse_resp_failure,0,0,1,1,1,2136-09-07 19:10:00,,,incluido,,Sobrevivente sem reintubação
+26258657,sepse_resp_failure,0,0,1,1,1,2135-09-04 15:00:00,,,incluido,,Sobrevivente sem reintubação
+23834823,sepse_resp_failure,0,1,2,1,2,2141-12-15 14:40:00,,53.333333333333336,incluido,,Reintubado
+29700838,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29842766,sepse_resp_failure,0,0,1,2,2,2187-05-01 08:25:00,,,excluido_multiplas_intubacoes,,
+29856124,sepse_resp_failure,0,0,1,1,1,2193-05-01 16:00:00,,,incluido,,Sobrevivente sem reintubação
+20858819,sepse_resp_failure,0,0,1,1,1,2117-01-02 10:20:00,,,incluido,,Sobrevivente sem reintubação
+28331766,sepse_resp_failure,0,0,1,1,1,2154-09-10 16:00:00,,,incluido,,Sobrevivente sem reintubação
+21396263,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28285933,sepse_resp_failure,0,0,1,1,1,2183-12-24 15:12:00,,,incluido,,Sobrevivente sem reintubação
+26269972,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29127122,sepse_resp_failure,1,1,2,1,2,2169-04-02 14:20:00,129.08333333333334,22.166666666666668,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+28116031,sepse_resp_failure,1,0,1,1,1,2168-04-02 17:08:00,0.11666666666666667,,excluido_regra1_obito_precoce,,
+22142975,sepse_resp_failure,0,0,1,1,1,2136-08-12 16:52:00,,,incluido,,Sobrevivente sem reintubação
+21077857,sepse_resp_failure,0,0,1,1,1,2175-05-25 14:58:00,,,incluido,,Sobrevivente sem reintubação
+26225218,sepse_resp_failure,0,0,1,1,1,2128-04-10 11:05:00,,,incluido,,Sobrevivente sem reintubação
+26329469,sepse_resp_failure,0,0,1,1,1,2188-10-06 10:55:00,,,incluido,,Sobrevivente sem reintubação
+25682203,sepse_resp_failure,1,1,2,1,2,2192-07-12 16:15:00,42.25,30.583333333333332,incluido,,Reintubado e óbito
+22463123,sepse_resp_failure,0,0,1,1,1,2161-12-27 11:20:00,,,incluido,,Sobrevivente sem reintubação
+27157657,sepse_resp_failure,0,0,1,1,1,2126-01-13 11:45:00,,,incluido,,Sobrevivente sem reintubação
+25014946,sepse_resp_failure,1,0,1,1,1,2179-11-16 09:36:00,90.25,,incluido,,Óbito
+28926199,sepse_resp_failure,0,0,1,1,1,2130-06-04 17:25:00,,,incluido,,Sobrevivente sem reintubação
+24496600,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28808969,sepse_resp_failure,1,0,1,1,1,2180-02-28 20:20:00,1.1666666666666667,,excluido_regra1_obito_precoce,,
+25912782,sepse_resp_failure,0,0,1,1,1,2110-11-12 12:12:00,,,incluido,,Sobrevivente sem reintubação
+20463954,sepse_resp_failure,0,0,1,1,1,2148-12-26 11:30:00,,,incluido,,Sobrevivente sem reintubação
+27065321,sepse_resp_failure,0,0,1,1,1,2187-07-14 11:40:00,,,incluido,,Sobrevivente sem reintubação
+26957275,sepse_resp_failure,1,0,1,1,2,2138-04-19 11:50:00,127.15,42.083333333333336,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25800401,sepse_resp_failure,0,1,2,1,2,2112-04-26 16:06:00,,474.23333333333335,excluido_regra2_desfecho_tardio,reintubação >120 h,
+23672613,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27339398,sepse_resp_failure,0,0,1,1,1,2126-04-20 20:50:00,,,incluido,,Sobrevivente sem reintubação
+20836936,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23937309,sepse_resp_failure,0,0,1,1,1,2145-07-14 11:33:00,,,incluido,,Sobrevivente sem reintubação
+21363389,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+25572079,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22311878,sepse_resp_failure,0,0,1,1,2,2174-01-24 10:03:00,,11.45,incluido,,Reintubado
+25690939,sepse_resp_failure,0,0,1,1,1,2149-05-10 15:35:00,,,incluido,,Sobrevivente sem reintubação
+22835761,sepse_resp_failure,0,1,2,1,1,2170-09-01 12:10:00,,,incluido,,Sobrevivente sem reintubação
+28070198,sepse_resp_failure,0,1,2,1,2,2145-02-21 09:30:00,,257.75,excluido_regra2_desfecho_tardio,reintubação >120 h,
+27494646,sepse_resp_failure,0,0,1,1,1,2183-03-28 22:05:00,,,incluido,,Sobrevivente sem reintubação
+24517143,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20009330,sepse_resp_failure,0,0,1,1,1,2144-01-02 14:19:00,,,incluido,,Sobrevivente sem reintubação
+28028876,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24457050,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22509482,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28654552,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28177289,sepse_resp_failure,0,0,1,1,1,2158-11-11 18:18:00,,,incluido,,Sobrevivente sem reintubação
+21109754,sepse_resp_failure,1,0,1,1,1,2123-04-30 15:00:00,3.8666666666666667,,excluido_regra1_obito_precoce,,
+29388815,sepse_resp_failure,0,0,1,1,1,2129-05-06 15:15:00,,,incluido,,Sobrevivente sem reintubação
+22570982,sepse_resp_failure,0,0,1,1,1,2113-10-12 22:03:00,,,incluido,,Sobrevivente sem reintubação
+24262888,sepse_resp_failure,0,0,1,1,1,2182-07-26 14:55:00,,,incluido,,Sobrevivente sem reintubação
+26569035,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+21437009,sepse_resp_failure,0,0,1,1,1,2171-05-11 08:14:00,,,incluido,,Sobrevivente sem reintubação
+20073637,sepse_resp_failure,0,0,1,1,1,2183-09-03 11:50:00,,,incluido,,Sobrevivente sem reintubação
+26975684,sepse_resp_failure,0,0,1,1,2,2126-03-03 04:40:00,,30.333333333333332,incluido,,Reintubado
+25833892,sepse_resp_failure,0,0,1,1,1,2122-03-28 14:03:00,,,incluido,,Sobrevivente sem reintubação
+28461532,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27711099,sepse_resp_failure,0,1,1,1,2,2144-10-22 07:46:00,,35.7,incluido,,Reintubado
+26978248,sepse_resp_failure,0,0,1,1,1,2154-06-30 14:00:00,,,incluido,,Sobrevivente sem reintubação
+23173983,sepse_resp_failure,1,0,1,1,1,2159-01-29 11:30:00,154.3,,excluido_regra2_desfecho_tardio,morte >120 h,
+29320104,sepse_resp_failure,0,0,1,1,1,2135-12-03 09:04:00,,,incluido,,Sobrevivente sem reintubação
+27335962,sepse_resp_failure,1,0,1,1,1,2180-01-05 03:35:00,10.083333333333334,,excluido_regra1_obito_precoce,,
+25371912,sepse_resp_failure,1,1,2,1,2,2186-12-21 09:52:00,141.0,75.71666666666667,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+22718263,sepse_resp_failure,1,1,2,2,3,2133-05-27 15:19:00,225.88333333333333,133.35,excluido_multiplas_intubacoes,,
+25011280,sepse_resp_failure,0,1,2,1,1,2123-08-15 08:00:00,,0.25,incluido,,Reintubado
+20472830,sepse_resp_failure,1,1,2,1,3,2128-02-17 09:45:00,1155.3833333333334,82.25,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25378793,sepse_resp_failure,0,0,1,1,1,2167-11-21 15:20:00,,,incluido,,Sobrevivente sem reintubação
+21111281,sepse_resp_failure,0,1,2,2,3,2179-12-23 13:15:00,,63.35,excluido_multiplas_intubacoes,,
+29258317,sepse_resp_failure,0,0,1,1,1,2126-07-25 17:00:00,,,incluido,,Sobrevivente sem reintubação
+29231599,sepse_resp_failure,1,0,1,1,1,2163-10-10 10:55:00,0.3333333333333333,,excluido_regra1_obito_precoce,,
+21771492,sepse_resp_failure,1,0,1,1,1,2181-07-26 06:42:00,0.05,,excluido_regra1_obito_precoce,,
+21463350,sepse_resp_failure,0,0,1,1,2,2153-09-07 17:00:00,,3.1666666666666665,incluido,,Reintubado
+24261893,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28363469,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27270549,sepse_resp_failure,1,0,1,2,3,2169-11-07 08:20:00,129.5,123.91666666666667,excluido_multiplas_intubacoes,,
+27068241,sepse_resp_failure,0,1,2,1,2,2136-03-15 14:20:00,,3.6,incluido,,Reintubado
+28515801,sepse_resp_failure,0,0,1,1,1,2154-07-18 20:00:00,,,incluido,,Sobrevivente sem reintubação
+22920715,sepse_resp_failure,0,0,1,1,1,2156-04-12 09:55:00,,,incluido,,Sobrevivente sem reintubação
+20095529,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23513840,sepse_resp_failure,1,0,1,1,1,2126-04-21 18:21:00,226.68333333333334,,excluido_regra2_desfecho_tardio,morte >120 h,
+25855937,sepse_resp_failure,0,0,1,1,1,2131-04-02 16:08:00,,,incluido,,Sobrevivente sem reintubação
+27066521,sepse_resp_failure,1,0,1,1,1,2165-07-22 11:01:00,0.9166666666666666,,excluido_regra1_obito_precoce,,
+24510713,sepse_resp_failure,0,0,1,1,1,2171-07-24 08:30:00,,,incluido,,Sobrevivente sem reintubação
+26469866,sepse_resp_failure,0,0,1,1,1,2177-09-04 12:15:00,,,incluido,,Sobrevivente sem reintubação
+21463690,sepse_resp_failure,0,0,1,1,1,2174-02-17 17:50:00,,,incluido,,Sobrevivente sem reintubação
+20602612,sepse_resp_failure,0,1,2,1,2,2147-06-21 17:46:00,,481.23333333333335,excluido_regra2_desfecho_tardio,reintubação >120 h,
+24184637,sepse_resp_failure,0,0,1,1,1,2137-04-10 12:19:00,,,incluido,,Sobrevivente sem reintubação
+24363388,sepse_resp_failure,0,0,1,1,1,2140-09-15 10:15:00,,,incluido,,Sobrevivente sem reintubação
+29852852,sepse_resp_failure,0,0,1,1,1,2166-12-11 14:25:00,,,incluido,,Sobrevivente sem reintubação
+21041746,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28945425,sepse_resp_failure,0,1,2,1,2,2115-03-07 11:39:00,,58.016666666666666,incluido,,Reintubado
+29452084,sepse_resp_failure,0,0,1,1,1,2146-05-14 09:45:00,,,incluido,,Sobrevivente sem reintubação
+25112960,sepse_resp_failure,0,0,1,1,1,2153-05-17 17:31:00,,,incluido,,Sobrevivente sem reintubação
+28811617,sepse_resp_failure,0,0,1,1,1,2155-02-01 11:17:00,,,incluido,,Sobrevivente sem reintubação
+21652622,sepse_resp_failure,0,0,1,1,1,2161-02-13 10:50:00,,,incluido,,Sobrevivente sem reintubação
+24959439,sepse_resp_failure,1,0,1,1,1,2121-11-13 17:43:00,365.45,,excluido_regra2_desfecho_tardio,morte >120 h,
+22756411,sepse_resp_failure,0,0,1,1,1,2167-01-26 17:15:00,,,incluido,,Sobrevivente sem reintubação
+29429285,sepse_resp_failure,1,0,1,2,2,2171-07-08 08:10:00,21.833333333333332,,excluido_multiplas_intubacoes,,
+21822936,sepse_resp_failure,0,1,2,1,2,2128-05-25 11:15:00,,640.75,excluido_regra2_desfecho_tardio,reintubação >120 h,
+23309975,sepse_resp_failure,1,0,1,1,1,2159-05-05 13:00:00,1.5,,excluido_regra1_obito_precoce,,
+21725914,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20996703,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26372548,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28945718,sepse_resp_failure,1,0,1,1,1,2131-08-29 14:40:00,0.38333333333333336,,excluido_regra1_obito_precoce,,
+24788620,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25206654,sepse_resp_failure,0,1,2,1,2,2116-05-26 11:55:00,,50.583333333333336,incluido,,Reintubado
+25776572,sepse_resp_failure,1,0,1,1,1,2188-10-15 16:40:00,0.5833333333333334,,excluido_regra1_obito_precoce,,
+29957742,sepse_resp_failure,1,0,1,1,2,2158-08-04 13:27:00,364.3833333333333,307.71666666666664,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+22315103,sepse_resp_failure,0,1,2,1,1,2181-08-25 11:50:00,,,incluido,,Sobrevivente sem reintubação
+21433458,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24352947,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23255460,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29438461,sepse_resp_failure,0,0,1,1,1,2141-01-20 00:40:00,,,incluido,,Sobrevivente sem reintubação
+22459818,sepse_resp_failure,1,0,1,1,1,2123-04-12 18:50:00,98.65,,incluido,,Óbito
+23870857,sepse_resp_failure,0,0,1,1,1,2119-07-19 10:13:00,,,incluido,,Sobrevivente sem reintubação
+29905273,sepse_resp_failure,0,0,1,1,1,2119-07-07 13:10:00,,,incluido,,Sobrevivente sem reintubação
+20094915,sepse_resp_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+29161038,sepse_resp_failure,0,0,1,1,1,2126-01-01 09:31:00,,,incluido,,Sobrevivente sem reintubação
+21295380,sepse_resp_failure,1,0,1,1,1,2162-09-24 10:37:00,0.6333333333333333,,excluido_regra1_obito_precoce,,
+29103840,sepse_resp_failure,0,0,1,2,2,2140-09-06 11:33:00,,,excluido_multiplas_intubacoes,,
+29356054,sepse_resp_failure,0,0,1,1,1,2165-03-09 15:18:00,,,incluido,,Sobrevivente sem reintubação
+28064529,sepse_resp_failure,0,0,1,1,1,2172-05-13 11:15:00,,,incluido,,Sobrevivente sem reintubação
+24328934,sepse_resp_failure,1,0,1,1,1,2126-04-23 18:45:00,14.25,,incluido,,Óbito
+23245888,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26116823,sepse_resp_failure,0,0,1,1,1,2142-10-02 17:33:00,,,incluido,,Sobrevivente sem reintubação
+21893553,sepse_resp_failure,0,0,1,1,1,2125-12-10 10:03:00,,,incluido,,Sobrevivente sem reintubação
+21828752,sepse_resp_failure,1,0,1,2,2,2114-06-24 08:00:00,194.0,,excluido_multiplas_intubacoes,,
+22305515,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28529212,sepse_resp_failure,0,0,1,1,1,2113-10-09 10:00:00,,,incluido,,Sobrevivente sem reintubação
+22692043,sepse_resp_failure,1,0,1,1,1,2160-03-01 14:35:00,222.01666666666668,,excluido_regra2_desfecho_tardio,morte >120 h,
+27777427,sepse_resp_failure,0,0,1,1,1,2158-08-03 12:53:00,,,incluido,,Sobrevivente sem reintubação
+28781657,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26921658,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27290526,sepse_resp_failure,1,0,1,1,1,2186-09-21 11:41:00,311.6166666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+28828235,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20819325,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25246035,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28996753,sepse_resp_failure,0,0,1,1,1,2170-12-09 14:25:00,,,incluido,,Sobrevivente sem reintubação
+20637575,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26867519,sepse_resp_failure,0,0,1,1,1,2164-12-09 11:54:00,,,incluido,,Sobrevivente sem reintubação
+23798072,sepse_resp_failure,1,1,2,2,2,2143-05-06 17:00:00,0.8333333333333334,,excluido_multiplas_intubacoes,,
+28964497,sepse_resp_failure,1,0,1,1,1,2121-03-24 12:03:00,0.8166666666666667,,excluido_regra1_obito_precoce,,
+29570125,sepse_resp_failure,0,0,1,1,1,2142-07-08 11:19:00,,,incluido,,Sobrevivente sem reintubação
+26273781,sepse_resp_failure,1,0,1,1,1,2169-11-29 16:41:00,0.06666666666666667,,excluido_regra1_obito_precoce,,
+24289215,sepse_resp_failure,1,0,1,1,2,2145-09-29 10:35:00,288.25,140.83333333333334,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+29409678,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29474572,sepse_resp_failure,0,1,2,0,1,2125-04-09 12:16:00,,0.9,incluido,,Reintubado
+28436916,sepse_resp_failure,0,0,1,1,1,2168-03-15 14:22:00,,,incluido,,Sobrevivente sem reintubação
+25413489,sepse_resp_failure,0,0,1,1,1,2136-07-31 09:07:00,,,incluido,,Sobrevivente sem reintubação
+27933693,sepse_resp_failure,1,0,1,1,1,2140-09-10 13:40:00,76.33333333333333,,incluido,,Óbito
+27603399,sepse_resp_failure,1,0,1,1,1,2127-07-02 13:32:00,20.216666666666665,,incluido,,Óbito
+25407424,sepse_resp_failure,0,0,1,1,1,2150-12-22 09:10:00,,,incluido,,Sobrevivente sem reintubação
+28486659,sepse_resp_failure,0,0,1,1,1,2151-03-13 10:05:00,,,incluido,,Sobrevivente sem reintubação
+28131106,sepse_resp_failure,0,1,2,1,2,2141-08-07 11:30:00,,1.5,incluido,,Reintubado
+20917922,sepse_resp_failure,0,0,1,1,1,2143-03-20 10:13:00,,,incluido,,Sobrevivente sem reintubação
+23848017,sepse_resp_failure,1,0,1,1,1,2146-12-07 18:20:00,0.3333333333333333,,excluido_regra1_obito_precoce,,
+22651802,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25448442,sepse_resp_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28661809,acute_respiratory_failure,1,0,1,1,1,2135-01-19 14:00:00,4.6,,excluido_regra1_obito_precoce,,
+23785565,acute_respiratory_failure,0,0,1,1,1,2179-01-18 06:40:00,,,incluido,,Sobrevivente sem reintubação
+26275841,acute_respiratory_failure,0,0,1,1,1,2142-08-02 10:44:00,,,incluido,,Sobrevivente sem reintubação
+28020206,acute_respiratory_failure,1,0,1,1,1,2133-09-21 13:38:00,238.86666666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+29276678,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25926997,acute_respiratory_failure,1,0,1,1,1,2181-12-22 11:52:00,42.8,,incluido,,Óbito
+20091897,acute_respiratory_failure,0,0,1,1,1,2121-08-03 13:42:00,,,incluido,,Sobrevivente sem reintubação
+23845264,acute_respiratory_failure,0,0,1,1,1,2137-08-07 11:28:00,,,incluido,,Sobrevivente sem reintubação
+29384111,acute_respiratory_failure,0,0,1,1,1,2139-01-29 07:15:00,,,incluido,,Sobrevivente sem reintubação
+28594240,acute_respiratory_failure,0,1,2,1,2,2180-04-08 21:45:00,,10.25,incluido,,Reintubado
+25176043,acute_respiratory_failure,0,0,1,1,1,2167-07-13 07:30:00,,,incluido,,Sobrevivente sem reintubação
+23362878,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22340248,acute_respiratory_failure,0,0,1,1,1,2181-01-05 12:30:00,,,incluido,,Sobrevivente sem reintubação
+27280709,acute_respiratory_failure,0,0,1,1,1,2182-05-06 11:42:00,,,incluido,,Sobrevivente sem reintubação
+23203523,acute_respiratory_failure,0,0,1,1,1,2178-06-10 14:44:00,,,incluido,,Sobrevivente sem reintubação
+20147637,acute_respiratory_failure,0,0,1,1,1,2155-01-23 12:43:00,,,incluido,,Sobrevivente sem reintubação
+29968077,acute_respiratory_failure,0,0,1,1,1,2159-09-17 17:25:00,,,incluido,,Sobrevivente sem reintubação
+26180856,acute_respiratory_failure,1,1,2,1,2,2144-12-28 15:36:00,198.23333333333332,25.9,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24776027,acute_respiratory_failure,1,0,1,1,1,2167-08-13 12:00:00,2.683333333333333,,excluido_regra1_obito_precoce,,
+23325597,acute_respiratory_failure,0,0,1,1,2,2139-07-03 10:42:00,,412.71666666666664,excluido_regra2_desfecho_tardio,reintubação >120 h,
+26148096,acute_respiratory_failure,1,0,1,1,1,2164-02-23 17:09:00,309.85,,excluido_regra2_desfecho_tardio,morte >120 h,
+26194242,acute_respiratory_failure,0,0,1,1,1,2132-09-12 14:05:00,,,incluido,,Sobrevivente sem reintubação
+25637992,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21448805,acute_respiratory_failure,0,0,1,1,1,2156-07-31 13:00:00,,,incluido,,Sobrevivente sem reintubação
+23994346,acute_respiratory_failure,0,0,1,1,1,2122-12-26 11:38:00,,,incluido,,Sobrevivente sem reintubação
+23409326,acute_respiratory_failure,0,0,1,1,1,2169-01-09 08:18:00,,,incluido,,Sobrevivente sem reintubação
+21233860,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22432336,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27692157,acute_respiratory_failure,0,0,1,1,1,2170-04-15 16:02:00,,,incluido,,Sobrevivente sem reintubação
+23581194,acute_respiratory_failure,0,0,1,1,1,2173-07-08 11:44:00,,,incluido,,Sobrevivente sem reintubação
+28933075,acute_respiratory_failure,0,0,1,1,1,2147-12-01 23:40:00,,,incluido,,Sobrevivente sem reintubação
+22950361,acute_respiratory_failure,0,0,1,1,1,2184-03-10 16:25:00,,,incluido,,Sobrevivente sem reintubação
+22961529,acute_respiratory_failure,0,0,1,1,1,2141-10-02 11:17:00,,,incluido,,Sobrevivente sem reintubação
+28567609,acute_respiratory_failure,0,0,1,1,1,2140-05-28 15:40:00,,,incluido,,Sobrevivente sem reintubação
+22391343,acute_respiratory_failure,0,0,1,1,1,2164-07-15 09:43:00,,,incluido,,Sobrevivente sem reintubação
+20793964,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+29807103,acute_respiratory_failure,0,0,1,1,1,2158-11-06 13:24:00,,,incluido,,Sobrevivente sem reintubação
+28817955,acute_respiratory_failure,0,0,1,1,1,2142-05-12 13:00:00,,,incluido,,Sobrevivente sem reintubação
+21113017,acute_respiratory_failure,0,0,1,1,1,2173-08-25 12:00:00,,,incluido,,Sobrevivente sem reintubação
+26234476,acute_respiratory_failure,0,0,1,1,1,2172-12-03 08:12:00,,,incluido,,Sobrevivente sem reintubação
+28038797,acute_respiratory_failure,0,1,2,1,2,2128-12-28 12:14:00,,9.35,incluido,,Reintubado
+23684602,acute_respiratory_failure,0,0,1,1,1,2189-08-07 12:16:00,,,incluido,,Sobrevivente sem reintubação
+23217649,acute_respiratory_failure,0,0,1,1,1,2165-03-28 10:07:00,,,incluido,,Sobrevivente sem reintubação
+29867820,acute_respiratory_failure,1,1,2,1,2,2146-12-30 13:07:00,35.25,1.8833333333333333,incluido,,Reintubado e óbito
+22917399,acute_respiratory_failure,0,1,2,1,2,2158-04-11 14:00:00,,25.0,incluido,,Reintubado
+20984870,acute_respiratory_failure,0,0,1,1,1,2159-05-07 21:45:00,,,incluido,,Sobrevivente sem reintubação
+25827963,acute_respiratory_failure,0,0,1,1,1,2173-09-03 12:05:00,,,incluido,,Sobrevivente sem reintubação
+24602702,acute_respiratory_failure,0,0,1,1,1,2172-06-26 11:05:00,,,incluido,,Sobrevivente sem reintubação
+21134403,acute_respiratory_failure,1,0,1,1,1,2133-03-27 15:15:00,141.5,,excluido_regra2_desfecho_tardio,morte >120 h,
+20271144,acute_respiratory_failure,0,0,1,1,1,2192-09-04 11:50:00,,,incluido,,Sobrevivente sem reintubação
+21010062,acute_respiratory_failure,1,0,1,1,1,2137-09-09 15:58:00,38.03333333333333,,incluido,,Óbito
+26090102,acute_respiratory_failure,1,0,1,1,1,2176-10-05 12:58:00,79.78333333333333,,incluido,,Óbito
+24155234,acute_respiratory_failure,0,0,1,1,1,2180-09-18 10:25:00,,,incluido,,Sobrevivente sem reintubação
+28618207,acute_respiratory_failure,0,1,2,1,2,2187-09-20 08:22:00,,194.13333333333333,excluido_regra2_desfecho_tardio,reintubação >120 h,
+22386823,acute_respiratory_failure,0,0,1,1,1,2142-02-01 14:23:00,,,incluido,,Sobrevivente sem reintubação
+21333065,acute_respiratory_failure,0,0,1,1,1,2138-04-11 09:45:00,,,incluido,,Sobrevivente sem reintubação
+29111737,acute_respiratory_failure,0,0,1,1,2,2134-05-01 15:56:00,,89.9,incluido,,Reintubado
+22090317,acute_respiratory_failure,0,0,1,1,1,2111-01-11 10:53:00,,,incluido,,Sobrevivente sem reintubação
+21811595,acute_respiratory_failure,0,0,1,1,1,2192-02-17 11:00:00,,,incluido,,Sobrevivente sem reintubação
+29385031,acute_respiratory_failure,0,0,1,1,1,2202-03-25 08:30:00,,,incluido,,Sobrevivente sem reintubação
+25778760,acute_respiratory_failure,0,0,1,1,3,2177-09-15 14:27:00,,48.333333333333336,incluido,,Reintubado
+22397637,acute_respiratory_failure,1,0,1,1,1,2116-04-05 14:50:00,1.3333333333333333,,excluido_regra1_obito_precoce,,
+26810801,acute_respiratory_failure,0,0,1,1,1,2170-05-15 09:00:00,,,incluido,,Sobrevivente sem reintubação
+20323113,acute_respiratory_failure,0,0,1,1,1,2146-10-05 10:09:00,,,incluido,,Sobrevivente sem reintubação
+21760920,acute_respiratory_failure,0,0,1,1,1,2117-10-13 14:10:00,,,incluido,,Sobrevivente sem reintubação
+23454177,acute_respiratory_failure,0,0,1,1,1,2113-01-10 09:05:00,,,incluido,,Sobrevivente sem reintubação
+29221831,acute_respiratory_failure,0,0,1,1,1,2187-03-01 12:10:00,,,incluido,,Sobrevivente sem reintubação
+24766931,acute_respiratory_failure,0,0,1,1,1,2125-03-04 11:30:00,,,incluido,,Sobrevivente sem reintubação
+26588273,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20195310,acute_respiratory_failure,0,0,1,1,1,2182-12-19 13:00:00,,,incluido,,Sobrevivente sem reintubação
+22592857,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23014355,acute_respiratory_failure,0,0,1,1,1,2161-01-31 13:37:00,,,incluido,,Sobrevivente sem reintubação
+21294749,acute_respiratory_failure,1,0,1,1,1,2152-09-19 15:25:00,0.3333333333333333,,excluido_regra1_obito_precoce,,
+26611769,acute_respiratory_failure,0,0,1,1,1,2201-07-18 14:40:00,,,incluido,,Sobrevivente sem reintubação
+22042362,acute_respiratory_failure,0,1,2,1,2,2163-12-01 11:42:00,,344.15,excluido_regra2_desfecho_tardio,reintubação >120 h,
+21477011,acute_respiratory_failure,0,1,3,1,1,2119-07-18 14:49:00,,27.1,incluido,,Reintubado
+22350919,acute_respiratory_failure,0,1,2,1,4,2115-09-14 11:22:00,,3.65,incluido,,Reintubado
+25708805,acute_respiratory_failure,0,0,1,1,1,2115-05-03 12:20:00,,,incluido,,Sobrevivente sem reintubação
+22107844,acute_respiratory_failure,0,0,1,1,1,2141-08-22 13:37:00,,,incluido,,Sobrevivente sem reintubação
+28025587,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27228814,acute_respiratory_failure,0,0,1,1,1,2148-09-02 14:35:00,,,incluido,,Sobrevivente sem reintubação
+24724109,acute_respiratory_failure,0,0,1,1,1,2185-07-06 13:00:00,,,incluido,,Sobrevivente sem reintubação
+27102587,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+29560388,acute_respiratory_failure,0,0,1,1,1,2125-12-19 16:10:00,,,incluido,,Sobrevivente sem reintubação
+20353533,acute_respiratory_failure,0,0,1,1,1,2174-02-23 13:59:00,,,incluido,,Sobrevivente sem reintubação
+27541056,acute_respiratory_failure,0,1,2,1,2,2175-12-10 14:08:00,,121.0,excluido_regra2_desfecho_tardio,reintubação >120 h,
+23656295,acute_respiratory_failure,0,0,1,1,1,2115-12-06 12:50:00,,,incluido,,Sobrevivente sem reintubação
+24241826,acute_respiratory_failure,0,0,0,0,1,,,,excluido_sem_extubacao,,
+29453938,acute_respiratory_failure,1,0,1,1,1,2196-04-07 13:05:00,0.21666666666666667,,excluido_regra1_obito_precoce,,
+20042079,acute_respiratory_failure,0,0,1,1,1,2174-12-14 11:41:00,,,incluido,,Sobrevivente sem reintubação
+29779708,acute_respiratory_failure,0,0,1,1,1,2130-02-19 11:54:00,,,incluido,,Sobrevivente sem reintubação
+25775236,acute_respiratory_failure,0,0,1,1,1,2162-09-08 13:45:00,,,incluido,,Sobrevivente sem reintubação
+23514030,acute_respiratory_failure,1,0,1,1,1,2116-03-05 13:20:00,62.65,,incluido,,Óbito
+24192524,acute_respiratory_failure,0,1,2,1,2,2189-01-16 07:59:00,,51.516666666666666,incluido,,Reintubado
+29249780,acute_respiratory_failure,0,0,1,1,1,2111-06-15 16:07:00,,,incluido,,Sobrevivente sem reintubação
+29045301,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26402146,acute_respiratory_failure,0,0,1,1,1,2137-06-07 09:39:00,,,incluido,,Sobrevivente sem reintubação
+21123558,acute_respiratory_failure,0,0,1,1,1,2183-11-21 10:30:00,,,incluido,,Sobrevivente sem reintubação
+21336112,acute_respiratory_failure,0,0,1,1,1,2185-11-07 09:21:00,,,incluido,,Sobrevivente sem reintubação
+27830941,acute_respiratory_failure,0,0,1,1,1,2129-11-21 16:30:00,,,incluido,,Sobrevivente sem reintubação
+22845311,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+26714990,acute_respiratory_failure,0,0,1,1,2,2129-11-14 16:40:00,,17.916666666666668,incluido,,Reintubado
+28368668,acute_respiratory_failure,0,0,1,1,1,2161-03-13 08:18:00,,,incluido,,Sobrevivente sem reintubação
+23610500,acute_respiratory_failure,0,0,1,1,1,2133-11-17 16:30:00,,,incluido,,Sobrevivente sem reintubação
+22951112,acute_respiratory_failure,0,0,1,1,1,2152-08-24 15:35:00,,,incluido,,Sobrevivente sem reintubação
+22111875,acute_respiratory_failure,0,0,1,1,1,2136-06-28 14:21:00,,,incluido,,Sobrevivente sem reintubação
+25832117,acute_respiratory_failure,0,0,1,1,2,2128-04-27 08:00:00,,135.0,excluido_regra2_desfecho_tardio,reintubação >120 h,
+24126826,acute_respiratory_failure,0,0,1,1,1,2151-05-10 20:00:00,,,incluido,,Sobrevivente sem reintubação
+22850056,acute_respiratory_failure,0,0,1,1,1,2152-07-28 14:45:00,,,incluido,,Sobrevivente sem reintubação
+23446559,acute_respiratory_failure,0,0,1,1,1,2144-11-18 15:50:00,,,incluido,,Sobrevivente sem reintubação
+22947843,acute_respiratory_failure,0,0,1,1,1,2139-04-10 09:15:00,,,incluido,,Sobrevivente sem reintubação
+26753259,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22532253,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23686858,acute_respiratory_failure,1,0,1,1,1,2153-07-21 18:45:00,0.4166666666666667,,excluido_regra1_obito_precoce,,
+24211700,acute_respiratory_failure,0,1,2,1,2,2189-08-10 12:05:00,,73.66666666666667,incluido,,Reintubado
+25246853,acute_respiratory_failure,0,0,1,1,1,2169-09-25 08:31:00,,,incluido,,Sobrevivente sem reintubação
+27821276,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20053214,acute_respiratory_failure,0,1,2,1,1,2145-02-12 20:45:00,,0.4666666666666667,incluido,,Reintubado
+25074223,acute_respiratory_failure,0,0,1,1,1,2126-10-23 14:06:00,,,incluido,,Sobrevivente sem reintubação
+27788935,acute_respiratory_failure,0,0,1,1,1,2159-11-10 08:45:00,,,incluido,,Sobrevivente sem reintubação
+21242036,acute_respiratory_failure,0,0,1,1,1,2184-12-15 08:48:00,,,incluido,,Sobrevivente sem reintubação
+25353725,acute_respiratory_failure,0,1,2,1,2,2175-05-21 13:20:00,,71.0,incluido,,Reintubado
+24521271,acute_respiratory_failure,0,0,1,1,1,2186-05-16 09:58:00,,,incluido,,Sobrevivente sem reintubação
+25369812,acute_respiratory_failure,0,0,1,1,1,2134-05-29 07:52:00,,,incluido,,Sobrevivente sem reintubação
+24824123,acute_respiratory_failure,1,0,1,1,1,2156-02-23 09:00:00,301.5833333333333,,excluido_regra2_desfecho_tardio,morte >120 h,
+27755014,acute_respiratory_failure,0,0,1,1,1,2172-03-30 15:36:00,,,incluido,,Sobrevivente sem reintubação
+20082021,acute_respiratory_failure,0,0,1,1,1,2183-02-19 09:15:00,,,incluido,,Sobrevivente sem reintubação
+22314567,acute_respiratory_failure,1,1,2,1,2,2138-03-20 16:23:00,175.6,11.433333333333334,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+27232178,acute_respiratory_failure,0,1,2,1,2,2150-11-20 14:15:00,,7.25,incluido,,Reintubado
+29835262,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+20320829,acute_respiratory_failure,0,0,1,1,1,2117-07-08 12:30:00,,,incluido,,Sobrevivente sem reintubação
+29658601,acute_respiratory_failure,1,0,1,1,1,2115-05-29 13:45:00,142.75,,excluido_regra2_desfecho_tardio,morte >120 h,
+23977138,acute_respiratory_failure,0,0,1,1,1,2180-02-29 08:35:00,,,incluido,,Sobrevivente sem reintubação
+20838061,acute_respiratory_failure,0,0,1,1,1,2120-05-22 11:15:00,,,incluido,,Sobrevivente sem reintubação
+21253245,acute_respiratory_failure,1,0,1,1,1,2179-02-24 08:40:00,70.16666666666667,,incluido,,Óbito
+28380990,acute_respiratory_failure,1,0,1,1,1,2175-08-11 12:15:00,131.93333333333334,,excluido_regra2_desfecho_tardio,morte >120 h,
+20431911,acute_respiratory_failure,0,0,1,1,1,2161-08-01 11:40:00,,,incluido,,Sobrevivente sem reintubação
+20840530,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29091108,acute_respiratory_failure,0,0,1,1,1,2200-10-05 09:23:00,,,incluido,,Sobrevivente sem reintubação
+21364565,acute_respiratory_failure,0,0,1,1,1,2148-02-09 09:29:00,,,incluido,,Sobrevivente sem reintubação
+21926303,acute_respiratory_failure,0,0,1,1,1,2193-07-10 13:54:00,,,incluido,,Sobrevivente sem reintubação
+21213985,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20186898,acute_respiratory_failure,0,0,1,1,1,2158-11-20 14:16:00,,,incluido,,Sobrevivente sem reintubação
+29573359,acute_respiratory_failure,0,0,1,1,1,2146-03-19 00:00:00,,,incluido,,Sobrevivente sem reintubação
+25053659,acute_respiratory_failure,1,0,1,1,1,2146-06-01 12:24:00,0.35,,excluido_regra1_obito_precoce,,
+26830941,acute_respiratory_failure,0,0,1,1,1,2169-03-27 11:20:00,,,incluido,,Sobrevivente sem reintubação
+20041934,acute_respiratory_failure,0,0,1,1,1,2153-12-27 11:00:00,,,incluido,,Sobrevivente sem reintubação
+20382900,acute_respiratory_failure,0,0,1,1,1,2153-11-03 10:31:00,,,incluido,,Sobrevivente sem reintubação
+26983924,acute_respiratory_failure,1,0,1,1,1,2151-04-23 14:56:00,174.15,,excluido_regra2_desfecho_tardio,morte >120 h,
+23687711,acute_respiratory_failure,0,0,1,1,1,2121-12-07 11:53:00,,0.7333333333333333,incluido,,Reintubado
+25740306,acute_respiratory_failure,1,0,1,1,1,2119-04-09 05:25:00,555.45,,excluido_regra2_desfecho_tardio,morte >120 h,
+20822324,acute_respiratory_failure,1,0,1,1,1,2166-07-31 13:32:00,1.2166666666666666,,excluido_regra1_obito_precoce,,
+27767100,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23236151,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+26138722,acute_respiratory_failure,0,0,1,1,2,2182-10-15 17:16:00,,183.75,excluido_regra2_desfecho_tardio,reintubação >120 h,
+28990261,acute_respiratory_failure,0,0,1,1,1,2151-08-05 10:46:00,,,incluido,,Sobrevivente sem reintubação
+25329326,acute_respiratory_failure,0,0,1,1,2,2163-02-01 12:00:00,,90.0,incluido,,Reintubado
+27939214,acute_respiratory_failure,0,0,1,1,1,2124-04-21 13:40:00,,,incluido,,Sobrevivente sem reintubação
+24379229,acute_respiratory_failure,0,0,1,1,1,2141-12-16 09:57:00,,,incluido,,Sobrevivente sem reintubação
+24048480,acute_respiratory_failure,0,0,1,1,1,2181-07-21 08:20:00,,,incluido,,Sobrevivente sem reintubação
+21578343,acute_respiratory_failure,0,0,1,1,1,2202-12-21 18:20:00,,,incluido,,Sobrevivente sem reintubação
+25751330,acute_respiratory_failure,0,0,1,1,1,2137-06-18 17:25:00,,,incluido,,Sobrevivente sem reintubação
+29682520,acute_respiratory_failure,0,0,1,1,1,2184-07-10 13:20:00,,,incluido,,Sobrevivente sem reintubação
+20240843,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21674014,acute_respiratory_failure,0,0,1,1,1,2166-07-23 10:00:00,,,incluido,,Sobrevivente sem reintubação
+20673408,acute_respiratory_failure,0,0,1,1,1,2137-05-25 22:41:00,,,incluido,,Sobrevivente sem reintubação
+27411916,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27787151,acute_respiratory_failure,1,1,1,1,2,2170-05-06 10:24:00,253.43333333333334,3.066666666666667,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25451970,acute_respiratory_failure,0,0,1,1,1,2135-08-03 16:40:00,,,incluido,,Sobrevivente sem reintubação
+27901619,acute_respiratory_failure,0,0,1,1,1,2172-01-12 14:24:00,,,incluido,,Sobrevivente sem reintubação
+29858466,acute_respiratory_failure,1,0,1,1,1,2177-10-19 16:15:00,102.91666666666667,,incluido,,Óbito
+28819352,acute_respiratory_failure,0,1,2,1,1,2118-12-14 18:05:00,,0.16666666666666666,incluido,,Reintubado
+21687294,acute_respiratory_failure,0,0,1,1,1,2198-09-10 16:30:00,,,incluido,,Sobrevivente sem reintubação
+22816715,acute_respiratory_failure,0,0,1,1,1,2198-01-13 14:00:00,,,incluido,,Sobrevivente sem reintubação
+21052033,acute_respiratory_failure,0,0,1,1,1,2115-11-20 23:55:00,,,incluido,,Sobrevivente sem reintubação
+28779424,acute_respiratory_failure,0,0,1,1,1,2121-11-11 08:38:00,,,incluido,,Sobrevivente sem reintubação
+23613035,acute_respiratory_failure,0,0,1,1,1,2121-08-07 19:45:00,,,incluido,,Sobrevivente sem reintubação
+26974886,acute_respiratory_failure,0,0,1,1,1,2136-08-31 09:00:00,,0.25,incluido,,Reintubado
+21994000,acute_respiratory_failure,0,0,1,1,2,2133-12-05 14:08:00,,21.033333333333335,incluido,,Reintubado
+28815793,acute_respiratory_failure,0,0,1,1,1,2140-01-10 09:16:00,,,incluido,,Sobrevivente sem reintubação
+29634000,acute_respiratory_failure,0,1,2,1,1,2122-05-27 20:45:00,,0.5,incluido,,Reintubado
+20376084,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22387335,acute_respiratory_failure,0,0,1,1,1,2146-05-09 10:45:00,,,incluido,,Sobrevivente sem reintubação
+20380804,acute_respiratory_failure,0,0,1,2,3,2121-03-06 10:25:00,,20.966666666666665,excluido_multiplas_intubacoes,,
+25293807,acute_respiratory_failure,0,0,1,1,1,2120-08-13 10:19:00,,,incluido,,Sobrevivente sem reintubação
+28577014,acute_respiratory_failure,0,0,1,1,1,2122-05-01 12:57:00,,,incluido,,Sobrevivente sem reintubação
+28455549,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27050325,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+24103969,acute_respiratory_failure,0,0,1,1,1,2144-10-15 08:38:00,,,incluido,,Sobrevivente sem reintubação
+27159344,acute_respiratory_failure,0,0,1,1,1,2166-05-06 14:43:00,,,incluido,,Sobrevivente sem reintubação
+25281524,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28288294,acute_respiratory_failure,1,0,1,1,1,2144-08-10 12:21:00,0.21666666666666667,,excluido_regra1_obito_precoce,,
+24709274,acute_respiratory_failure,0,0,1,1,1,2155-07-26 09:33:00,,,incluido,,Sobrevivente sem reintubação
+22051537,acute_respiratory_failure,0,0,1,1,1,2175-09-26 08:40:00,,,incluido,,Sobrevivente sem reintubação
+28310424,acute_respiratory_failure,0,0,1,1,1,2154-07-04 17:30:00,,,incluido,,Sobrevivente sem reintubação
+20293184,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29417806,acute_respiratory_failure,0,0,1,1,1,2132-08-26 15:02:00,,,incluido,,Sobrevivente sem reintubação
+21293128,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24419110,acute_respiratory_failure,1,0,1,1,1,2179-02-14 17:08:00,57.766666666666666,,incluido,,Óbito
+21377947,acute_respiratory_failure,0,0,1,1,1,2154-11-17 15:45:00,,,incluido,,Sobrevivente sem reintubação
+24756725,acute_respiratory_failure,0,0,1,1,1,2154-08-09 08:00:00,,,incluido,,Sobrevivente sem reintubação
+20926606,acute_respiratory_failure,1,0,1,1,1,2116-11-13 15:40:00,3.0833333333333335,,excluido_regra1_obito_precoce,,
+28746571,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26990081,acute_respiratory_failure,0,0,1,1,1,2184-04-22 15:49:00,,,incluido,,Sobrevivente sem reintubação
+23386436,acute_respiratory_failure,0,0,1,1,1,2155-09-12 18:16:00,,,incluido,,Sobrevivente sem reintubação
+24109230,acute_respiratory_failure,0,0,1,1,1,2118-10-26 10:27:00,,,incluido,,Sobrevivente sem reintubação
+27238152,acute_respiratory_failure,0,0,1,1,1,2117-05-14 11:45:00,,,incluido,,Sobrevivente sem reintubação
+24961684,acute_respiratory_failure,0,0,1,1,1,2159-11-03 15:49:00,,,incluido,,Sobrevivente sem reintubação
+25888306,acute_respiratory_failure,0,0,1,1,1,2161-03-09 10:51:00,,,incluido,,Sobrevivente sem reintubação
+27570624,acute_respiratory_failure,0,1,2,1,1,2160-04-05 14:00:00,,,incluido,,Sobrevivente sem reintubação
+25943890,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21370244,acute_respiratory_failure,0,0,1,1,2,2144-03-04 11:20:00,,94.4,incluido,,Reintubado
+25957211,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+24996065,acute_respiratory_failure,0,0,1,1,1,2177-06-18 11:00:00,,,incluido,,Sobrevivente sem reintubação
+23129077,acute_respiratory_failure,0,0,1,1,1,2138-05-19 16:25:00,,,incluido,,Sobrevivente sem reintubação
+29140642,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27754082,acute_respiratory_failure,0,0,1,1,1,2188-02-27 01:15:00,,,incluido,,Sobrevivente sem reintubação
+29507999,acute_respiratory_failure,0,0,1,1,1,2174-08-06 15:30:00,,,incluido,,Sobrevivente sem reintubação
+20816771,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24555295,acute_respiratory_failure,0,0,1,1,1,2161-12-14 17:45:00,,,incluido,,Sobrevivente sem reintubação
+21903132,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20142066,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20547939,acute_respiratory_failure,0,1,2,1,1,2188-10-06 16:54:00,,,incluido,,Sobrevivente sem reintubação
+27090297,acute_respiratory_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+28229996,acute_respiratory_failure,0,0,1,1,1,2154-07-18 10:43:00,,,incluido,,Sobrevivente sem reintubação
+29177895,acute_respiratory_failure,0,0,1,1,1,2154-07-28 16:40:00,,,incluido,,Sobrevivente sem reintubação
+28645450,acute_respiratory_failure,1,0,1,1,1,2171-06-13 23:06:00,28.766666666666666,,incluido,,Óbito
+28985636,acute_respiratory_failure,0,0,1,1,1,2180-05-28 11:00:00,,,incluido,,Sobrevivente sem reintubação
+24570342,acute_respiratory_failure,0,0,1,2,2,2152-11-19 12:53:00,,,excluido_multiplas_intubacoes,,
+24340770,acute_respiratory_failure,0,0,1,1,1,2128-08-23 12:03:00,,,incluido,,Sobrevivente sem reintubação
+24421644,acute_respiratory_failure,0,0,1,1,2,2131-02-07 12:02:00,,49.96666666666667,incluido,,Reintubado
+24141706,acute_respiratory_failure,0,1,2,1,2,2151-02-21 18:15:00,,87.91666666666667,incluido,,Reintubado
+22283090,acute_respiratory_failure,0,0,1,1,1,2183-07-18 10:35:00,,,incluido,,Sobrevivente sem reintubação
+24248307,acute_respiratory_failure,1,0,1,1,1,2160-05-08 16:53:00,0.36666666666666664,,excluido_regra1_obito_precoce,,
+28131965,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29559513,acute_respiratory_failure,1,0,1,1,1,2160-12-06 10:28:00,0.6166666666666667,,excluido_regra1_obito_precoce,,
+27817251,acute_respiratory_failure,0,0,1,1,1,2129-10-07 11:00:00,,,incluido,,Sobrevivente sem reintubação
+23118531,acute_respiratory_failure,1,0,1,1,1,2173-04-24 19:19:00,15.683333333333334,,incluido,,Óbito
+24072465,acute_respiratory_failure,0,0,1,1,1,2141-08-28 10:45:00,,,incluido,,Sobrevivente sem reintubação
+28999290,acute_respiratory_failure,1,0,1,1,1,2131-02-03 17:20:00,476.4166666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+28151185,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+29740900,acute_respiratory_failure,0,0,1,1,1,2205-03-28 20:41:00,,,incluido,,Sobrevivente sem reintubação
+23625487,acute_respiratory_failure,0,0,1,1,1,2127-05-05 10:10:00,,,incluido,,Sobrevivente sem reintubação
+21926888,acute_respiratory_failure,1,1,2,1,3,2150-05-20 09:11:00,306.85,122.18333333333334,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+26052133,acute_respiratory_failure,0,0,1,1,1,2128-03-27 12:20:00,,,incluido,,Sobrevivente sem reintubação
+29677527,acute_respiratory_failure,0,0,1,1,1,2118-12-22 13:05:00,,,incluido,,Sobrevivente sem reintubação
+26342307,acute_respiratory_failure,1,0,1,1,1,2142-05-05 15:50:00,0.2,,excluido_regra1_obito_precoce,,
+21060083,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28035563,acute_respiratory_failure,0,0,1,1,1,2116-07-17 09:45:00,,,incluido,,Sobrevivente sem reintubação
+28543022,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24092508,acute_respiratory_failure,0,1,2,1,1,2152-05-26 09:40:00,,,incluido,,Sobrevivente sem reintubação
+27495238,acute_respiratory_failure,0,0,1,1,2,2147-07-11 15:25:00,,2.0,incluido,,Reintubado
+22238254,acute_respiratory_failure,0,0,1,1,1,2183-06-07 12:27:00,,,incluido,,Sobrevivente sem reintubação
+28369407,acute_respiratory_failure,0,1,2,1,2,2187-02-03 15:47:00,,11.333333333333334,incluido,,Reintubado
+25210662,acute_respiratory_failure,0,0,1,1,1,2140-09-04 13:21:00,,,incluido,,Sobrevivente sem reintubação
+25235678,acute_respiratory_failure,0,0,1,1,1,2190-10-31 11:40:00,,,incluido,,Sobrevivente sem reintubação
+21841167,acute_respiratory_failure,1,0,1,1,1,2155-03-31 13:16:00,74.6,,incluido,,Óbito
+26931572,acute_respiratory_failure,0,0,1,1,1,2114-12-09 08:25:00,,,incluido,,Sobrevivente sem reintubação
+25387900,acute_respiratory_failure,1,1,2,1,2,2131-12-26 11:40:00,158.43333333333334,26.583333333333332,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+27934958,acute_respiratory_failure,1,0,1,1,1,2118-10-25 16:26:00,7.566666666666666,,excluido_regra1_obito_precoce,,
+25938911,acute_respiratory_failure,0,0,1,1,1,2194-01-28 12:57:00,,,incluido,,Sobrevivente sem reintubação
+28167942,acute_respiratory_failure,0,0,1,1,1,2194-04-25 14:25:00,,,incluido,,Sobrevivente sem reintubação
+20156054,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29059351,acute_respiratory_failure,1,0,1,1,1,2125-01-21 16:53:00,20.85,,incluido,,Óbito
+28550518,acute_respiratory_failure,0,1,2,1,2,2149-09-26 10:09:00,,25.766666666666666,incluido,,Reintubado
+20227608,acute_respiratory_failure,0,0,1,1,1,2169-04-03 08:17:00,,,incluido,,Sobrevivente sem reintubação
+28690459,acute_respiratory_failure,0,0,1,1,3,2162-01-11 13:28:00,,24.55,incluido,,Reintubado
+23886642,acute_respiratory_failure,0,1,2,1,2,2153-06-03 12:36:00,,9.4,incluido,,Reintubado
+22773411,acute_respiratory_failure,1,0,1,1,1,2134-10-03 16:45:00,79.5,,incluido,,Óbito
+22939633,acute_respiratory_failure,0,0,1,1,1,2173-10-08 13:57:00,,,incluido,,Sobrevivente sem reintubação
+20722570,acute_respiratory_failure,0,0,1,1,1,2167-09-07 14:14:00,,,incluido,,Sobrevivente sem reintubação
+20692150,acute_respiratory_failure,0,0,1,1,1,2150-04-26 17:42:00,,,incluido,,Sobrevivente sem reintubação
+21316933,acute_respiratory_failure,1,1,2,1,2,2173-08-26 13:45:00,116.21666666666667,18.25,incluido,,Reintubado e óbito
+28135252,acute_respiratory_failure,0,0,1,1,1,2180-06-02 16:30:00,,,incluido,,Sobrevivente sem reintubação
+24754104,acute_respiratory_failure,0,0,1,1,1,2133-02-07 18:38:00,,,incluido,,Sobrevivente sem reintubação
+24089407,acute_respiratory_failure,0,0,1,1,1,2189-07-18 07:55:00,,,incluido,,Sobrevivente sem reintubação
+20146604,acute_respiratory_failure,0,0,1,1,1,2143-05-11 15:15:00,,,incluido,,Sobrevivente sem reintubação
+29465132,acute_respiratory_failure,1,0,1,1,1,2178-02-06 08:00:00,223.0,,excluido_regra2_desfecho_tardio,morte >120 h,
+26781747,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23971756,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24299640,acute_respiratory_failure,0,0,1,1,1,2198-09-18 10:45:00,,,incluido,,Sobrevivente sem reintubação
+22327437,acute_respiratory_failure,1,0,1,1,1,2183-11-09 17:12:00,8.3,,excluido_regra1_obito_precoce,,
+24067663,acute_respiratory_failure,0,1,2,1,1,2139-11-10 08:30:00,,,incluido,,Sobrevivente sem reintubação
+21851583,acute_respiratory_failure,0,0,1,1,1,2156-07-27 17:05:00,,,incluido,,Sobrevivente sem reintubação
+27054189,acute_respiratory_failure,1,0,1,1,1,2145-10-12 16:38:00,7.783333333333333,,excluido_regra1_obito_precoce,,
+22036580,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25918892,acute_respiratory_failure,0,0,1,1,1,2143-10-29 14:30:00,,,incluido,,Sobrevivente sem reintubação
+20866231,acute_respiratory_failure,0,1,3,1,2,2166-01-28 12:54:00,,24.6,incluido,,Reintubado
+25504165,acute_respiratory_failure,0,0,1,1,3,2175-02-21 14:00:00,,47.083333333333336,incluido,,Reintubado
+25356215,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23659498,acute_respiratory_failure,0,0,1,1,1,2145-12-22 12:47:00,,,incluido,,Sobrevivente sem reintubação
+27613766,acute_respiratory_failure,0,0,1,1,1,2172-11-09 09:50:00,,,incluido,,Sobrevivente sem reintubação
+21659935,acute_respiratory_failure,1,0,1,3,3,2134-04-25 11:40:00,297.5833333333333,,excluido_multiplas_intubacoes,,
+27468602,acute_respiratory_failure,0,0,1,1,1,2157-09-25 15:35:00,,,incluido,,Sobrevivente sem reintubação
+20500096,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20138177,acute_respiratory_failure,0,0,1,1,1,2191-05-28 09:30:00,,,incluido,,Sobrevivente sem reintubação
+26262021,acute_respiratory_failure,0,0,1,1,1,2149-02-13 17:40:00,,,incluido,,Sobrevivente sem reintubação
+20053555,acute_respiratory_failure,1,0,1,1,1,2154-04-17 17:25:00,17.583333333333332,,incluido,,Óbito
+25838220,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26272513,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27043220,acute_respiratory_failure,1,0,1,1,1,2163-10-02 13:33:00,0.6,,excluido_regra1_obito_precoce,,
+27442821,acute_respiratory_failure,0,0,1,1,1,2133-03-12 15:16:00,,,incluido,,Sobrevivente sem reintubação
+23406207,acute_respiratory_failure,0,0,1,1,1,2127-07-16 14:58:00,,,incluido,,Sobrevivente sem reintubação
+25911632,acute_respiratory_failure,0,0,1,1,1,2186-11-19 08:35:00,,,incluido,,Sobrevivente sem reintubação
+28238636,acute_respiratory_failure,0,0,1,1,1,2137-07-22 10:24:00,,,incluido,,Sobrevivente sem reintubação
+26350081,acute_respiratory_failure,0,1,3,1,2,2120-02-13 12:30:00,,7.416666666666667,incluido,,Reintubado
+28720007,acute_respiratory_failure,0,1,2,1,2,2111-03-19 12:15:00,,13.25,incluido,,Reintubado
+20808187,acute_respiratory_failure,0,0,1,1,1,2135-03-30 09:54:00,,,incluido,,Sobrevivente sem reintubação
+29317041,acute_respiratory_failure,0,0,1,1,1,2151-06-01 12:08:00,,,incluido,,Sobrevivente sem reintubação
+28318547,acute_respiratory_failure,0,0,1,2,2,2154-06-03 14:30:00,,,excluido_multiplas_intubacoes,,
+25296603,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23328337,acute_respiratory_failure,0,0,1,1,1,2122-05-05 10:10:00,,,incluido,,Sobrevivente sem reintubação
+28261187,acute_respiratory_failure,0,0,1,1,1,2178-11-06 11:12:00,,,incluido,,Sobrevivente sem reintubação
+20251864,acute_respiratory_failure,1,0,1,1,1,2132-07-04 21:56:00,1.9166666666666667,,excluido_regra1_obito_precoce,,
+25307994,acute_respiratory_failure,0,0,1,1,1,2115-02-16 16:05:00,,,incluido,,Sobrevivente sem reintubação
+23755923,acute_respiratory_failure,0,0,1,1,1,2162-09-06 09:12:00,,,incluido,,Sobrevivente sem reintubação
+20727772,acute_respiratory_failure,0,0,1,1,1,2178-08-15 13:15:00,,,incluido,,Sobrevivente sem reintubação
+20053897,acute_respiratory_failure,0,0,1,1,1,2177-03-30 08:57:00,,,incluido,,Sobrevivente sem reintubação
+27218100,acute_respiratory_failure,1,0,1,1,1,2166-06-16 13:05:00,0.13333333333333333,,excluido_regra1_obito_precoce,,
+24575014,acute_respiratory_failure,0,0,1,1,1,2185-01-24 16:32:00,,,incluido,,Sobrevivente sem reintubação
+28010920,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28073441,acute_respiratory_failure,0,0,1,1,1,2160-10-11 14:59:00,,,incluido,,Sobrevivente sem reintubação
+23283626,acute_respiratory_failure,0,0,1,1,1,2202-07-16 10:56:00,,,incluido,,Sobrevivente sem reintubação
+29312932,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28442044,acute_respiratory_failure,0,0,1,1,1,2120-06-03 09:23:00,,,incluido,,Sobrevivente sem reintubação
+27314376,acute_respiratory_failure,0,0,1,1,1,2143-12-24 11:15:00,,,incluido,,Sobrevivente sem reintubação
+26420563,acute_respiratory_failure,1,0,1,1,1,2132-02-14 12:38:00,334.3666666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+26729053,acute_respiratory_failure,0,0,1,1,1,2191-05-13 10:02:00,,,incluido,,Sobrevivente sem reintubação
+26162669,acute_respiratory_failure,0,0,1,2,2,2167-11-18 16:09:00,,,excluido_multiplas_intubacoes,,
+21447003,acute_respiratory_failure,0,0,1,1,1,2180-01-19 10:04:00,,,incluido,,Sobrevivente sem reintubação
+27320281,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+20766485,acute_respiratory_failure,1,0,1,1,1,2156-07-17 11:26:00,86.31666666666666,,incluido,,Óbito
+21484077,acute_respiratory_failure,0,0,1,1,1,2152-01-24 13:50:00,,,incluido,,Sobrevivente sem reintubação
+29171502,acute_respiratory_failure,0,0,1,1,1,2124-06-23 15:35:00,,,incluido,,Sobrevivente sem reintubação
+27009322,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+24260384,acute_respiratory_failure,0,0,1,1,1,2139-09-02 11:35:00,,,incluido,,Sobrevivente sem reintubação
+21240120,acute_respiratory_failure,0,0,1,1,1,2155-05-28 15:01:00,,,incluido,,Sobrevivente sem reintubação
+21165376,acute_respiratory_failure,0,0,1,1,1,2116-12-18 09:30:00,,,incluido,,Sobrevivente sem reintubação
+26678281,acute_respiratory_failure,0,0,1,1,1,2168-10-30 22:05:00,,,incluido,,Sobrevivente sem reintubação
+28962934,acute_respiratory_failure,1,0,1,1,1,2157-09-22 09:43:00,315.95,,excluido_regra2_desfecho_tardio,morte >120 h,
+25381310,acute_respiratory_failure,0,1,2,1,1,2131-09-22 17:25:00,,,incluido,,Sobrevivente sem reintubação
+20060174,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27305355,acute_respiratory_failure,0,0,1,1,1,2132-08-31 08:15:00,,,incluido,,Sobrevivente sem reintubação
+24845385,acute_respiratory_failure,0,0,1,1,1,2133-09-19 12:09:00,,,incluido,,Sobrevivente sem reintubação
+20057773,acute_respiratory_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+28147399,acute_respiratory_failure,0,0,1,1,1,2169-07-07 08:32:00,,,incluido,,Sobrevivente sem reintubação
+21515080,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20954785,acute_respiratory_failure,0,0,1,1,1,2121-10-29 10:35:00,,,incluido,,Sobrevivente sem reintubação
+29021085,acute_respiratory_failure,0,0,1,1,1,2141-09-04 08:15:00,,,incluido,,Sobrevivente sem reintubação
+21696822,acute_respiratory_failure,0,0,1,1,1,2165-01-15 04:31:00,,,incluido,,Sobrevivente sem reintubação
+22745318,acute_respiratory_failure,0,0,1,1,1,2183-11-13 11:13:00,,,incluido,,Sobrevivente sem reintubação
+21332990,acute_respiratory_failure,0,0,1,1,1,2162-12-05 13:35:00,,,incluido,,Sobrevivente sem reintubação
+23111413,acute_respiratory_failure,0,0,1,1,1,2116-12-08 13:45:00,,0.9333333333333333,incluido,,Reintubado
+28807006,acute_respiratory_failure,0,0,1,1,1,2117-07-10 14:42:00,,,incluido,,Sobrevivente sem reintubação
+24332648,acute_respiratory_failure,0,0,1,1,1,2133-04-21 07:45:00,,,incluido,,Sobrevivente sem reintubação
+26285102,acute_respiratory_failure,0,1,2,1,1,2117-08-23 17:55:00,,,incluido,,Sobrevivente sem reintubação
+24251445,acute_respiratory_failure,0,0,1,1,1,2158-07-19 12:16:00,,,incluido,,Sobrevivente sem reintubação
+25518754,acute_respiratory_failure,0,0,1,1,1,2118-10-18 08:00:00,,,incluido,,Sobrevivente sem reintubação
+21689790,acute_respiratory_failure,0,0,1,1,1,2164-10-22 13:28:00,,,incluido,,Sobrevivente sem reintubação
+22463381,acute_respiratory_failure,0,0,1,1,1,2151-02-09 12:15:00,,0.016666666666666666,incluido,,Reintubado
+29862318,acute_respiratory_failure,0,0,1,1,1,2118-03-25 15:35:00,,,incluido,,Sobrevivente sem reintubação
+26706012,acute_respiratory_failure,0,0,1,1,1,2130-10-13 10:35:00,,,incluido,,Sobrevivente sem reintubação
+28790824,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24061277,acute_respiratory_failure,0,0,1,1,1,2146-09-05 13:48:00,,,incluido,,Sobrevivente sem reintubação
+24394575,acute_respiratory_failure,0,0,1,1,1,2178-12-03 14:57:00,,,incluido,,Sobrevivente sem reintubação
+21287113,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23815897,acute_respiratory_failure,1,0,1,1,1,2151-07-06 10:55:00,2.5833333333333335,,excluido_regra1_obito_precoce,,
+24805360,acute_respiratory_failure,0,1,2,0,1,2157-05-06 15:11:00,,26.816666666666666,incluido,,Reintubado
+26175268,acute_respiratory_failure,0,0,1,1,1,2158-05-06 15:45:00,,,incluido,,Sobrevivente sem reintubação
+23216220,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29358058,acute_respiratory_failure,0,0,1,1,1,2147-05-05 11:17:00,,,incluido,,Sobrevivente sem reintubação
+21045469,acute_respiratory_failure,0,1,3,1,3,2129-07-08 16:36:00,,186.06666666666666,excluido_regra2_desfecho_tardio,reintubação >120 h,
+23385926,acute_respiratory_failure,0,0,1,1,1,2150-05-10 12:29:00,,,incluido,,Sobrevivente sem reintubação
+27943660,acute_respiratory_failure,0,0,1,1,1,2134-03-31 09:10:00,,,incluido,,Sobrevivente sem reintubação
+22467656,acute_respiratory_failure,0,0,1,1,1,2196-03-23 03:56:00,,,incluido,,Sobrevivente sem reintubação
+27651915,acute_respiratory_failure,0,0,1,1,1,2144-07-18 16:03:00,,,incluido,,Sobrevivente sem reintubação
+23520330,acute_respiratory_failure,0,0,1,1,1,2149-01-07 11:25:00,,,incluido,,Sobrevivente sem reintubação
+29871478,acute_respiratory_failure,0,0,1,1,1,2126-05-27 09:43:00,,,incluido,,Sobrevivente sem reintubação
+27618409,acute_respiratory_failure,0,0,1,1,1,2173-05-12 16:46:00,,,incluido,,Sobrevivente sem reintubação
+25530842,acute_respiratory_failure,0,0,1,1,1,2177-05-31 12:38:00,,,incluido,,Sobrevivente sem reintubação
+21184486,acute_respiratory_failure,1,0,1,1,1,2185-08-24 12:40:00,0.9833333333333333,,excluido_regra1_obito_precoce,,
+20287000,acute_respiratory_failure,0,0,1,1,1,2166-11-24 11:07:00,,,incluido,,Sobrevivente sem reintubação
+22807448,acute_respiratory_failure,0,0,1,1,1,2173-07-22 14:55:00,,,incluido,,Sobrevivente sem reintubação
+23400686,acute_respiratory_failure,0,1,2,1,2,2173-06-22 14:19:00,,247.01666666666668,excluido_regra2_desfecho_tardio,reintubação >120 h,
+23799681,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25583920,acute_respiratory_failure,0,0,1,1,1,2152-08-30 15:06:00,,,incluido,,Sobrevivente sem reintubação
+29382019,acute_respiratory_failure,0,0,1,1,1,2169-01-05 11:40:00,,,incluido,,Sobrevivente sem reintubação
+29216424,acute_respiratory_failure,0,0,2,1,2,2126-07-10 15:10:00,,151.08333333333334,excluido_regra2_desfecho_tardio,reintubação >120 h,
+25112098,acute_respiratory_failure,1,0,1,1,1,2131-11-28 17:15:00,48.75,,incluido,,Óbito
+24414211,acute_respiratory_failure,0,0,1,1,1,2135-04-05 08:40:00,,,incluido,,Sobrevivente sem reintubação
+20407719,acute_respiratory_failure,0,0,1,1,1,2184-06-07 10:38:00,,,incluido,,Sobrevivente sem reintubação
+25156676,acute_respiratory_failure,1,0,1,1,1,2163-03-28 15:33:00,106.95,,incluido,,Óbito
+20326734,acute_respiratory_failure,0,0,1,1,1,2142-11-26 16:39:00,,,incluido,,Sobrevivente sem reintubação
+20038242,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20641828,acute_respiratory_failure,1,1,2,1,2,2188-02-23 05:47:00,321.46666666666664,52.38333333333333,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25853159,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24644621,acute_respiratory_failure,0,0,1,1,1,2172-09-29 15:00:00,,,incluido,,Sobrevivente sem reintubação
+23190297,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26809360,acute_respiratory_failure,0,0,1,1,1,2183-09-17 10:10:00,,,incluido,,Sobrevivente sem reintubação
+21270856,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24136060,acute_respiratory_failure,0,1,2,1,1,2186-09-27 02:15:00,,0.75,incluido,,Reintubado
+26583785,acute_respiratory_failure,1,0,1,1,1,2124-04-29 23:35:00,116.53333333333333,,incluido,,Óbito
+25455979,acute_respiratory_failure,0,0,1,1,1,2174-07-24 07:36:00,,,incluido,,Sobrevivente sem reintubação
+25725744,acute_respiratory_failure,0,1,2,1,3,2129-04-21 08:50:00,,32.75,incluido,,Reintubado
+23701341,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21195134,acute_respiratory_failure,1,0,1,1,1,2157-07-19 10:45:00,162.3,,excluido_regra2_desfecho_tardio,morte >120 h,
+20779074,acute_respiratory_failure,0,0,1,1,1,2134-03-20 12:16:00,,,incluido,,Sobrevivente sem reintubação
+25880089,acute_respiratory_failure,0,1,3,1,2,2149-02-26 00:00:00,,10.75,incluido,,Reintubado
+28278851,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26871110,acute_respiratory_failure,0,0,1,1,1,2153-07-13 14:30:00,,,incluido,,Sobrevivente sem reintubação
+24733998,acute_respiratory_failure,0,0,1,2,2,2166-02-09 18:10:00,,,excluido_multiplas_intubacoes,,
+22698456,acute_respiratory_failure,0,0,1,1,1,2179-06-07 10:45:00,,,incluido,,Sobrevivente sem reintubação
+28480893,acute_respiratory_failure,1,1,2,1,1,2183-12-11 10:35:00,188.41666666666666,,excluido_regra2_desfecho_tardio,morte >120 h,
+29932786,acute_respiratory_failure,0,0,1,1,1,2143-01-09 14:35:00,,,incluido,,Sobrevivente sem reintubação
+22175867,acute_respiratory_failure,0,0,1,1,1,2177-06-25 11:22:00,,,incluido,,Sobrevivente sem reintubação
+25979086,acute_respiratory_failure,0,0,1,1,1,2190-10-20 11:11:00,,,incluido,,Sobrevivente sem reintubação
+26904091,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20720870,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20957031,acute_respiratory_failure,0,0,1,1,1,2147-01-07 10:07:00,,,incluido,,Sobrevivente sem reintubação
+20121390,acute_respiratory_failure,0,0,1,1,1,2139-10-18 09:55:00,,,incluido,,Sobrevivente sem reintubação
+23844203,acute_respiratory_failure,0,0,1,1,1,2162-05-22 10:40:00,,,incluido,,Sobrevivente sem reintubação
+20399932,acute_respiratory_failure,1,0,1,1,1,2158-08-23 11:48:00,100.8,,incluido,,Óbito
+27794470,acute_respiratory_failure,1,0,1,1,2,2164-02-19 14:25:00,57.583333333333336,20.75,incluido,,Reintubado e óbito
+24038585,acute_respiratory_failure,1,0,1,1,1,2177-12-18 14:30:00,4.75,,excluido_regra1_obito_precoce,,
+27948229,acute_respiratory_failure,1,0,1,1,1,2114-03-30 16:00:00,56.56666666666667,,incluido,,Óbito
+29398513,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20137448,acute_respiratory_failure,0,0,1,1,1,2145-11-01 11:20:00,,,incluido,,Sobrevivente sem reintubação
+29551490,acute_respiratory_failure,1,0,1,1,1,2156-05-08 20:48:00,1.1166666666666667,,excluido_regra1_obito_precoce,,
+23497160,acute_respiratory_failure,0,0,1,1,1,2188-11-27 11:45:00,,,incluido,,Sobrevivente sem reintubação
+28611422,acute_respiratory_failure,1,0,1,1,1,2174-08-27 10:28:00,0.7,,excluido_regra1_obito_precoce,,
+20341118,acute_respiratory_failure,0,0,1,1,1,2182-12-31 10:10:00,,,incluido,,Sobrevivente sem reintubação
+29693431,acute_respiratory_failure,0,0,1,1,1,2186-05-03 10:14:00,,,incluido,,Sobrevivente sem reintubação
+25634080,acute_respiratory_failure,0,0,1,1,1,2183-07-23 11:44:00,,,incluido,,Sobrevivente sem reintubação
+28750590,acute_respiratory_failure,0,0,1,1,1,2135-04-02 08:12:00,,,incluido,,Sobrevivente sem reintubação
+25315025,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28617089,acute_respiratory_failure,0,0,1,1,1,2172-05-01 07:27:00,,,incluido,,Sobrevivente sem reintubação
+25433090,acute_respiratory_failure,0,0,1,1,2,2150-04-14 15:00:00,,0.16666666666666666,incluido,,Reintubado
+25660999,acute_respiratory_failure,0,1,2,1,2,2137-07-19 14:11:00,,25.816666666666666,incluido,,Reintubado
+25936184,acute_respiratory_failure,0,0,1,1,1,2151-05-12 08:24:00,,,incluido,,Sobrevivente sem reintubação
+26934346,acute_respiratory_failure,1,0,1,1,2,2126-01-25 17:39:00,189.18333333333334,18.266666666666666,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24621554,acute_respiratory_failure,1,1,2,1,2,2170-04-04 08:05:00,356.1666666666667,106.41666666666667,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+26860248,acute_respiratory_failure,0,1,2,1,2,2130-02-22 14:15:00,,3.75,incluido,,Reintubado
+27158610,acute_respiratory_failure,0,0,1,1,1,2131-08-29 10:28:00,,,incluido,,Sobrevivente sem reintubação
+28033478,acute_respiratory_failure,0,0,1,1,1,2133-02-03 11:15:00,,,incluido,,Sobrevivente sem reintubação
+29156096,acute_respiratory_failure,0,0,1,1,1,2133-06-12 13:09:00,,,incluido,,Sobrevivente sem reintubação
+29935008,acute_respiratory_failure,0,0,1,1,1,2129-10-21 12:00:00,,,incluido,,Sobrevivente sem reintubação
+20961377,acute_respiratory_failure,0,1,2,1,2,2160-01-15 15:52:00,,0.11666666666666667,incluido,,Reintubado
+26326529,acute_respiratory_failure,0,0,1,1,1,2144-12-02 10:05:00,,,incluido,,Sobrevivente sem reintubação
+27218825,acute_respiratory_failure,0,0,1,1,1,2144-02-29 02:55:00,,,incluido,,Sobrevivente sem reintubação
+23860871,acute_respiratory_failure,0,0,1,1,1,2168-08-25 07:35:00,,,incluido,,Sobrevivente sem reintubação
+22192420,acute_respiratory_failure,1,0,1,1,1,2138-05-30 15:20:00,1.9166666666666667,,excluido_regra1_obito_precoce,,
+23524079,acute_respiratory_failure,0,0,1,1,1,2200-12-12 13:05:00,,,incluido,,Sobrevivente sem reintubação
+23258090,acute_respiratory_failure,0,0,1,1,1,2181-11-19 14:00:00,,,incluido,,Sobrevivente sem reintubação
+28362555,acute_respiratory_failure,0,0,1,1,1,2163-03-17 16:10:00,,,incluido,,Sobrevivente sem reintubação
+24782337,acute_respiratory_failure,1,0,1,1,2,2187-05-14 11:30:00,138.41666666666666,17.95,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+26450147,acute_respiratory_failure,0,0,1,1,1,2174-10-12 16:10:00,,,incluido,,Sobrevivente sem reintubação
+28323253,acute_respiratory_failure,1,0,1,1,1,2194-02-03 11:15:00,173.5,,excluido_regra2_desfecho_tardio,morte >120 h,
+22063048,acute_respiratory_failure,0,0,1,2,2,2171-09-07 11:51:00,,,excluido_multiplas_intubacoes,,
+28047186,acute_respiratory_failure,0,0,1,1,1,2175-04-20 15:15:00,,,incluido,,Sobrevivente sem reintubação
+29324322,acute_respiratory_failure,1,0,1,1,2,2143-01-09 12:21:00,508.68333333333334,148.6,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+20748538,acute_respiratory_failure,1,0,1,1,1,2142-01-06 12:41:00,0.8166666666666667,,excluido_regra1_obito_precoce,,
+22695183,acute_respiratory_failure,1,0,1,1,1,2161-08-30 10:31:00,313.48333333333335,,excluido_regra2_desfecho_tardio,morte >120 h,
+25962701,acute_respiratory_failure,0,0,1,1,2,2162-12-19 08:05:00,,37.1,incluido,,Reintubado
+24426848,acute_respiratory_failure,0,0,1,1,1,2124-01-24 11:34:00,,,incluido,,Sobrevivente sem reintubação
+26911364,acute_respiratory_failure,0,0,1,1,1,2140-05-22 15:00:00,,,incluido,,Sobrevivente sem reintubação
+27903076,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20087467,acute_respiratory_failure,1,0,1,1,1,2131-11-27 16:35:00,0.4166666666666667,,excluido_regra1_obito_precoce,,
+20594748,acute_respiratory_failure,1,0,1,1,1,2162-09-20 17:22:00,0.6333333333333333,,excluido_regra1_obito_precoce,,
+29889441,acute_respiratory_failure,0,0,1,1,2,2143-01-07 14:40:00,,66.0,incluido,,Reintubado
+23796594,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27654819,acute_respiratory_failure,1,0,1,1,1,2181-05-01 22:51:00,292.98333333333335,,excluido_regra2_desfecho_tardio,morte >120 h,
+21705257,acute_respiratory_failure,0,0,1,1,1,2131-06-26 15:59:00,,,incluido,,Sobrevivente sem reintubação
+29821330,acute_respiratory_failure,0,0,1,1,1,2163-02-26 10:40:00,,,incluido,,Sobrevivente sem reintubação
+25072959,acute_respiratory_failure,0,0,1,1,1,2187-04-18 18:15:00,,,incluido,,Sobrevivente sem reintubação
+28270016,acute_respiratory_failure,0,0,1,1,1,2112-02-15 17:17:00,,,incluido,,Sobrevivente sem reintubação
+21244726,acute_respiratory_failure,0,0,1,1,1,2168-10-15 09:46:00,,,incluido,,Sobrevivente sem reintubação
+24302308,acute_respiratory_failure,0,0,1,1,1,2158-02-17 11:39:00,,,incluido,,Sobrevivente sem reintubação
+28396110,acute_respiratory_failure,1,0,1,1,1,2137-08-19 15:09:00,138.83333333333334,,excluido_regra2_desfecho_tardio,morte >120 h,
+22019103,acute_respiratory_failure,0,0,1,1,1,2166-12-16 14:40:00,,,incluido,,Sobrevivente sem reintubação
+22132197,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20962134,acute_respiratory_failure,0,0,1,2,2,2166-11-28 11:45:00,,0.4166666666666667,excluido_multiplas_intubacoes,,
+27968773,acute_respiratory_failure,1,1,2,1,2,2133-02-12 08:35:00,281.6333333333333,7.25,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+22306366,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27734181,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27715548,acute_respiratory_failure,1,0,1,1,1,2142-11-19 12:45:00,0.4166666666666667,,excluido_regra1_obito_precoce,,
+25267956,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27638606,acute_respiratory_failure,0,0,1,1,1,2138-05-03 09:00:00,,,incluido,,Sobrevivente sem reintubação
+26641333,acute_respiratory_failure,1,1,1,1,2,2154-09-04 13:45:00,81.43333333333334,18.4,incluido,,Reintubado e óbito
+22293928,acute_respiratory_failure,0,0,1,1,2,2115-09-13 11:20:00,,29.666666666666668,incluido,,Reintubado
+20693701,acute_respiratory_failure,0,0,1,1,1,2121-08-02 12:05:00,,,incluido,,Sobrevivente sem reintubação
+29066432,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25458727,acute_respiratory_failure,1,0,1,2,2,2193-07-15 11:07:00,7.8,,excluido_multiplas_intubacoes,,
+26058600,acute_respiratory_failure,1,0,1,1,1,2178-10-06 09:16:00,0.2,,excluido_regra1_obito_precoce,,
+24272744,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28172644,acute_respiratory_failure,0,1,2,1,2,2190-03-30 11:15:00,,2.0833333333333335,incluido,,Reintubado
+24086961,acute_respiratory_failure,0,0,1,1,1,2148-03-10 12:50:00,,,incluido,,Sobrevivente sem reintubação
+20996763,acute_respiratory_failure,1,0,1,1,1,2131-07-18 13:09:00,295.93333333333334,,excluido_regra2_desfecho_tardio,morte >120 h,
+21241409,acute_respiratory_failure,0,0,1,1,1,2177-08-26 10:50:00,,,incluido,,Sobrevivente sem reintubação
+24942933,acute_respiratory_failure,0,0,1,1,1,2140-02-20 11:31:00,,,incluido,,Sobrevivente sem reintubação
+28386815,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+24925840,acute_respiratory_failure,0,0,1,1,1,2177-05-25 10:20:00,,,incluido,,Sobrevivente sem reintubação
+23896885,acute_respiratory_failure,0,0,1,1,1,2115-01-22 13:09:00,,,incluido,,Sobrevivente sem reintubação
+24613637,acute_respiratory_failure,0,0,1,1,1,2138-12-25 12:00:00,,,incluido,,Sobrevivente sem reintubação
+23850402,acute_respiratory_failure,0,0,1,1,1,2156-10-04 10:30:00,,,incluido,,Sobrevivente sem reintubação
+20469231,acute_respiratory_failure,0,0,1,1,1,2157-09-02 14:00:00,,,incluido,,Sobrevivente sem reintubação
+24122914,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+24688088,acute_respiratory_failure,1,1,2,1,2,2171-11-04 10:42:00,153.21666666666667,46.36666666666667,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+28382286,acute_respiratory_failure,0,0,1,1,1,2187-08-03 11:32:00,,,incluido,,Sobrevivente sem reintubação
+20374099,acute_respiratory_failure,0,1,2,1,1,2159-07-03 09:02:00,,0.8,incluido,,Reintubado
+24803974,acute_respiratory_failure,1,0,1,1,1,2175-03-26 14:30:00,14.0,,incluido,,Óbito
+22363461,acute_respiratory_failure,0,1,2,1,2,2145-07-05 14:33:00,,102.45,incluido,,Reintubado
+20866110,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20276381,acute_respiratory_failure,0,0,1,1,1,2125-04-12 22:05:00,,,incluido,,Sobrevivente sem reintubação
+21879692,acute_respiratory_failure,0,0,1,1,1,2176-07-08 14:20:00,,,incluido,,Sobrevivente sem reintubação
+21212325,acute_respiratory_failure,0,0,1,1,1,2156-06-20 12:00:00,,,incluido,,Sobrevivente sem reintubação
+26471230,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28462871,acute_respiratory_failure,0,0,1,1,1,2138-06-19 13:30:00,,,incluido,,Sobrevivente sem reintubação
+29621245,acute_respiratory_failure,0,0,1,1,2,2166-03-17 13:09:00,,2.2666666666666666,incluido,,Reintubado
+29282370,acute_respiratory_failure,0,0,1,1,1,2130-07-08 06:03:00,,,incluido,,Sobrevivente sem reintubação
+20001305,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28680107,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21789721,acute_respiratory_failure,0,0,1,1,1,2162-06-27 14:56:00,,,incluido,,Sobrevivente sem reintubação
+20765078,acute_respiratory_failure,0,0,1,1,1,2182-12-25 16:14:00,,,incluido,,Sobrevivente sem reintubação
+23620136,acute_respiratory_failure,0,0,1,1,1,2134-04-15 01:51:00,,,incluido,,Sobrevivente sem reintubação
+22139870,acute_respiratory_failure,0,0,1,1,1,2160-04-26 10:30:00,,,incluido,,Sobrevivente sem reintubação
+23916538,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27655283,acute_respiratory_failure,1,1,3,1,3,2137-07-07 08:30:00,677.5,0.25,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24163747,acute_respiratory_failure,0,0,1,1,1,2186-10-06 10:15:00,,,incluido,,Sobrevivente sem reintubação
+27876759,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21734420,acute_respiratory_failure,0,0,1,1,2,2168-11-11 01:01:00,,41.03333333333333,incluido,,Reintubado
+20224456,acute_respiratory_failure,1,0,1,1,1,2155-10-08 11:32:00,1.4666666666666666,,excluido_regra1_obito_precoce,,
+28567644,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22468232,acute_respiratory_failure,0,0,1,1,1,2139-09-01 07:41:00,,,incluido,,Sobrevivente sem reintubação
+25427898,acute_respiratory_failure,0,0,1,1,1,2166-11-15 09:57:00,,,incluido,,Sobrevivente sem reintubação
+29702655,acute_respiratory_failure,0,0,1,1,1,2122-11-09 14:58:00,,,incluido,,Sobrevivente sem reintubação
+23551387,acute_respiratory_failure,0,0,1,1,1,2184-02-04 00:05:00,,,incluido,,Sobrevivente sem reintubação
+26313689,acute_respiratory_failure,0,0,1,1,1,2178-01-06 12:57:00,,,incluido,,Sobrevivente sem reintubação
+20015802,acute_respiratory_failure,0,0,1,1,1,2150-01-30 06:40:00,,0.08333333333333333,incluido,,Reintubado
+23111128,acute_respiratory_failure,0,0,1,1,1,2163-08-14 15:25:00,,,incluido,,Sobrevivente sem reintubação
+22825982,acute_respiratory_failure,0,0,1,1,1,2158-04-26 11:30:00,,,incluido,,Sobrevivente sem reintubação
+25929780,acute_respiratory_failure,0,0,1,1,1,2207-06-04 10:00:00,,,incluido,,Sobrevivente sem reintubação
+23075715,acute_respiratory_failure,0,0,1,1,1,2187-12-19 15:35:00,,,incluido,,Sobrevivente sem reintubação
+29219847,acute_respiratory_failure,0,0,1,1,1,2180-05-07 15:08:00,,,incluido,,Sobrevivente sem reintubação
+25574608,acute_respiratory_failure,1,0,1,1,1,2167-08-01 17:25:00,0.0,,excluido_regra1_obito_precoce,,
+26681448,acute_respiratory_failure,1,0,1,1,1,2125-11-20 08:30:00,7.916666666666667,,excluido_regra1_obito_precoce,,
+29966121,acute_respiratory_failure,0,1,2,1,2,2149-09-12 08:47:00,,72.35,incluido,,Reintubado
+27913245,acute_respiratory_failure,1,0,1,1,1,2188-11-26 19:30:00,85.3,,incluido,,Óbito
+23130692,acute_respiratory_failure,0,0,1,1,1,2166-01-26 14:00:00,,,incluido,,Sobrevivente sem reintubação
+25071325,acute_respiratory_failure,1,0,1,1,1,2113-06-23 11:15:00,117.25,,incluido,,Óbito
+21669898,acute_respiratory_failure,0,0,1,1,1,2116-09-11 08:06:00,,,incluido,,Sobrevivente sem reintubação
+25077957,acute_respiratory_failure,1,0,1,1,1,2186-12-29 13:25:00,14.583333333333334,,incluido,,Óbito
+28594798,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23252373,acute_respiratory_failure,0,1,3,1,2,2186-01-30 23:00:00,,0.25,incluido,,Reintubado
+24977987,acute_respiratory_failure,1,0,1,1,1,2126-02-17 14:00:00,75.33333333333333,,incluido,,Óbito
+26412554,acute_respiratory_failure,0,1,2,1,1,2152-01-17 19:46:00,,0.03333333333333333,incluido,,Reintubado
+20610411,acute_respiratory_failure,1,0,1,1,1,2181-04-14 10:00:00,33.45,,incluido,,Óbito
+25773781,acute_respiratory_failure,0,0,1,1,1,2129-01-22 08:50:00,,,incluido,,Sobrevivente sem reintubação
+21685914,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24474539,acute_respiratory_failure,0,0,1,1,1,2173-08-26 10:05:00,,,incluido,,Sobrevivente sem reintubação
+24404028,acute_respiratory_failure,1,0,1,1,1,2123-12-26 13:47:00,11.983333333333333,,excluido_regra1_obito_precoce,,
+21869210,acute_respiratory_failure,0,0,1,1,1,2164-03-08 17:35:00,,,incluido,,Sobrevivente sem reintubação
+28603868,acute_respiratory_failure,1,0,1,1,1,2136-04-04 14:45:00,107.16666666666667,,incluido,,Óbito
+25565474,acute_respiratory_failure,0,0,1,1,1,2161-03-29 19:28:00,,,incluido,,Sobrevivente sem reintubação
+22817822,acute_respiratory_failure,0,0,1,1,1,2202-01-31 11:35:00,,,incluido,,Sobrevivente sem reintubação
+29482513,acute_respiratory_failure,0,0,1,1,1,2152-11-13 15:31:00,,,incluido,,Sobrevivente sem reintubação
+29983763,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23962991,acute_respiratory_failure,0,1,2,1,2,2126-02-16 10:52:00,,29.133333333333333,incluido,,Reintubado
+28605624,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23145280,acute_respiratory_failure,0,0,1,1,1,2125-06-10 04:00:00,,,incluido,,Sobrevivente sem reintubação
+23630400,acute_respiratory_failure,0,0,1,1,1,2128-11-03 12:20:00,,,incluido,,Sobrevivente sem reintubação
+28452358,acute_respiratory_failure,0,0,1,1,1,2126-08-12 05:25:00,,,incluido,,Sobrevivente sem reintubação
+28188981,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27129574,acute_respiratory_failure,0,0,1,1,1,2177-08-13 16:31:00,,,incluido,,Sobrevivente sem reintubação
+20712513,acute_respiratory_failure,0,0,1,1,1,2173-07-18 11:05:00,,,incluido,,Sobrevivente sem reintubação
+29306524,acute_respiratory_failure,1,0,1,1,1,2141-10-13 17:00:00,1.8666666666666667,,excluido_regra1_obito_precoce,,
+21078304,acute_respiratory_failure,0,1,3,1,2,2153-01-22 10:10:00,,7.683333333333334,incluido,,Reintubado
+25234505,acute_respiratory_failure,0,0,1,1,1,2154-10-06 08:10:00,,,incluido,,Sobrevivente sem reintubação
+28821439,acute_respiratory_failure,0,1,2,1,2,2154-07-12 10:59:00,,21.516666666666666,incluido,,Reintubado
+24530345,acute_respiratory_failure,1,0,1,1,1,2131-02-19 19:50:00,0.3,,excluido_regra1_obito_precoce,,
+20531144,acute_respiratory_failure,0,0,1,1,1,2187-06-14 12:40:00,,,incluido,,Sobrevivente sem reintubação
+27506631,acute_respiratory_failure,1,0,1,1,1,2124-01-12 15:55:00,544.9833333333333,,excluido_regra2_desfecho_tardio,morte >120 h,
+27086611,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20424689,acute_respiratory_failure,0,0,1,1,2,2138-03-31 15:06:00,,3.65,incluido,,Reintubado
+20558581,acute_respiratory_failure,0,0,1,1,1,2129-08-23 19:50:00,,,incluido,,Sobrevivente sem reintubação
+27690318,acute_respiratory_failure,0,1,2,1,1,2204-09-14 18:59:00,,,incluido,,Sobrevivente sem reintubação
+20862705,acute_respiratory_failure,0,0,1,1,1,2190-01-19 16:05:00,,,incluido,,Sobrevivente sem reintubação
+25835438,acute_respiratory_failure,0,1,2,1,2,2165-01-08 18:48:00,,2.95,incluido,,Reintubado
+26626492,acute_respiratory_failure,0,0,1,1,1,2126-05-16 11:19:00,,,incluido,,Sobrevivente sem reintubação
+24565256,acute_respiratory_failure,1,0,1,1,1,2144-02-29 19:38:00,6.45,,excluido_regra1_obito_precoce,,
+26830083,acute_respiratory_failure,1,0,1,1,1,2134-12-12 15:47:00,8.266666666666667,,excluido_regra1_obito_precoce,,
+23999514,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27295762,acute_respiratory_failure,0,0,1,1,1,2171-06-18 11:50:00,,,incluido,,Sobrevivente sem reintubação
+27483660,acute_respiratory_failure,0,0,1,1,1,2136-05-15 07:02:00,,,incluido,,Sobrevivente sem reintubação
+29341821,acute_respiratory_failure,0,0,1,1,1,2185-01-09 13:24:00,,,incluido,,Sobrevivente sem reintubação
+22825162,acute_respiratory_failure,0,1,2,1,2,2114-06-21 10:43:00,,76.78333333333333,incluido,,Reintubado
+23172531,acute_respiratory_failure,0,0,1,1,1,2164-03-24 13:00:00,,,incluido,,Sobrevivente sem reintubação
+25379455,acute_respiratory_failure,0,0,1,1,1,2163-09-09 11:56:00,,,incluido,,Sobrevivente sem reintubação
+27993916,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25326346,acute_respiratory_failure,0,0,1,1,1,2157-09-19 11:59:00,,,incluido,,Sobrevivente sem reintubação
+27170683,acute_respiratory_failure,0,0,1,1,1,2159-11-19 13:54:00,,0.65,incluido,,Reintubado
+29332912,acute_respiratory_failure,1,1,2,1,1,2185-06-13 04:00:00,169.46666666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+21463828,acute_respiratory_failure,0,1,2,1,3,2172-12-10 14:32:00,,8.416666666666666,incluido,,Reintubado
+21910084,acute_respiratory_failure,0,0,1,1,1,2174-02-01 14:18:00,,,incluido,,Sobrevivente sem reintubação
+21068985,acute_respiratory_failure,0,0,1,1,1,2141-11-03 10:45:00,,,incluido,,Sobrevivente sem reintubação
+24730243,acute_respiratory_failure,1,1,2,1,1,2128-06-01 19:05:00,130.66666666666666,1.25,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24171158,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22278438,acute_respiratory_failure,0,0,1,1,1,2148-10-31 09:46:00,,,incluido,,Sobrevivente sem reintubação
+25606391,acute_respiratory_failure,0,0,1,1,1,2193-04-29 10:30:00,,,incluido,,Sobrevivente sem reintubação
+21342275,acute_respiratory_failure,0,0,1,1,1,2146-05-07 08:16:00,,,incluido,,Sobrevivente sem reintubação
+27079837,acute_respiratory_failure,1,1,2,1,1,2164-07-09 01:50:00,99.95,0.5,incluido,,Reintubado e óbito
+24856906,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23010037,acute_respiratory_failure,1,0,1,1,1,2183-01-02 15:15:00,16.366666666666667,,incluido,,Óbito
+26435889,acute_respiratory_failure,0,0,1,1,1,2188-10-17 08:35:00,,,incluido,,Sobrevivente sem reintubação
+25428804,acute_respiratory_failure,0,0,1,1,1,2125-09-10 11:01:00,,,incluido,,Sobrevivente sem reintubação
+26573306,acute_respiratory_failure,0,0,1,1,1,2131-09-11 11:08:00,,,incluido,,Sobrevivente sem reintubação
+21808631,acute_respiratory_failure,0,1,2,1,2,2125-09-05 10:13:00,,47.45,incluido,,Reintubado
+20427164,acute_respiratory_failure,0,1,2,1,2,2184-04-18 12:08:00,,12.833333333333334,incluido,,Reintubado
+24874523,acute_respiratory_failure,1,1,2,1,2,2127-04-03 13:55:00,98.21666666666667,2.4166666666666665,incluido,,Reintubado e óbito
+20095775,acute_respiratory_failure,0,1,2,1,1,2140-09-18 08:05:00,,4.666666666666667,incluido,,Reintubado
+20169791,acute_respiratory_failure,0,0,1,1,1,2172-07-10 15:50:00,,,incluido,,Sobrevivente sem reintubação
+29762965,acute_respiratory_failure,0,0,1,1,1,2130-12-23 12:30:00,,,incluido,,Sobrevivente sem reintubação
+23289149,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+23872241,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26657276,acute_respiratory_failure,0,0,1,1,1,2137-05-22 12:40:00,,,incluido,,Sobrevivente sem reintubação
+20559079,acute_respiratory_failure,0,0,1,1,1,2122-11-06 11:43:00,,,incluido,,Sobrevivente sem reintubação
+23092156,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24959938,acute_respiratory_failure,1,0,1,1,1,2172-07-06 23:02:00,8.55,,excluido_regra1_obito_precoce,,
+27309502,acute_respiratory_failure,0,0,1,1,1,2172-05-07 14:15:00,,,incluido,,Sobrevivente sem reintubação
+24789979,acute_respiratory_failure,0,0,1,1,1,2190-08-04 08:40:00,,,incluido,,Sobrevivente sem reintubação
+24181447,acute_respiratory_failure,1,0,1,1,1,2158-08-10 12:53:00,251.11666666666667,,excluido_regra2_desfecho_tardio,morte >120 h,
+29871667,acute_respiratory_failure,0,0,1,1,1,2170-11-20 13:39:00,,,incluido,,Sobrevivente sem reintubação
+21955881,acute_respiratory_failure,0,0,2,1,1,2140-08-09 18:00:00,,,incluido,,Sobrevivente sem reintubação
+24177810,acute_respiratory_failure,1,0,1,1,1,2144-03-16 01:37:00,0.3,,excluido_regra1_obito_precoce,,
+23424475,acute_respiratory_failure,1,1,2,1,1,2135-08-22 14:13:00,153.78333333333333,5.15,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+22144247,acute_respiratory_failure,0,0,1,2,2,2142-02-03 11:08:00,,,excluido_multiplas_intubacoes,,
+23704981,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+29181905,acute_respiratory_failure,1,0,1,1,1,2177-10-09 12:16:00,14.0,,incluido,,Óbito
+21018041,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26387710,acute_respiratory_failure,0,0,1,1,1,2134-02-05 14:24:00,,,incluido,,Sobrevivente sem reintubação
+28656300,acute_respiratory_failure,1,0,1,1,1,2189-06-29 18:30:00,0.5333333333333333,,excluido_regra1_obito_precoce,,
+25910362,acute_respiratory_failure,0,0,1,1,1,2164-08-15 20:26:00,,,incluido,,Sobrevivente sem reintubação
+23218321,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20207823,acute_respiratory_failure,0,0,1,1,1,2112-02-02 18:00:00,,,incluido,,Sobrevivente sem reintubação
+21960571,acute_respiratory_failure,0,0,1,1,1,2118-10-02 15:00:00,,,incluido,,Sobrevivente sem reintubação
+23541895,acute_respiratory_failure,1,0,1,1,2,2151-02-11 18:00:00,385.26666666666665,346.0,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+22379130,acute_respiratory_failure,0,0,1,1,1,2111-02-07 16:42:00,,,incluido,,Sobrevivente sem reintubação
+29654200,acute_respiratory_failure,0,0,1,1,1,2112-10-11 05:45:00,,,incluido,,Sobrevivente sem reintubação
+22118274,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+24907449,acute_respiratory_failure,0,0,1,1,1,2155-05-20 14:10:00,,,incluido,,Sobrevivente sem reintubação
+21281343,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21651263,acute_respiratory_failure,0,0,1,1,1,2164-09-21 11:48:00,,,incluido,,Sobrevivente sem reintubação
+20821439,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26230009,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+26235729,acute_respiratory_failure,1,1,2,1,2,2137-05-21 14:10:00,69.5,67.2,incluido,,Reintubado e óbito
+29462815,acute_respiratory_failure,0,0,1,1,1,2156-08-05 11:46:00,,,incluido,,Sobrevivente sem reintubação
+22615611,acute_respiratory_failure,1,0,1,1,1,2138-06-01 03:40:00,0.55,,excluido_regra1_obito_precoce,,
+22375282,acute_respiratory_failure,0,0,1,1,1,2125-06-10 15:38:00,,,incluido,,Sobrevivente sem reintubação
+25051591,acute_respiratory_failure,0,0,1,1,1,2167-09-15 11:15:00,,,incluido,,Sobrevivente sem reintubação
+24923181,acute_respiratory_failure,0,1,2,1,1,2163-10-06 16:11:00,,,incluido,,Sobrevivente sem reintubação
+27825418,acute_respiratory_failure,0,0,1,1,1,2112-12-19 12:00:00,,,incluido,,Sobrevivente sem reintubação
+26995767,acute_respiratory_failure,0,0,1,1,1,2110-10-14 11:09:00,,,incluido,,Sobrevivente sem reintubação
+27362052,acute_respiratory_failure,0,0,1,1,1,2110-05-17 09:28:00,,,incluido,,Sobrevivente sem reintubação
+22208095,acute_respiratory_failure,0,0,1,1,1,2163-06-19 15:10:00,,,incluido,,Sobrevivente sem reintubação
+25991970,acute_respiratory_failure,0,0,1,1,1,2156-03-23 15:25:00,,,incluido,,Sobrevivente sem reintubação
+24743178,acute_respiratory_failure,0,0,1,1,1,2171-06-11 11:31:00,,,incluido,,Sobrevivente sem reintubação
+24541096,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+27035768,acute_respiratory_failure,0,0,1,1,1,2195-01-22 11:17:00,,,incluido,,Sobrevivente sem reintubação
+28357233,acute_respiratory_failure,0,0,1,1,1,2194-04-01 14:45:00,,,incluido,,Sobrevivente sem reintubação
+20123964,acute_respiratory_failure,0,0,1,1,1,2113-06-01 11:13:00,,,incluido,,Sobrevivente sem reintubação
+25878929,acute_respiratory_failure,0,0,1,1,1,2122-11-24 11:10:00,,,incluido,,Sobrevivente sem reintubação
+23583638,acute_respiratory_failure,0,1,2,1,2,2112-05-08 14:00:00,,13.833333333333334,incluido,,Reintubado
+28170469,acute_respiratory_failure,0,0,1,1,1,2162-12-01 10:50:00,,,incluido,,Sobrevivente sem reintubação
+29714625,acute_respiratory_failure,0,0,1,1,1,2185-12-13 13:30:00,,,incluido,,Sobrevivente sem reintubação
+27469367,acute_respiratory_failure,0,0,1,1,1,2175-11-11 10:31:00,,,incluido,,Sobrevivente sem reintubação
+29271395,acute_respiratory_failure,1,1,1,1,2,2130-08-27 09:55:00,78.0,38.166666666666664,incluido,,Reintubado e óbito
+25914792,acute_respiratory_failure,0,1,3,1,3,2148-12-28 12:26:00,,5.95,incluido,,Reintubado
+23747254,acute_respiratory_failure,0,0,1,1,1,2153-06-27 16:45:00,,,incluido,,Sobrevivente sem reintubação
+28941140,acute_respiratory_failure,0,0,1,2,2,2170-05-19 09:15:00,,,excluido_multiplas_intubacoes,,
+23346884,acute_respiratory_failure,0,0,1,1,1,2157-12-24 15:45:00,,,incluido,,Sobrevivente sem reintubação
+23717746,acute_respiratory_failure,0,0,1,2,2,2184-04-19 05:30:00,,,excluido_multiplas_intubacoes,,
+24776646,acute_respiratory_failure,1,0,1,1,1,2191-03-02 15:02:00,5.3,,excluido_regra1_obito_precoce,,
+29972173,acute_respiratory_failure,0,1,2,1,2,2138-11-24 12:40:00,,96.58333333333333,incluido,,Reintubado
+25013376,acute_respiratory_failure,0,1,2,1,2,2180-09-18 11:30:00,,45.416666666666664,incluido,,Reintubado
+21282264,acute_respiratory_failure,0,0,1,1,1,2168-02-24 15:56:00,,,incluido,,Sobrevivente sem reintubação
+22730582,acute_respiratory_failure,0,0,1,1,1,2112-06-18 15:55:00,,,incluido,,Sobrevivente sem reintubação
+23587598,acute_respiratory_failure,0,0,1,1,1,2170-09-22 13:12:00,,,incluido,,Sobrevivente sem reintubação
+25372752,acute_respiratory_failure,0,0,1,2,2,2148-10-26 16:15:00,,,excluido_multiplas_intubacoes,,
+24538029,acute_respiratory_failure,0,0,1,1,1,2149-03-16 10:50:00,,,incluido,,Sobrevivente sem reintubação
+29185410,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24231556,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27647415,acute_respiratory_failure,0,0,1,1,1,2116-11-04 17:40:00,,0.25,incluido,,Reintubado
+24899302,acute_respiratory_failure,1,1,2,1,2,2165-01-21 16:55:00,353.3333333333333,21.333333333333332,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+24563167,acute_respiratory_failure,0,0,1,1,1,2159-05-14 11:37:00,,,incluido,,Sobrevivente sem reintubação
+22008022,acute_respiratory_failure,0,0,1,1,1,2147-10-04 09:05:00,,,incluido,,Sobrevivente sem reintubação
+22698286,acute_respiratory_failure,0,0,1,1,1,2148-10-17 15:30:00,,,incluido,,Sobrevivente sem reintubação
+23678447,acute_respiratory_failure,0,0,1,1,1,2142-10-02 13:40:00,,,incluido,,Sobrevivente sem reintubação
+27351779,acute_respiratory_failure,0,0,1,1,1,2157-07-19 18:45:00,,,incluido,,Sobrevivente sem reintubação
+21876518,acute_respiratory_failure,0,0,1,1,1,2122-03-29 10:00:00,,,incluido,,Sobrevivente sem reintubação
+23218450,acute_respiratory_failure,0,0,1,1,1,2118-05-13 15:18:00,,,incluido,,Sobrevivente sem reintubação
+20752799,acute_respiratory_failure,1,0,1,1,1,2155-08-28 20:34:00,1.2666666666666666,,excluido_regra1_obito_precoce,,
+28379550,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+26871551,acute_respiratory_failure,0,0,1,1,2,2180-09-14 14:25:00,,93.08333333333333,incluido,,Reintubado
+29273573,acute_respiratory_failure,0,0,1,1,1,2160-05-15 06:59:00,,,incluido,,Sobrevivente sem reintubação
+26757969,acute_respiratory_failure,0,0,1,1,1,2137-08-08 18:59:00,,,incluido,,Sobrevivente sem reintubação
+24036909,acute_respiratory_failure,0,0,1,1,2,2171-03-20 18:00:00,,9.0,incluido,,Reintubado
+26570962,acute_respiratory_failure,0,0,1,1,1,2153-06-07 14:30:00,,,incluido,,Sobrevivente sem reintubação
+23794654,acute_respiratory_failure,1,0,1,1,1,2122-10-21 23:26:00,23.9,,incluido,,Óbito
+25071695,acute_respiratory_failure,0,0,1,1,1,2193-02-20 09:30:00,,,incluido,,Sobrevivente sem reintubação
+23703432,acute_respiratory_failure,0,0,1,1,1,2115-04-25 10:58:00,,,incluido,,Sobrevivente sem reintubação
+23985116,acute_respiratory_failure,0,0,1,1,1,2115-05-18 11:32:00,,,incluido,,Sobrevivente sem reintubação
+20558705,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21345439,acute_respiratory_failure,0,0,1,1,1,2182-03-01 12:11:00,,,incluido,,Sobrevivente sem reintubação
+26898306,acute_respiratory_failure,0,0,1,1,1,2182-06-12 12:35:00,,,incluido,,Sobrevivente sem reintubação
+26836087,acute_respiratory_failure,1,0,1,1,1,2180-12-26 10:20:00,59.5,,incluido,,Óbito
+28174033,acute_respiratory_failure,0,0,1,1,2,2163-12-11 14:32:00,,42.46666666666667,incluido,,Reintubado
+21490359,acute_respiratory_failure,1,0,1,1,1,2162-04-18 13:55:00,25.083333333333332,,incluido,,Óbito
+25816541,acute_respiratory_failure,0,0,1,1,1,2118-10-11 16:12:00,,,incluido,,Sobrevivente sem reintubação
+23698269,acute_respiratory_failure,0,0,1,1,1,2132-11-14 10:51:00,,,incluido,,Sobrevivente sem reintubação
+29832980,acute_respiratory_failure,0,0,1,1,1,2151-01-18 10:58:00,,,incluido,,Sobrevivente sem reintubação
+20268926,acute_respiratory_failure,0,0,1,1,1,2162-03-17 17:15:00,,,incluido,,Sobrevivente sem reintubação
+26714766,acute_respiratory_failure,1,0,1,1,1,2114-06-10 16:18:00,0.1,,excluido_regra1_obito_precoce,,
+27115916,acute_respiratory_failure,0,0,1,1,1,2158-11-27 07:57:00,,,incluido,,Sobrevivente sem reintubação
+25858835,acute_respiratory_failure,1,0,1,1,1,2184-10-09 16:53:00,0.95,,excluido_regra1_obito_precoce,,
+28788158,acute_respiratory_failure,0,0,1,1,1,2155-12-26 07:50:00,,,incluido,,Sobrevivente sem reintubação
+21072445,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+27322690,acute_respiratory_failure,0,0,1,1,1,2188-08-17 12:35:00,,,incluido,,Sobrevivente sem reintubação
+25863161,acute_respiratory_failure,0,0,1,2,2,2165-07-29 13:49:00,,,excluido_multiplas_intubacoes,,
+28087889,acute_respiratory_failure,0,1,3,1,3,2117-06-26 13:28:00,,150.55,excluido_regra2_desfecho_tardio,reintubação >120 h,
+27986146,acute_respiratory_failure,0,0,1,1,1,2159-02-18 11:10:00,,,incluido,,Sobrevivente sem reintubação
+25673056,acute_respiratory_failure,0,0,1,1,1,2137-05-05 11:25:00,,,incluido,,Sobrevivente sem reintubação
+20065753,acute_respiratory_failure,0,0,1,1,1,2122-03-04 11:30:00,,,incluido,,Sobrevivente sem reintubação
+21337451,acute_respiratory_failure,1,0,1,1,1,2130-06-14 15:07:00,0.0,,excluido_regra1_obito_precoce,,
+25522526,acute_respiratory_failure,0,1,2,0,1,2188-10-08 09:28:00,,40.016666666666666,incluido,,Reintubado
+23115832,acute_respiratory_failure,0,0,1,1,2,2141-08-07 14:51:00,,7.683333333333334,incluido,,Reintubado
+20622118,acute_respiratory_failure,0,1,2,1,2,2121-04-04 11:20:00,,60.083333333333336,incluido,,Reintubado
+24686302,acute_respiratory_failure,0,0,1,1,1,2129-09-28 10:55:00,,,incluido,,Sobrevivente sem reintubação
+23965687,acute_respiratory_failure,0,0,1,1,1,2189-03-04 10:40:00,,,incluido,,Sobrevivente sem reintubação
+20750856,acute_respiratory_failure,1,0,1,1,1,2119-04-27 13:02:00,1.0333333333333334,,excluido_regra1_obito_precoce,,
+23589574,acute_respiratory_failure,0,0,1,1,1,2186-08-30 09:00:00,,,incluido,,Sobrevivente sem reintubação
+28038295,acute_respiratory_failure,1,0,1,1,1,2160-04-10 00:15:00,29.133333333333333,,incluido,,Óbito
+22416510,acute_respiratory_failure,0,0,1,1,1,2177-11-08 15:15:00,,,incluido,,Sobrevivente sem reintubação
+26013322,acute_respiratory_failure,0,0,1,1,1,2171-11-01 13:00:00,,,incluido,,Sobrevivente sem reintubação
+27093579,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24023051,acute_respiratory_failure,0,0,1,1,2,2168-03-31 17:36:00,,3.4,incluido,,Reintubado
+25308148,acute_respiratory_failure,0,0,1,1,1,2130-12-10 14:56:00,,,incluido,,Sobrevivente sem reintubação
+26476649,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21069275,acute_respiratory_failure,0,0,1,1,1,2133-12-27 11:56:00,,,incluido,,Sobrevivente sem reintubação
+29394458,acute_respiratory_failure,0,0,1,1,1,2135-10-09 12:15:00,,,incluido,,Sobrevivente sem reintubação
+25791746,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+20040940,acute_respiratory_failure,0,0,1,1,1,2170-02-06 09:34:00,,,incluido,,Sobrevivente sem reintubação
+27986791,acute_respiratory_failure,0,0,1,1,1,2127-06-22 09:10:00,,,incluido,,Sobrevivente sem reintubação
+29983439,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+21398294,acute_respiratory_failure,0,0,1,1,1,2138-04-16 12:40:00,,,incluido,,Sobrevivente sem reintubação
+20612648,acute_respiratory_failure,0,0,1,1,1,2183-06-12 22:08:00,,,incluido,,Sobrevivente sem reintubação
+25972690,acute_respiratory_failure,0,0,1,1,1,2126-08-06 11:46:00,,,incluido,,Sobrevivente sem reintubação
+29356798,acute_respiratory_failure,0,0,1,1,1,2146-10-02 11:12:00,,,incluido,,Sobrevivente sem reintubação
+22425022,acute_respiratory_failure,0,1,2,1,2,2141-09-22 09:28:00,,1.6166666666666667,incluido,,Reintubado
+23418362,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28381073,acute_respiratory_failure,0,0,1,1,1,2122-12-09 05:30:00,,,incluido,,Sobrevivente sem reintubação
+28035382,acute_respiratory_failure,1,0,1,1,1,2165-05-10 18:37:00,0.0,,excluido_regra1_obito_precoce,,
+29767176,acute_respiratory_failure,0,0,1,1,1,2186-02-15 09:30:00,,,incluido,,Sobrevivente sem reintubação
+20575000,acute_respiratory_failure,0,0,1,1,1,2138-01-07 14:10:00,,,incluido,,Sobrevivente sem reintubação
+22699198,acute_respiratory_failure,0,0,1,1,1,2144-01-13 17:05:00,,,incluido,,Sobrevivente sem reintubação
+27933169,acute_respiratory_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+20738158,acute_respiratory_failure,0,0,1,1,1,2140-12-31 20:38:00,,,incluido,,Sobrevivente sem reintubação
+28885110,acute_respiratory_failure,0,0,1,1,1,2134-10-22 09:30:00,,,incluido,,Sobrevivente sem reintubação
+29376397,acute_respiratory_failure,0,0,1,1,1,2130-03-07 10:35:00,,0.6666666666666666,incluido,,Reintubado
+27690999,acute_respiratory_failure,0,0,1,1,1,2157-06-12 14:45:00,,,incluido,,Sobrevivente sem reintubação
+27323662,acute_respiratory_failure,0,0,1,1,1,2149-04-09 09:45:00,,,incluido,,Sobrevivente sem reintubação
+23659006,acute_respiratory_failure,0,0,1,1,1,2185-12-25 15:16:00,,,incluido,,Sobrevivente sem reintubação
+20871174,acute_respiratory_failure,0,1,2,1,2,2148-06-04 11:30:00,,12.25,incluido,,Reintubado
+21897397,acute_respiratory_failure,1,0,1,1,1,2116-07-08 14:57:00,44.96666666666667,,incluido,,Óbito
+21842517,acute_respiratory_failure,0,0,1,1,1,2128-11-10 13:32:00,,,incluido,,Sobrevivente sem reintubação
+29618262,acute_respiratory_failure,0,0,1,1,1,2187-12-14 08:50:00,,,incluido,,Sobrevivente sem reintubação
+21600947,acute_respiratory_failure,1,0,1,1,1,2158-06-03 14:55:00,111.08333333333333,,incluido,,Óbito
+23306518,acute_respiratory_failure,0,1,2,1,2,2157-10-07 11:35:00,,42.166666666666664,incluido,,Reintubado
+22933304,acute_respiratory_failure,0,0,1,1,1,2174-04-09 14:45:00,,,incluido,,Sobrevivente sem reintubação
+21633271,acute_respiratory_failure,1,1,2,1,2,2146-10-03 15:40:00,358.3333333333333,1.3333333333333333,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+23378172,acute_respiratory_failure,0,0,1,1,3,2157-11-07 10:05:00,,290.9166666666667,excluido_regra2_desfecho_tardio,reintubação >120 h,
+27173448,acute_respiratory_failure,0,0,1,1,1,2157-10-31 10:18:00,,,incluido,,Sobrevivente sem reintubação
+20188578,acute_respiratory_failure,0,0,1,1,1,2178-07-13 08:00:00,,,incluido,,Sobrevivente sem reintubação
+24947190,acute_respiratory_failure,0,0,1,1,1,2175-07-10 13:06:00,,,incluido,,Sobrevivente sem reintubação
+26850164,acute_respiratory_failure,0,0,1,1,1,2119-08-07 14:15:00,,,incluido,,Sobrevivente sem reintubação
+23616000,acute_respiratory_failure,1,0,1,1,1,2146-06-01 15:45:00,88.0,,incluido,,Óbito
+25458083,acute_respiratory_failure,0,1,2,1,2,2176-06-08 02:57:00,,29.05,incluido,,Reintubado
+24354880,acute_respiratory_failure,0,0,1,1,1,2157-01-18 16:20:00,,,incluido,,Sobrevivente sem reintubação
+23048554,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25530716,acute_respiratory_failure,1,1,2,1,1,2141-07-17 17:00:00,188.33333333333334,0.3333333333333333,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+28311286,acute_respiratory_failure,0,0,1,1,1,2117-03-13 08:50:00,,,incluido,,Sobrevivente sem reintubação
+27696762,acute_respiratory_failure,0,0,1,1,1,2141-06-22 17:54:00,,,incluido,,Sobrevivente sem reintubação
+23809688,acute_respiratory_failure,0,0,1,1,1,2180-04-03 15:07:00,,,incluido,,Sobrevivente sem reintubação
+24248394,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26179519,acute_respiratory_failure,0,0,1,1,1,2115-10-27 22:03:00,,,incluido,,Sobrevivente sem reintubação
+27871083,acute_respiratory_failure,0,0,1,1,1,2115-12-14 12:15:00,,,incluido,,Sobrevivente sem reintubação
+23823649,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+22999867,acute_respiratory_failure,1,1,2,1,2,2197-03-16 10:00:00,173.16666666666666,31.033333333333335,excluido_regra2_desfecho_tardio,morte >120 h após reintubação ≤120 h,
+25415274,acute_respiratory_failure,0,0,1,1,1,2162-09-08 10:40:00,,,incluido,,Sobrevivente sem reintubação
+21879374,acute_respiratory_failure,0,0,1,1,1,2166-05-09 17:06:00,,,incluido,,Sobrevivente sem reintubação
+29755440,acute_respiratory_failure,0,0,1,1,1,2185-11-22 10:20:00,,,incluido,,Sobrevivente sem reintubação
+29150283,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24318678,acute_respiratory_failure,0,0,1,1,1,2136-02-14 03:00:00,,,incluido,,Sobrevivente sem reintubação
+29795162,acute_respiratory_failure,0,0,1,1,1,2159-03-04 12:17:00,,,incluido,,Sobrevivente sem reintubação
+26060667,acute_respiratory_failure,0,0,1,1,1,2138-07-03 09:55:00,,,incluido,,Sobrevivente sem reintubação
+21264675,acute_respiratory_failure,0,0,1,1,1,2113-02-09 14:58:00,,,incluido,,Sobrevivente sem reintubação
+21189698,acute_respiratory_failure,0,0,1,1,1,2160-06-17 13:08:00,,,incluido,,Sobrevivente sem reintubação
+21595401,acute_respiratory_failure,0,0,1,1,1,2151-01-10 17:46:00,,,incluido,,Sobrevivente sem reintubação
+27904940,acute_respiratory_failure,1,1,2,1,2,2155-04-19 13:03:00,343.98333333333335,201.86666666666667,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+27027575,acute_respiratory_failure,0,0,1,1,1,2201-02-07 08:44:00,,,incluido,,Sobrevivente sem reintubação
+24016655,acute_respiratory_failure,1,0,0,0,2,,,,excluido_sem_extubacao,,
+26203718,acute_respiratory_failure,0,0,1,1,1,2133-02-22 14:32:00,,,incluido,,Sobrevivente sem reintubação
+21663445,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+25983525,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24741823,acute_respiratory_failure,0,0,1,1,1,2113-06-20 02:25:00,,,incluido,,Sobrevivente sem reintubação
+20906586,acute_respiratory_failure,1,1,2,1,2,2163-05-30 16:05:00,68.33333333333333,67.25,incluido,,Reintubado e óbito
+27284862,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+25590901,acute_respiratory_failure,0,0,1,1,1,2121-02-01 15:53:00,,,incluido,,Sobrevivente sem reintubação
+21517503,acute_respiratory_failure,0,0,1,1,1,2175-12-01 14:53:00,,,incluido,,Sobrevivente sem reintubação
+21636156,acute_respiratory_failure,0,0,1,1,2,2176-12-18 16:20:00,,58.266666666666666,incluido,,Reintubado
+26391140,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26119621,acute_respiratory_failure,1,0,1,1,2,2172-05-30 17:57:00,18.583333333333332,18.466666666666665,incluido,,Reintubado e óbito
+26202880,acute_respiratory_failure,0,1,2,1,1,2114-02-13 00:15:00,,0.25,incluido,,Reintubado
+21237030,acute_respiratory_failure,1,0,1,1,2,2129-06-05 19:40:00,210.2,122.08333333333333,excluido_regra2_desfecho_tardio,morte e reintubação >120 h,
+24849809,acute_respiratory_failure,0,1,2,1,2,2181-03-17 15:40:00,,4.833333333333333,incluido,,Reintubado
+21729339,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+23609836,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+28565267,acute_respiratory_failure,0,0,1,1,2,2118-12-07 11:17:00,,54.71666666666667,incluido,,Reintubado
+27355975,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+24942188,acute_respiratory_failure,1,0,0,0,0,,,,excluido_sem_extubacao,,
+24646975,acute_respiratory_failure,0,1,2,1,2,2131-03-20 11:45:00,,3.6666666666666665,incluido,,Reintubado
+29683686,acute_respiratory_failure,0,0,1,1,1,2131-11-04 08:10:00,,,incluido,,Sobrevivente sem reintubação
+22914145,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+26110742,acute_respiratory_failure,0,0,1,1,1,2174-07-20 00:00:00,,,incluido,,Sobrevivente sem reintubação
+29892428,acute_respiratory_failure,0,0,1,1,1,2127-11-16 17:30:00,,0.5833333333333334,incluido,,Reintubado
+23886623,acute_respiratory_failure,0,0,1,1,1,2194-10-30 08:20:00,,,incluido,,Sobrevivente sem reintubação
+20267759,acute_respiratory_failure,0,1,2,1,2,2118-09-16 11:36:00,,231.06666666666666,excluido_regra2_desfecho_tardio,reintubação >120 h,
+21472938,acute_respiratory_failure,0,0,1,1,1,2145-02-24 10:05:00,,,incluido,,Sobrevivente sem reintubação
+28211098,acute_respiratory_failure,1,0,0,0,1,,,,excluido_sem_extubacao,,
+28333468,acute_respiratory_failure,0,0,1,1,2,2150-12-08 09:30:00,,195.0,excluido_regra2_desfecho_tardio,reintubação >120 h,
+21135114,acute_respiratory_failure,0,0,1,1,1,2178-10-22 14:54:00,,,incluido,,Sobrevivente sem reintubação
+24492004,acute_respiratory_failure,0,0,1,1,1,2178-10-02 08:32:00,,,incluido,,Sobrevivente sem reintubação
+20175828,acute_respiratory_failure,0,0,1,1,1,2197-08-07 09:20:00,,,incluido,,Sobrevivente sem reintubação
